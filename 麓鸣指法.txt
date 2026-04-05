@@ -1,5 +1,5 @@
-rg=o
-hu=o
+rg=E
+hu=I
 qe=~
 ip=~
 ad=`
@@ -154,6 +154,7 @@ n=b
 m,=m
 m.=n
 n.=N
+n,=N
 ,.=,
 nm=B
 /h=B
