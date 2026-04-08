@@ -147,7 +147,7 @@ mkl=V
 xg=V
 ,h=V
 .h=U
-sz=V
+sz=@
 l/=V
 ax=$1
 wt=Y
@@ -232,3 +232,6 @@ nm=U
 ;.='
 zg=U
 vb='
+-=-
+/==/=
+\=\
