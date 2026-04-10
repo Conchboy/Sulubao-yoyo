@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -968,9 +968,10 @@ namespace Core.Win
                     if (Input.IsPressShift)
                         {
 
-                            if (InputStatus.inputstr.Length > 0 && Input.CheckCode(keystring) && keystring.Length > 0)
+                            if (InputStatus.inputstr.Length > 0 && keystring.Length > 0)
                             {
-                                // 直接发送字母，不执行ShangPing，因为用户已经通过空格上屏了想要的字词
+                                // 当有候选但没有上屏时，按下Shift+任意键会先上屏首选，然后发送字符
+                                InputStatus.ShangPing(1);
                                 InputStatus.Clear();
                                 InputStatusFrm.SendText(keystring, "", Input.IsChinese == 2);
                                 return 1;
