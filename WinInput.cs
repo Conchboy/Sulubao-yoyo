@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -967,12 +967,14 @@ namespace Core.Win
                     keystring = Input.CheckKeysString(keyData);
                     if (Input.IsPressShift)
                         {
-
-                            if (InputStatus.inputstr.Length > 0 && keystring.Length > 0)
+                            // 直接发送字符，不执行ShangPing(1)，因为用户已经通过空格上屏了
+                            if (keystring.Length > 0)
                             {
-                                // 当有候选但没有上屏时，按下Shift+任意键会先上屏首选，然后发送字符
-                                InputStatus.ShangPing(1);
-                                InputStatus.Clear();
+                                // 清空输入缓存，避免后续处理
+                                if (InputStatus.inputstr.Length > 0)
+                                {
+                                    InputStatus.Clear();
+                                }
                                 InputStatusFrm.SendText(keystring, "", Input.IsChinese == 2);
                                 return 1;
                             }
@@ -2102,6 +2104,7 @@ namespace Core.Win
             {
                 //当是单独空格的时候
                 InputStatus.ShangPing(1);
+                InputStatus.Clear();
 
                 var objen = Input.mapkeys.Find(f => f.ZM == "aseclp");
                 if (objen != null) objen.keydown++;
