@@ -967,14 +967,21 @@ namespace Core.Win
                     keystring = Input.CheckKeysString(keyData);
                     if (Input.IsPressShift)
                         {
-                            // 直接发送字符，不执行ShangPing(1)，因为用户已经通过空格上屏了
                             if (keystring.Length > 0)
                             {
-                                // 清空输入缓存，避免后续处理
-                                if (InputStatus.inputstr.Length > 0)
+                                if (InputStatus.inputstr.Length > 0 && !InputStatusFrm.LSView)
                                 {
+                                    // 只有候选没有上屏时（LSView == false），先上屏首选，然后发送字母
+                                    InputStatus.ShangPing(1);
                                     InputStatus.Clear();
                                 }
+                                else if (InputStatus.inputstr.Length > 0 && InputStatusFrm.LSView)
+                                {
+                                    // 当已经上屏但候选框还在时（LSView == true），只发送字母，不上屏首选
+                                    // 清空输入缓存，避免后续选重操作有问题
+                                    InputStatus.Clear();
+                                }
+                                // 无论是否有候选，都发送字母
                                 InputStatusFrm.SendText(keystring, "", Input.IsChinese == 2);
                                 return 1;
                             }
