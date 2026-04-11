@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -1903,11 +1903,20 @@ namespace Core.Win
                     }
                     else if (srinput == "Z$" && hleft)
                     {
-                        //造词
+                        //造词 - 单例模式
 
-                        UserDict frm = new UserDict(Input, this, InputStatusFrm.LastLinkCodeString, InputStatusFrm.LastLinkString);
-                        frm.TopMost = true;
-                        frm.Show();
+                        if (UserDict.Instance == null)
+                        {
+                            UserDict frm = new UserDict(Input, this, InputStatusFrm.LastLinkCodeString, InputStatusFrm.LastLinkString);
+                            frm.TopMost = true;
+                            frm.Show();
+                        }
+                        else
+                        {
+                            // 如果已经打开，则激活已有窗口
+                            UserDict.Instance.BringToFront();
+                            UserDict.Instance.Activate();
+                        }
 
                         return;
                     }
@@ -3442,9 +3451,17 @@ namespace Core.Win
         /// <param name="e"></param>
         private void UserDictM(object sender, System.EventArgs e)
         {
- 
-            Win.UserDict frm = new UserDict(Input,this);
-            frm.ShowDialog();
+            if (UserDict.Instance == null)
+            {
+                Win.UserDict frm = new UserDict(Input,this);
+                frm.ShowDialog();
+            }
+            else
+            {
+                // 如果已经打开，则激活已有窗口
+                UserDict.Instance.BringToFront();
+                UserDict.Instance.Activate();
+            }
         }
 
         /// <summary>
