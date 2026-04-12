@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -318,6 +318,7 @@ namespace Core.Win
             InputMode.autodata = string.IsNullOrEmpty(SetInfo.GetValue("autodata", setting)) ? true : bool.Parse(SetInfo.GetValue("autodata", setting));
             InputMode.useregular = string.IsNullOrEmpty(SetInfo.GetValue("useregular", setting)) ? false : bool.Parse(SetInfo.GetValue("useregular", setting));
             InputMode.smautoadd = string.IsNullOrEmpty(SetInfo.GetValue("smautoadd", setting)) ? false : bool.Parse(SetInfo.GetValue("smautoadd", setting));
+            InputMode.ViewType = string.IsNullOrEmpty(SetInfo.GetValue("ViewType", setting)) ? 0 : int.Parse(SetInfo.GetValue("ViewType", setting));
             Input.mapstr1 = string.IsNullOrEmpty(SetInfo.GetValue("leftkeys", setting))
                        ? "~1qaz2wsx3edc4rfv5tgb6"
                        : SetInfo.GetValue("leftkeys", setting);
@@ -474,6 +475,7 @@ namespace Core.Win
             set.Add("autodata=" + InputMode.autodata);
             set.Add("useregular=" + InputMode.useregular);
             set.Add("smautoadd=" + InputMode.smautoadd);
+            set.Add("ViewType=" + InputMode.ViewType);
             set.Add("leftkeys=" + Input.mapstr1);
             set.Add("rightkeys=" + Input.mapstr2);
             File.WriteAllLines(Input.SettingPath, set.ToArray(), Encoding.UTF8);//保存配置
@@ -1733,11 +1735,37 @@ namespace Core.Win
                 {
                     string lastinput = InputStatus.pinputstr;
                     InputStatus.ShangPing(int.Parse(srinput.Substring(0, 1)), InputStatusFrm.Dream ? InputStatusFrm.LastLinkString.Length : 0);
-                    if (InputMode.tautopos && lastinput.Length >= 2)
+                    if (InputMode.autopos && lastinput.Length >= 2)
                     {
                         Task us = new Task(() =>
                         {
-                            Input.UpdatePos(lastinput, int.Parse(srinput.Substring(0, 1)), InputStatus.PageNum, InputStatus.PageSize);
+                            if (Input.UpdatePos(lastinput, int.Parse(srinput.Substring(0, 1)), InputStatus.PageNum, InputStatus.PageSize))
+                            {
+                                if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
+                                {
+                                    var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
+                                    DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
+                                }
+                                if (DictEdit.orderby)
+                                {
+                                    //保存词库
+                                    List<string> dlist = new List<string>();
+                                    var iteml = Input.MasterDit.ToList();
+                                    foreach (var ind in Input.DictIndex.IndexList)
+                                    {
+                                        var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
+                                        if (item != null) dlist.AddRange(item);
+                                        if (ind.mdict != null && ind.mdict.Length > 0)
+                                            dlist.AddRange(ind.mdict.ToList());
+                                    }
+                                    File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
+                                    DictEdit.orderby = false;
+                                }
+                                else
+                                {
+                                    File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
+                                }
+                            }
                         });
                         us.Start();
 
@@ -1748,11 +1776,37 @@ namespace Core.Win
                 {
                     string lastinput = InputStatus.pinputstr;
                     InputStatus.ShangPing(int.Parse(srinput.Substring(1, 1)), InputStatusFrm.Dream ? InputStatusFrm.LastLinkString.Length : 0);
-                    if (InputMode.tautopos && lastinput.Length >= 2)
+                    if (InputMode.autopos && lastinput.Length >= 2)
                     {
                         Task us = new Task(() =>
                         {
-                            Input.UpdatePos(lastinput, int.Parse(srinput.Substring(1, 1)), InputStatus.PageNum, InputStatus.PageSize);
+                            if (Input.UpdatePos(lastinput, int.Parse(srinput.Substring(1, 1)), InputStatus.PageNum, InputStatus.PageSize))
+                            {
+                                if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
+                                {
+                                    var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
+                                    DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
+                                }
+                                if (DictEdit.orderby)
+                                {
+                                    //保存词库
+                                    List<string> dlist = new List<string>();
+                                    var iteml = Input.MasterDit.ToList();
+                                    foreach (var ind in Input.DictIndex.IndexList)
+                                    {
+                                        var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
+                                        if (item != null) dlist.AddRange(item);
+                                        if (ind.mdict != null && ind.mdict.Length > 0)
+                                            dlist.AddRange(ind.mdict.ToList());
+                                    }
+                                    File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
+                                    DictEdit.orderby = false;
+                                }
+                                else
+                                {
+                                    File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
+                                }
+                            }
                         });
                         us.Start();
 
@@ -1780,44 +1834,45 @@ namespace Core.Win
                 else if (allNum && (srinput.Length == 1 || InputStatusFrm.Dream))
                 {
 
-                    if (InputMode.autopos && InputStatus.inputstr.Length >= 2 && (srinput != "1" || InputStatus.PageNum > 1))
-                    {
-                        if (Input.UpdatePos(InputStatus.inputstr, trynum, InputStatus.PageNum, InputStatus.PageSize))
-                        {
-                            Task us = new Task(() =>
-                              {
-                                  if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
-                                  {
-                                      var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
+                    // 普通数字选码不再调频，只上屏
+                    // if (InputMode.autopos && InputStatus.inputstr.Length >= 2 && (srinput != "1" || InputStatus.PageNum > 1))
+                    // {
+                    //     if (Input.UpdatePos(InputStatus.inputstr, trynum, InputStatus.PageNum, InputStatus.PageSize))
+                    //     {
+                    //         Task us = new Task(() =>
+                    //           {
+                    //               if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
+                    //               {
+                    //                   var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
 
-                                      DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
+                    //                   DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
 
-                                  }
-                                  if (DictEdit.orderby)
-                                  {
-                                      //保存词库
-                                      List<string> dlist = new List<string>();
-                                      var iteml = Input.MasterDit.ToList();
+                    //               }
+                    //               if (DictEdit.orderby)
+                    //               {
+                    //                   //保存词库
+                    //                   List<string> dlist = new List<string>();
+                    //                   var iteml = Input.MasterDit.ToList();
 
-                                      foreach (var ind in Input.DictIndex.IndexList)
-                                      {
-                                          var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
-                                          if (item != null) dlist.AddRange(item);
-                                          if (ind.mdict != null && ind.mdict.Length > 0)
-                                              dlist.AddRange(ind.mdict.ToList());
-                                      }
+                    //                   foreach (var ind in Input.DictIndex.IndexList)
+                    //                   {
+                    //                       var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
+                    //                       if (item != null) dlist.AddRange(item);
+                    //                       if (ind.mdict != null && ind.mdict.Length > 0)
+                    //                           dlist.AddRange(ind.mdict.ToList());
+                    //                   }
 
-                                      File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
-                                      DictEdit.orderby = false;
-                                  }
-                                  else
-                                  {
-                                      File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
-                                  }
-                              });
-                            us.Start();
-                        }
-                    }
+                    //                   File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
+                    //                   DictEdit.orderby = false;
+                    //               }
+                    //               else
+                    //               {
+                    //                   File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
+                    //               }
+                    //           });
+                    //         us.Start();
+                    //     }
+                    // }
                     //数字选重
                     InputStatus.ShangPing(trynum, InputStatusFrm.Dream ? InputStatusFrm.LastLinkString.Length : 0);
 
@@ -2664,7 +2719,7 @@ namespace Core.Win
                                 InputStatus.Top = this.Top - 25;
                             }
                             curPoint.Y = InputStatus.Top;
-                            if (InputStatus.ViewType == 1)
+                            if (InputMode.ViewType == 1)
                             {
 
                                 if (curPoint.Y > Screen.PrimaryScreen.WorkingArea.Height - InputStatus.Height - 10 - 25)
