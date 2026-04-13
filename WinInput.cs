@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -1735,37 +1735,11 @@ namespace Core.Win
                 {
                     string lastinput = InputStatus.pinputstr;
                     InputStatus.ShangPing(int.Parse(srinput.Substring(0, 1)), InputStatusFrm.Dream ? InputStatusFrm.LastLinkString.Length : 0);
-                    if (InputMode.autopos && lastinput.Length >= 2)
+                    if (InputMode.tautopos && lastinput.Length >= 2)
                     {
                         Task us = new Task(() =>
                         {
-                            if (Input.UpdatePos(lastinput, int.Parse(srinput.Substring(0, 1)), InputStatus.PageNum, InputStatus.PageSize))
-                            {
-                                if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
-                                {
-                                    var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
-                                    DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
-                                }
-                                if (DictEdit.orderby)
-                                {
-                                    //保存词库
-                                    List<string> dlist = new List<string>();
-                                    var iteml = Input.MasterDit.ToList();
-                                    foreach (var ind in Input.DictIndex.IndexList)
-                                    {
-                                        var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
-                                        if (item != null) dlist.AddRange(item);
-                                        if (ind.mdict != null && ind.mdict.Length > 0)
-                                            dlist.AddRange(ind.mdict.ToList());
-                                    }
-                                    File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
-                                    DictEdit.orderby = false;
-                                }
-                                else
-                                {
-                                    File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
-                                }
-                            }
+                            Input.UpdatePos(lastinput, int.Parse(srinput.Substring(0, 1)), InputStatus.PageNum, InputStatus.PageSize);
                         });
                         us.Start();
 
@@ -1776,37 +1750,11 @@ namespace Core.Win
                 {
                     string lastinput = InputStatus.pinputstr;
                     InputStatus.ShangPing(int.Parse(srinput.Substring(1, 1)), InputStatusFrm.Dream ? InputStatusFrm.LastLinkString.Length : 0);
-                    if (InputMode.autopos && lastinput.Length >= 2)
+                    if (InputMode.tautopos && lastinput.Length >= 2)
                     {
                         Task us = new Task(() =>
                         {
-                            if (Input.UpdatePos(lastinput, int.Parse(srinput.Substring(1, 1)), InputStatus.PageNum, InputStatus.PageSize))
-                            {
-                                if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
-                                {
-                                    var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
-                                    DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
-                                }
-                                if (DictEdit.orderby)
-                                {
-                                    //保存词库
-                                    List<string> dlist = new List<string>();
-                                    var iteml = Input.MasterDit.ToList();
-                                    foreach (var ind in Input.DictIndex.IndexList)
-                                    {
-                                        var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
-                                        if (item != null) dlist.AddRange(item);
-                                        if (ind.mdict != null && ind.mdict.Length > 0)
-                                            dlist.AddRange(ind.mdict.ToList());
-                                    }
-                                    File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
-                                    DictEdit.orderby = false;
-                                }
-                                else
-                                {
-                                    File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
-                                }
-                            }
+                            Input.UpdatePos(lastinput, int.Parse(srinput.Substring(1, 1)), InputStatus.PageNum, InputStatus.PageSize);
                         });
                         us.Start();
 
@@ -1834,45 +1782,44 @@ namespace Core.Win
                 else if (allNum && (srinput.Length == 1 || InputStatusFrm.Dream))
                 {
 
-                    // 普通数字选码不再调频，只上屏
-                    // if (InputMode.autopos && InputStatus.inputstr.Length >= 2 && (srinput != "1" || InputStatus.PageNum > 1))
-                    // {
-                    //     if (Input.UpdatePos(InputStatus.inputstr, trynum, InputStatus.PageNum, InputStatus.PageSize))
-                    //     {
-                    //         Task us = new Task(() =>
-                    //           {
-                    //               if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
-                    //               {
-                    //                   var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
+                    if (InputMode.autopos && InputStatus.inputstr.Length >= 2 && (srinput != "1" || InputStatus.PageNum > 1))
+                    {
+                        if (Input.UpdatePos(InputStatus.inputstr, trynum, InputStatus.PageNum, InputStatus.PageSize))
+                        {
+                            Task us = new Task(() =>
+                              {
+                                  if (DictEdit.orderby && File.Exists(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp")))
+                                  {
+                                      var setting = File.ReadAllLines(System.IO.Path.Combine(InputMode.AppPath, "dict", InputMode.CDPath, "Setting.shp"), Encoding.UTF8);//读配置
 
-                    //                   DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
+                                      DictEdit.orderby = string.IsNullOrEmpty(SetInfo.GetValue("orderby", setting)) ? true : bool.Parse(SetInfo.GetValue("orderby", setting));
 
-                    //               }
-                    //               if (DictEdit.orderby)
-                    //               {
-                    //                   //保存词库
-                    //                   List<string> dlist = new List<string>();
-                    //                   var iteml = Input.MasterDit.ToList();
+                                  }
+                                  if (DictEdit.orderby)
+                                  {
+                                      //保存词库
+                                      List<string> dlist = new List<string>();
+                                      var iteml = Input.MasterDit.ToList();
 
-                    //                   foreach (var ind in Input.DictIndex.IndexList)
-                    //                   {
-                    //                       var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
-                    //                       if (item != null) dlist.AddRange(item);
-                    //                       if (ind.mdict != null && ind.mdict.Length > 0)
-                    //                           dlist.AddRange(ind.mdict.ToList());
-                    //                   }
+                                      foreach (var ind in Input.DictIndex.IndexList)
+                                      {
+                                          var item = iteml.FindAll(f => f.Split(' ')[0] == ind.Letter);
+                                          if (item != null) dlist.AddRange(item);
+                                          if (ind.mdict != null && ind.mdict.Length > 0)
+                                              dlist.AddRange(ind.mdict.ToList());
+                                      }
 
-                    //                   File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
-                    //                   DictEdit.orderby = false;
-                    //               }
-                    //               else
-                    //               {
-                    //                   File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
-                    //               }
-                    //           });
-                    //         us.Start();
-                    //     }
-                    // }
+                                      File.WriteAllLines(Input.MasterDitPath, dlist.ToArray(), Encoding.UTF8);
+                                      DictEdit.orderby = false;
+                                  }
+                                  else
+                                  {
+                                      File.WriteAllLines(Input.MasterDitPath, Input.MasterDit, Encoding.UTF8);
+                                  }
+                              });
+                            us.Start();
+                        }
+                    }
                     //数字选重
                     InputStatus.ShangPing(trynum, InputStatusFrm.Dream ? InputStatusFrm.LastLinkString.Length : 0);
 
@@ -2775,42 +2722,35 @@ namespace Core.Win
         {
             if (curMouseTrac || curTrac || InputMode.imgsend)
             {
-
-                if (InputStatus.inputstr == "")
+                if (curMouseTrac)
                 {
-                    if (curMouseTrac)
+                    InputStatus.Top = this.Top + this.Height + 1;
+                    InputStatus.Left = this.Left;
+                }
+                else
+                {
+                    GetCurPos();
+
+                    if (curPoint.Y > 0)
                     {
+                        if (curPoint.Y != InputStatus.Top)
+                            InputStatus.Top = curPoint.Y;
 
-                        InputStatus.Top = this.Top + this.Height + 1;
-
-                        InputStatus.Left = this.Left;
+                        InputStatus.Left = curPoint.X + 10;
                     }
                     else
                     {
-                        GetCurPos();
-
-                        if (curPoint.Y > 0)
-                        {
-                            if (curPoint.Y  != InputStatus.Top)
-                                InputStatus.Top = curPoint.Y ;
-
-                            InputStatus.Left = curPoint.X + 10;
-                        }
-                        else
-                        {
-                            InputStatus.Left = this.Left + this.Width + 30;
-                            InputStatus.Top = this.Top + 5;
-                        }
+                        InputStatus.Left = this.Left + this.Width + 30;
+                        InputStatus.Top = this.Top + 5;
                     }
                 }
-
+                // 保存当前位置作为下一次的默认位置
+                InputStatus.SaveCurrentPosition();
             }
             else
             {
-                //InputStatus.Left = Screen.PrimaryScreen.WorkingArea.Width / 2 - 170;
-                //InputStatus.Top = this.Top;
-                InputStatus.Left = this.Left + this.Width + 30;
-                InputStatus.Top = this.Top + 5;
+                // 未启用光标/鼠标跟随，使用保存的位置
+                InputStatus.RestoreSavedPosition();
             }
         }
         #endregion
