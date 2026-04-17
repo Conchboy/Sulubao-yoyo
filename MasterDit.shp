@@ -906,8 +906,8 @@
 ,efx 现下
 ,egT 现役
 ,egx 现行
-,ej 现
 ,ejS 现实
+,ej 现
 ,ejZ 现案
 ,ekj 现今
 ,enQ 现洋
@@ -1778,8 +1778,8 @@
 .GUR 破败战线
 .H 破 破坏
 .H,W 破班
-.H.E 硼砂
 .H.Z 破碎
+.H.E 硼砂
 .H/l 破落
 .H/x 破处
 .H;X 破烂
@@ -4570,8 +4570,8 @@
 /yO, 业主
 /yPi 业已
 /yQh 业户
-/yRv 业经
 /yR！ 业绩
+/yRv 业经
 /ySx 业外
 /yTO 业态
 /yTd 业大
@@ -6366,73 +6366,72 @@
 :zrg 悄无声息
 :zu 怃
 :zwf 忖量
-:！ 情况
-:！ 情况
-:！,P 情理
-:！.a 情致
-:！/l 奚落
-:！:c 情怀
-:！:！ 情愫
-:！;f 情感
-:！AA 情书
-:！Ai 情爱
-:！D: 情思
-:！Db 情知
-:！Gv 情变
-:！H 情
-:！L: 情欲
-:！LC 情急
-:！LT 情色
-:！O; 情郎
-:！Ol 情义
-:！R 愫
-:！RC 情缘
-:！RJ 情结
-:！RR 情丝
-:！Rq 情绪
-:！S. 情韵
-:！S: 情意
-:！Sb 情况
-:！T 奚
-:！TO 情态
-:！VA 情场
-:！VS 情境
-:！ZC 情妇
-:！Zn 心静如水
-:！aA 情仇
-:！aa 情份
-:！ab 情侣
-:！af 情分
-:！a！ 情债
-:！bl 情史
-:！bz 情味
-:！cm 情面
-:！dF 情趣
-:！df 情夫
-:！fb 情事
-:！fp 情形
-:！ga 情敌
-:！hX 情商
-:！iY 情报
-:！ib 情操
-:！lD 情痴
-:！lo 情杀
-:！nC 情深
-:！pY 情节
-:！r< 情势
-:！rp 情迷
-:！rr 情人
-:！tR 情系
-:！tu 情切
-:！uF 情调
-:！uV 情诗
-:！ug 情话
-:！uj 情谊
-:！vV 情圣
-:！ws 情景
-:！xb 情种
-:！xx 情歌
-:！yd 情愿
+:! 情 情况
+:!,P 情理
+:!.a 情致
+:!/l 奚落
+:!:c 情怀
+:!:! 情愫
+:!;f 情感
+:!AA 情书
+:!Ai 情爱
+:!D: 情思
+:!Db 情知
+:!Gv 情变
+:!H 情
+:!L: 情欲
+:!LC 情急
+:!LT 情色
+:!O; 情郎
+:!Ol 情义
+:!R 愫
+:!RC 情缘
+:!RJ 情结
+:!RR 情丝
+:!Rq 情绪
+:!S. 情韵
+:!S: 情意
+:!Sb 情况
+:!T 奚
+:!TO 情态
+:!VA 情场
+:!VS 情境
+:!ZC 情妇
+:!Zn 心静如水
+:!aA 情仇
+:!aa 情份
+:!ab 情侣
+:!af 情分
+:!a! 情债
+:!bl 情史
+:!bz 情味
+:!cm 情面
+:!dF 情趣
+:!df 情夫
+:!fb 情事
+:!fp 情形
+:!ga 情敌
+:!hX 情商
+:!iY 情报
+:!ib 情操
+:!lD 情痴
+:!lo 情杀
+:!nC 情深
+:!pY 情节
+:!r< 情势
+:!rp 情迷
+:!rr 情人
+:!tR 情系
+:!tu 情切
+:!uF 情调
+:!uV 情诗
+:!ug 情话
+:!uj 情谊
+:!vV 情圣
+:!ws 情景
+:!xb 情种
+:!xx 情歌
+:!yd 情愿
 ; 感 成 成为
 ;' 感觉
 ;, 退耕还林
@@ -6492,7 +6491,7 @@
 ;/H 煳
 ;/pP 炒马蓝草
 ;/rs 烛骑士
-;/！ 烽
+;/! 烽
 ;: 炊 恳请
 ;:;U 炊烟
 ;:CC 炊帚
@@ -6511,7 +6510,7 @@
 ;:tu 恳切
 ;:uM 恳谈
 ;:uu 感性认识
-;:u！ 恳请
+;:u! 恳请
 ;:vV 盛情难却
 ;:x 恳
 ;:z 爝
@@ -6545,7 +6544,7 @@
 ;;Qx 炮火逐光
 ;;Rb 火爆黄喉
 ;;Rr 火炮绅士
-;;R！ 炉火纯青
+;;R! 炉火纯青
 ;;TT 灿烂夺目
 ;;VK 爆炒地猴
 ;;XX 炊烟袅袅 燃烧半岛
@@ -6618,7 +6617,7 @@
 ;A 盛 成功
 ;A:G 成性
 ;A:x 成心
-;A:！ 盛情
+;A:! 盛情
 ;A; 盛
 ;A;. 烧鞭炮
 ;A;e 炒买炒卖
@@ -6650,7 +6649,7 @@
 ;AOp 成片
 ;AR. 成约
 ;ARA 盛世
-;AR！ 成绩
+;AR! 成绩
 ;AS: 盛意
 ;AS< 成功
 ;ASb 成名 盛况 盛名
@@ -6705,18 +6704,18 @@
 ;AmJ 盛赞
 ;AmK 成器 盛器
 ;Ams 成双
+;Ang 成活
 ;AnV 成法
 ;AnX 盛誉 盛举
 ;Anb 成本
-;Ang 成活
 ;Ank 成渝
 ;Anp 盛满
 ;AoT 成想
 ;Aoe 成材
 ;ApR 成药
 ;ApY 成荫
-;AqB 成县
 ;AqY 成都
+;AqB 成县
 ;Aql 成风
 ;Ar, 成全
 ;Ar< 成势
@@ -6731,9 +6730,9 @@
 ;AuO 成议
 ;AuX 成说
 ;Auc 成长
+;Avz 成对
 ;Avf 成斌
 ;Avw 成文
-;Avz 成对
 ;Awq 盛暑
 ;Awr 成日
 ;Aws 盛景
@@ -6852,7 +6851,7 @@
 ;H,y 燃耗
 ;H/S 燃冬
 ;H:W 成膜快
-;H:！ 燃情
+;H:! 燃情
 ;H; 燃
 ;H;A 炸成
 ;H;L 火腿炖甲鱼
@@ -6996,7 +6995,7 @@
 ;Q 炉 煽动
 ;Q.s 炉石
 ;Q/o 炉条
-;Q:！ 煽情
+;Q:! 煽情
 ;Q;V 炉灶
 ;Q;h 炉火
 ;Q?z 炉衬
@@ -7250,6 +7249,7 @@
 ;Yhr 即以
 ;YiT 即把
 ;Yj 即
+;Ya 即便
 ;Yjm 戍卫官
 ;YkO 即令
 ;Yl; 烙痕
@@ -7287,7 +7287,7 @@
 ;Zxf 炕上
 ;Zxg 炫光
 ;Zzk 炫铃
-;Z！ 炫
+;Z! 炫
 ;a 烨 支付宝
 ;a,f 火伤球
 ;a?i 爆伤衣
@@ -7361,7 +7361,7 @@
 ;f:N 感悟
 ;f:c 感怀
 ;f:e 感愤
-;f:！ 感情
+;f:! 感情
 ;f<l 威力
 ;f?T 熄灭状态
 ;fAv 感受
@@ -7461,7 +7461,7 @@
 ;fxk 成百上千
 ;fxu 威逼利诱
 ;fyo 熄灭原核
-;f！f 咸丰
+;f!f 咸丰
 ;g 艮 熄火
 ;g: 熄
 ;g;G 熄灯
@@ -7476,7 +7476,7 @@
 ;h.E 火硝
 ;h.s 火石
 ;h:G 火性
-;h:！ 火情
+;h:! 火情
 ;h;. 火炮
 ;h;B 火烛
 ;h;L 火焰
@@ -7631,7 +7631,7 @@
 ;iYr 支队
 ;iZ 支持率
 ;iZl 支离
-;iZ！ 支持率
+;iZ! 支持率
 ;iaC 支撑位
 ;iag 支使
 ;iaz 支付
@@ -7690,8 +7690,8 @@
 ;jrA 熔断
 ;jtK 感官追猎
 ;juL 戍客望边色
-;jz！ 熔铸
-;j！B 熔融
+;jz! 熔铸
+;j!B 熔融
 ;k 焓 成千上万
 ;k;f 成千成万
 ;k<B 炽翎辣肉
@@ -7910,7 +7910,7 @@
 ;qr; 燠热
 ;qsF 烤熟
 ;qvX 烤鸡
-;q！/ 烤麸
+;q!/ 烤麸
 ;r 烩 爆米花
 ;r.n 感人至深
 ;r/p 炽热骗骗花
@@ -8030,7 +8030,7 @@
 ;wdg 火冒三丈
 ;wiC 焊接
 ;wia 感时抚事增惋伤
-;wj！ 焊割
+;wj! 焊割
 ;wkD 爆雷
 ;wmB 灯影牛肉
 ;wn 爆
@@ -8175,7 +8175,7 @@
 </u 驾驶证
 </uf 驾驶证
 </zz 放马过来
-</！ 峰
+</! 峰
 <: 峁 放心不下
 <:cf 放心不下
 <:eI 旅情见闻
@@ -8354,7 +8354,7 @@
 <Hss 岁月蹉跎
 <Hw, 山月照弹琴
 <Hzt 崩铁
-<H！Z 岁月静好
+<H!Z 岁月静好
 <I 嶝 放射性
 <I:> 放射性核素 放射性元素
 <I:G 放射性
@@ -8367,7 +8367,7 @@
 <IRf 放射线
 <IS 崆
 <Iny 山穷水尽
-<I！ 嶝
+<I! 嶝
 <J 旗鼓相当
 <JdA 辛嘉斯王朝
 <Jnn 边庭流血成海水
@@ -8477,7 +8477,7 @@
 <KyV 施压
 <Kz 施
 <KzA 旋钮
-<K！v 施予
+<K!v 施予
 <L 峪 辛亥革命
 <L.s 方解石
 <L<K 峥嵘
@@ -8662,7 +8662,7 @@
 <Wdb 辨白
 <WfI 辨正
 <Wl 岖
-<Wn！ 辨清
+<Wn! 辨清
 <Wo/ 辨析
 <Wub 辨识
 <Wuf 辨证
@@ -8708,7 +8708,7 @@
 <XyG 办公厅
 <Xyc 办厂
 <Xyr 幽兰居士
-<X！ 嵫
+<X! 嵫
 <Y 邡
 <Y?y 山随平野尽
 <YWl 崇川区 旌阳区 山阳区 崖州区
@@ -8732,7 +8732,7 @@
 <a:c 放怀
 <a:w 放慢
 <a:x 放心
-<a:！ 放情
+<a:! 放情
 <a;. 放炮
 <a;h 放火
 <a>H 放青
@@ -8777,7 +8777,7 @@
 <aaU 放贷
 <aaZ 放低
 <aay 放假
-<aa！ 放债
+<aa! 放债
 <abE 放哨
 <ac 方便面
 <acm 方便面
@@ -8818,14 +8818,14 @@
 <aul 放肆
 <awF 放映
 <awf 放量
-<aw！ 放晴
+<aw! 放晴
 <axL 放稳
 <axf 放上
 <axg 放光
 <axx 放歌
 <ayh 放屁
 <azp 放过
-<a！N 放毒
+<a!N 放毒
 <b 架 加入
 <b,W 加班
 <b,t 唇珠
@@ -8924,7 +8924,7 @@
 <bji 岗哨密探
 <bjp 加宽
 <bju 岗哨密探长
-<bj！ 加害
+<bj! 加害
 <bk 加 唇
 <bkP 加重
 <bnB 加油
@@ -8959,7 +8959,7 @@
 <brY 加仓
 <brZ 加数
 <brq 加粗
-<br！ 加精
+<br! 加精
 <bsH 唇膏
 <bsg 加高
 <bsq 加亮
@@ -8983,7 +8983,7 @@
 <byw 加厚
 <bzE 加锁
 <bzf 加钙
-<b！z 贺寿
+<b!z 贺寿
 <c 辰 方面军
 <c. 办不到
 <c.E 辰砂
@@ -9071,8 +9071,8 @@
 <fgH 旗开得胜
 <fgz 方丈
 <fi; 方技
-<fjQ 方家
 <fjZ 方案
+<fjQ 方家
 <fjf 方富
 <fkj 方今
 <fnH 方波
@@ -9084,8 +9084,8 @@
 <foe 方材
 <fp 岍
 <fpR 方药
-<fqB 方正县
 <fqb 方向
+<fqB 方正县
 <fr: 方志
 <frs 方士
 <ftp 方升
@@ -9176,7 +9176,7 @@
 <jsg 崇高
 <jvw 崇文
 <jwH 崇明
-<j！i 崇奉
+<j!i 崇奉
 <k 岭 加拿大
 <k<o 施瓦辛格
 <kBT 岑参
@@ -9412,7 +9412,7 @@
 <sMt 山轿
 <sNw 山神
 <sPl 山里
-<sP！ 山野
+<sP! 山野
 <sQy 山羊
 <sSS 山脊
 <sST 山头
@@ -9423,7 +9423,7 @@
 <sVV 山墙
 <sVX 山坞
 <sVz 山地
-<sV！ 山坳
+<sV! 山坳
 <sWV 山壁
 <sWZ 山航
 <sWl 山区 山亭区
@@ -9643,49 +9643,49 @@
 <zkb 辱命
 <zm/ 辱骂
 <znT 辱没
-<！ 幽 幽默
-<！:e 幽愤
-<！:！ 幽情
-<！<！ 幽幽
-<！C; 幽灵
-<！Cw 幽冥
-<！D: 幽思
-<！EJ 幽远
-<！HK 幽然
-<！IX 幽邃
-<！Ie 幽闭
-<！Im 幽门
-<！Io 幽闲
-<！Lg 幽谷
-<！NG 幽魂
-<！P, 幽雅
-<！QT 幽美
-<！RC 幽绿
-<！SY 幽怨
-<！Xd 幽兰
-<！Y 酆
-<！YY 幽州
-<！ZI 幽娴
-<！Zj 幽婉
-<！aW 幽僻
-<！bU 幽咽
-<！dF 幽趣
-<！eK 幽默
-<！gq 幽微
-<！gv 幽径
-<！jx 幽寂
-<！mN 幽禁
-<！n: 幽浮
-<！nC 幽深
-<！nx 山青水秀
-<！qY 酆都
-<！rN 幽会
-<！wH 幽明
-<！wS 幽暗
-<！xw 幽香
-<！y/ 幽居
-<！！ 幽
-<！！H 幽静
+<! 幽 幽默
+<!:e 幽愤
+<!:! 幽情
+<!<! 幽幽
+<!C; 幽灵
+<!Cw 幽冥
+<!D: 幽思
+<!EJ 幽远
+<!HK 幽然
+<!IX 幽邃
+<!Ie 幽闭
+<!Im 幽门
+<!Io 幽闲
+<!Lg 幽谷
+<!NG 幽魂
+<!P, 幽雅
+<!QT 幽美
+<!RC 幽绿
+<!SY 幽怨
+<!Xd 幽兰
+<!Y 酆
+<!YY 幽州
+<!ZI 幽娴
+<!Zj 幽婉
+<!aW 幽僻
+<!bU 幽咽
+<!dF 幽趣
+<!eK 幽默
+<!gq 幽微
+<!gv 幽径
+<!jx 幽寂
+<!mN 幽禁
+<!n: 幽浮
+<!nC 幽深
+<!nx 山青水秀
+<!qY 酆都
+<!rN 幽会
+<!wH 幽明
+<!wS 幽暗
+<!xw 幽香
+<!y/ 幽居
+<!! 幽
+<!!H 幽静
 = =
 >,/D 豫备
 >,?h 豫北
@@ -10169,7 +10169,7 @@
 ?:h: 将心比心
 ?:nJ 壮怀激烈
 ?:qB 平遥县
-?:！D 平心静气
+?:!D 平心静气
 ?; 褪 夏威夷
 ?;<L 干烧岩鲤
 ?;Bo 干炸虾枣
@@ -10222,7 +10222,7 @@
 ??xx 平平稳稳
 ??y 顸
 ??zT 平平无奇
-??！！ 平平静静
+??!! 平平静静
 ?A 北爱尔兰
 ?AL 北朝鲜
 ?ALQ 北朝鲜
@@ -10361,7 +10361,7 @@
 ?HiL 被捕
 ?HiW 被拒
 ?Hib 被扣
-?Hj！ 被害
+?Hj! 被害
 ?Hlo 被杀
 ?Hm/ 被骂
 ?Hmb 被告
@@ -10382,7 +10382,7 @@
 ?InM 初闻涕泪满衣裳
 ?Is 衫
 ?Iw 裥
-?I！N 平步青云
+?I!N 平步青云
 ?J 裤 裤子
 ?J?E 裤裆
 ?J?f 裤袜
@@ -10427,7 +10427,7 @@
 ?M 舆 初学者
 ?M: 平常心
 ?M:x 平常心
-?M:！ 舆情
+?M:! 舆情
 ?MFi 褂子
 ?MU/ 舆图
 ?MX 舆
@@ -10539,7 +10539,7 @@
 ?SjY 奖额
 ?Sjh 将它
 ?Sjm 将官
-?Sj！ 毁害
+?Sj! 毁害
 ?SkO 将领 将令
 ?Smc 将从
 ?Sn 浆 北冰洋
@@ -10598,7 +10598,7 @@
 ?UWR 北回归线
 ?Uab 装聋作哑
 ?Ug 戕 戛
-?Uj！ 戕害
+?Uj! 戕害
 ?Umi 初战告捷
 ?Un 干电池
 ?Unz 干电池
@@ -10623,7 +10623,7 @@
 ?W?r 褴褛
 ?WAb 刊布
 ?WDq 补肾气
-?WI！ 刊登
+?WI! 刊登
 ?WLW 刊刻
 ?WLz 刊载
 ?WST 刊头
@@ -10659,7 +10659,7 @@
 ?XC> 平靖
 ?XCa 平整
 ?XCy 平产
-?XD！ 平畴
+?XD! 平畴
 ?XG? 平顶
 ?XGs 平生
 ?XGu 平账
@@ -10767,8 +10767,8 @@
 ?XzE 平销
 ?XzL 平铺
 ?Xzj 平金
-?X！H 平静
-?X！R 平素
+?X!H 平静
+?X!R 平素
 ?Y 邗 初出茅庐
 ?YWl 冀州区 平川区 襄州区
 ?YZQ 襄阳市
@@ -10820,7 +10820,7 @@
 ?b:N 哀恸
 ?b:k 哀怜
 ?b:x 哀悼 衷心
-?b:！ 衷情
+?b:! 衷情
 ?b;p 衰退
 ?b;x 哀戚
 ?bCb 初中部
@@ -10871,8 +10871,8 @@
 ?bx; 哀愁
 ?bxq 衰颓
 ?bxx 哀歌
-?b！L 哀艳
-?b！k 哀矜
+?b!L 哀艳
+?b!k 哀矜
 ?c 叟 平面图
 ?c:G 平面性
 ?cIV 袍笏登场
@@ -11030,7 +11030,7 @@
 ?gys 干尸
 ?gzj 干铵
 ?gzp 干过
-?g！? 干预
+?g!? 干预
 ?h 北 背景
 ?h,P 背理
 ?h.P 背包
@@ -11088,7 +11088,7 @@
 ?haG 北侧
 ?haU 北伐
 ?hah 北货 背货
-?ha！ 背债
+?ha! 背债
 ?hb 北
 ?hcW 背筐
 ?hcm 背面 北面
@@ -11174,8 +11174,8 @@
 ?irD 衣料
 ?izd 衣锦
 ?izn 衣钵
-?i！ 干扰素
-?i！R 干扰素
+?i! 干扰素
+?i!R 干扰素
 ?j 臼 被害人
 ?jDc 臼齿
 ?jRv 毁家纾难
@@ -11313,7 +11313,7 @@
 ?r<K 壮族
 ?r? 装
 ?r?D 装裹
-?r?！ 装裱
+?r?! 装裱
 ?rCs 装束
 ?rEY 装卸
 ?rGd 壮丁
@@ -11496,7 +11496,7 @@
 ?uxs 初稿
 ?uyd 初愿
 ?uzX 初来
-?u！w 初春
+?u!w 初春
 ?v 衩 背对背
 ?v?h 背对背
 ?vO 衩
@@ -11655,13 +11655,15 @@
 ?zrV 衬垫
 ?zsz 将错就错
 ?zwF 衬映
-?！ 裱 酱豆腐
-?！? 裱
-?！Ja 酱豆腐
-?！m 袤
-?！r/ 裱糊
+?! 裱 酱豆腐
+?!? 裱
+?!Ja 酱豆腐
+?!m 袤
+?!r/ 裱糊
 @, ,
 @. .
+@- -
+@= =
 @/ /
 @: :
 @; ;
@@ -11719,7 +11721,7 @@
 @x x
 @y y
 @z z
-@！ !
+@! !
 A 买 那 直接
 A' 那么
 A, 爱理不理
@@ -11989,7 +11991,7 @@ AEp: 堇菜
 AEuA 勤谨
 AF 敢 敢于
 AF: 憨
-AF:！ 敢情
+AF:! 敢情
 AFAz 憨直
 AFEC 敢当
 AFFi 憨子
@@ -12031,7 +12033,7 @@ AHKc 朝臣
 AHLQ 朝鲜
 AHNg 朝廷
 AHPT 朝暮
-AHP！ 朝野
+AHP! 朝野
 AHQT 朝着
 AHRF 朝纲
 AHSG 朝贡
@@ -12058,7 +12060,7 @@ AHwr 朝日
 AHxf 朝上
 AHy 朝
 AHyf 朝后
-AH！i 朝奉
+AH!i 朝奉
 AI 麝 麝香
 AIHo 鹿门月照开烟树
 AIKa 鼠窃狗偷
@@ -12121,7 +12123,7 @@ AJui 鹿死谁手
 AJxX 免税
 AJyN 勉慰
 AJyf 勉励
-AJ！G 免责
+AJ!G 免责
 AK 乾 乾隆
 AK.j 勤劳致富
 AKBA 勤劳勇敢
@@ -12172,7 +12174,7 @@ AMrT 鞋类
 AMrV 鞋垫
 AMs; 鞋跟
 AMyc 鞋厂
-AM！Y 鞋帮
+AM!Y 鞋帮
 AN 鼯
 ANAs 鼯鼠
 ANb 鼯
@@ -12257,7 +12259,7 @@ AStN 买票
 ASxg 买光
 ASzX 买来
 ASzp 买过
-AS！w 买春
+AS!w 买春
 AT 靶 布达佩斯
 AT:x 靶心
 ATAw 鞑靼
@@ -12559,7 +12561,7 @@ Ai:R 爱惜
 Ai:X 爱憎
 Ai:k 爱怜
 Ai:x 爱心
-Ai:！ 爱情
+Ai:! 爱情
 Ai;h 爱火
 Ai<F 爱岗
 Ai<p 那边
@@ -12755,7 +12757,7 @@ Amfy 九牛一毛
 An 承 函数
 An,b 函售
 An.P 承包
-An:！ 承情
+An:! 承情
 An<X 承办
 An?X 承平
 AnAv 承受
@@ -12887,7 +12889,7 @@ Aoqa 鼠标悬停
 Aor: 杂志
 AorJ 鼠李糖
 AorO 杂粮
-Aor！ 杂糅
+Aor! 杂糅
 AouM 杂谈
 AouP 杂记
 AouX 杂说
@@ -12908,7 +12910,7 @@ Apc 逸
 Apfb 逸事
 Appx 爱茉莉
 Apwm 逸民
-Ap！, 逸豫
+Ap!, 逸豫
 Aq 麂 受教育
 AqNH 受教育
 Aqj 麂
@@ -13035,7 +13037,7 @@ Avj; 受灾
 AvjZ 受案
 Avjh 受寒
 Avjw 受审
-Avj！ 受害
+Avj! 受害
 AvkO 受领
 Avkb 受命
 Avlf 受病
@@ -13055,7 +13057,7 @@ AvrY 受创
 Avra 受粉
 Avrm 受众
 Avrr 受人
-Avr！ 受精
+Avr! 受精
 Avu< 受访
 AvuY 受训
 Avux 受让
@@ -13136,7 +13138,7 @@ AzWZ 直航
 AzYt 直陈
 AzZk 爱钱如命
 AzZn 直女
-AzZ！ 直率
+AzZ! 直率
 AzaR 直供
 AzbW 直叫
 Azcm 直面
@@ -13153,7 +13155,7 @@ AziY 直拨
 Azih 直指
 Azit 直播
 Aziu 直招
-Azi！ 直抒
+Azi! 直抒
 Azj 鏖
 Azjh 直塞
 Azkf 直飞
@@ -13177,9 +13179,9 @@ AzwT 直冒
 AzyO 直尺
 Azyt 直属
 AzzE 直销
-A！ 鞣 朝秦暮楚
-A！Pm 朝秦暮楚
-A！o 鞣
+A! 鞣 朝秦暮楚
+A!Pm 朝秦暮楚
+A!o 鞣
 B 而 能 内容
 B' 能够 而且
 B, 蝤 蜂王浆
@@ -13222,7 +13224,7 @@ B/pa 蜂花
 B/qB 内丘县
 B/rQ 蜂糕
 B/sE 由近及远
-B/！ 蜂
+B/! 蜂
 B: 蜉 内心深处
 B:B< 蜉蝣
 B:F 蜉
@@ -13316,7 +13318,7 @@ BCdC 勇冠三军
 BCg 蜒
 BCw 螟
 BCzz 蝶立锋锷
-BC！y 内部矛盾
+BC!y 内部矛盾
 BD 螺 蜘蛛
 BD.D 螺甸
 BD;j 螺烷
@@ -13440,7 +13442,7 @@ BGqh 遗老
 BGql 遗风
 BGr: 遗志
 BGrr 贵人
-BGr！ 遗精
+BGr! 遗精
 BGtd 遗失
 BGu: 遗忘
 BGuY 遗训
@@ -13734,7 +13736,7 @@ BTxT 参透
 BTy 毵
 BTyR 参展
 BTzR 参错
-BT！? 参预
+BT!? 参预
 BU 蛲 台式机
 BU.c 由点到面
 BUBU 蝈蝈
@@ -13988,7 +13990,7 @@ Bcbk 虫口
 Bcg 由不得
 Bcgw 由不得
 Bcj; 虫灾
-Bcj！ 虫害
+Bcj! 虫害
 BclG 虫瘿
 Bclt 虫群
 Bcq 蛴
@@ -14149,10 +14151,10 @@ Bjoz 熊守村
 Bjpc 耐寒药剂
 BjqB 贵定县 牟定县 台安县
 Bjqz 参赛者
-Bjr！ 蛇精
+Bjr! 蛇精
 Bjsu 蛇足
 BjzE 熊家无二
-Bj！N 蛇毒
+Bj!N 蛇毒
 Bk 蛤 蠕动
 Bk,w 螺霸王
 BkB 蠕
@@ -14197,7 +14199,7 @@ Bn/< 内务
 Bn:: 内忧
 Bn:G 内贸
 Bn:x 内心
-Bn:！ 内情
+Bn:! 内情
 Bn;p 内退
 Bn<K 内消旋
 Bn<l 内力
@@ -14285,10 +14287,10 @@ Bni, 内推
 Bni: 内援
 BniI 内控
 Bnit 内托
+BnjL 内容
 Bnj. 内室
 Bnj/ 内宾
 BnjC 内定
-BnjL 内容
 Bnjt 内宅
 Bnjw 内审
 BnkB 内需
@@ -14509,7 +14511,7 @@ Bqxs 通稿
 Bqy 甬
 BqzL 通铺
 Bqzp 通过
-Bq！B 通融
+Bq!B 通融
 Br 肉 肉类
 Br.; 肉碱
 Br.P 肉包
@@ -14704,14 +14706,14 @@ Bzqy 耐用
 Bzr; 耐热
 Bzwt 耐晒
 BzyV 耐压
-B！ 蚌 蚌埠
-B！< 蚴
-B！BN 蜻蜓
-B！H 蜻
-B！Vt 蚌埠
-B！f 蚌
-B！sP 由表及里
-B！w 蝽
+B! 蚌 蚌埠
+B!< 蚴
+B!BN 蜻蜓
+B!H 蜻
+B!Vt 蚌埠
+B!f 蚌
+B!sP 由表及里
+B!w 蝽
 C 新 部 新闻
 C' 产品
 C, 鹤 冥王星
@@ -14814,7 +14816,7 @@ C;xT 灵秀 灵透
 C;xg 灵光
 C;yc 灵犀
 C;zH 灵钥
-C;！！ 灵慧
+C;!! 灵慧
 C< 端 新加坡
 C<,w 端王
 C<.e 端砚
@@ -14911,7 +14913,7 @@ C?xD 农科
 C?y< 农历
 C?zd 童叟无欺
 CA 冤 亲爱的
-CA:！ 冤情
+CA:! 冤情
 CAGg 冤鬼
 CAKu 冤狱
 CANG 冤魂
@@ -14950,14 +14952,14 @@ CBdb 蛋白
 CBfX 蛋饼
 CBn 新能源
 CBny 新能源
-CBn！ 蛋清
+CBn! 蛋清
 CBqB 灵台县
 CBrQ 蛋糕
 CBrT 蛋类
 CBra 蛋粉
 CBtQ 新台币
 CBvX 蛋鸡
-CB！H 蛋青
+CB!H 蛋青
 CC 帚 新产品
 CC:: 寻寻觅觅
 CCCY 童颜鹤发
@@ -15073,7 +15075,7 @@ CJis 速度提高
 CJqB 鹤庆县
 CJup 速度调节
 CJxW 农吉利
-CJ！N 鸩毒
+CJ!N 鸩毒
 CK 翊 端午节
 CK:W 新年快乐
 CKJ 灵敏度
@@ -15082,7 +15084,7 @@ CKPG 新年费
 CKWl 新荣区 新营区
 CKaH 新年作
 CKnz 新年池
-CKn！ 延年益寿
+CKn! 延年益寿
 CKpY 端午节
 CKv 翊
 CKw, 鹤羽星尊
@@ -15116,7 +15118,7 @@ CM/< 军务
 CM/D 军备
 CM/m 军马
 CM:x 军心
-CM:！ 军情
+CM:! 军情
 CM;V 军垦
 CM;f 军威
 CM;h 军火
@@ -15515,7 +15517,7 @@ CbHK 剖腹
 CbIm 部门
 CbJ 竞
 CbJM 产品库
-CbK！ 竞猜
+CbK! 竞猜
 CbLl 竞争
 CbLu 剖解
 CbNe 剖视
@@ -15683,7 +15685,7 @@ Cgqe 延髓
 Cgrm 延米
 Cgub 延误
 Cguc 延长
-Cgu！ 延请
+Cgu! 延请
 Cgwz 延时
 Cgy 延
 CgyD 延彼遐龄
@@ -15797,7 +15799,7 @@ Cluy 立言
 Clwz 立时
 Clx; 立秋
 ClxZ 立委
-Cl！w 立春
+Cl!w 立春
 Cmdn 妾梦越风波
 CmkO 寻梦令
 Cmy/ 新梦居
@@ -15860,7 +15862,7 @@ Co/ 新
 Co/X 新兵
 Co/a 亲故
 Co/p 亲近 新近
-Co:！ 亲情
+Co:! 亲情
 Co;x 亲戚
 Co<K 亲族
 Co<X 新办
@@ -16034,7 +16036,7 @@ Coyt 亲属
 Coz 冤枉钱
 CozX 新锐 新来
 Cozf 冤枉钱
-Co！w 新春
+Co!w 新春
 Cp 速 速度
 Cp;A 速成
 CpCf 速写
@@ -16051,7 +16053,7 @@ CpUl 速龙
 CpXP 速递
 CpXn 端茶递水
 CpZh 速效
-CpZ！ 速率
+CpZ! 速率
 Cpc 速
 CpcT 速算
 Cpfs 速食
@@ -16176,7 +16178,7 @@ CwwS 冥暗
 Cwwx 疏影暗香
 CwyO 竭尽
 CwzE 冥钞
-Cw！z 冥寿
+Cw!z 冥寿
 Cx 亲和力
 Cx<l 亲和力
 Cx>R 亲和素
@@ -16249,7 +16251,7 @@ Cyzo 产钳
 Cz 寻 寻找
 Cz/m 寻马
 Cz:e 寻觅
-Cz<！ 寻幽
+Cz<! 寻幽
 Cz>w 寻春
 CzCo 寻亲
 CzD: 寻思
@@ -16287,11 +16289,11 @@ Czwf 产销量
 Czxq 寻租
 CzyO 寻昼
 Czzt 新铜铁
-C！ 靖 靖康
-C！H 靖
-C！Jl 靖康
-C！ap 新春佳节
-C！tx 靖西
+C! 靖 靖康
+C!H 靖
+C!Jl 靖康
+C!ap 新春佳节
+C!tx 靖西
 D 男 知 智能
 D' 知道
 D, 雉 气象台
@@ -16358,7 +16360,7 @@ D:wK 韬晦
 D:wf 思量
 D:x 思
 D:xD 思科
-D:！w 思春
+D:!w 思春
 D; 龈 气焰嚣张
 D;H> 氯戊腈 氯烟腈
 D;g 龈
@@ -16468,7 +16470,7 @@ DBfn 遇救
 DBiY 愚拙
 DBio 智能手机
 DBjy 智能家居
-DBj！ 遇害
+DBj! 遇害
 DBkh 遇合
 DBlD 愚痴
 DBmr 智勇双全
@@ -16492,7 +16494,7 @@ DBxM 智能科学
 DBxf 遇上 智能卡
 DBzf 愚钝
 DBzp 遇过
-DB！w 愚蠢
+DB!w 愚蠢
 DC 氯 氯气
 DC,c 氯环
 DC;U 氯烟
@@ -16750,7 +16752,7 @@ DRsl 累了
 DRtY 田纳西州
 DRue 累计
 DRxb 累积
-DR！u 累赘
+DR!u 累赘
 DS 知名度
 DSDr 知冷知热
 DSJR 知名度
@@ -16848,7 +16850,7 @@ DZiU 男女搭配
 DZlQ 矫如群帝骖龙翔
 DZnH 男媒婆
 DZqE 男女老少
-DZq！ 男女老幼
+DZq! 男女老幼
 DZrs 田女士
 D` 知道
 Da 氛 氛围
@@ -16921,7 +16923,7 @@ Db 智 知识
 Db,f 田中理惠
 Db:G 知性
 Db:x 知心
-Db:！ 知情
+Db:! 知情
 Db<b 智驾
 Db<l 智力
 DbBH 智能
@@ -16984,8 +16986,8 @@ Dbw 智
 DbwU 知晓
 Dbwu 知照
 DbxW 智利
-Db！H 知青
-Db！！ 智慧
+Db!! 智慧
+Db!H 知青
 Dc 齿 齿轮
 Dc/o 齿条
 DcCn 齿录
@@ -17255,7 +17257,7 @@ Dpc 畀 违
 DpcX 畏葸不前
 Dpde 违规
 DpiZ 违抗
-Dpi！ 违拗
+Dpi! 违拗
 Dpjm 违宪
 Dplg 违建
 DpmN 违禁
@@ -17282,7 +17284,7 @@ DqCU 气站
 DqDN 龃龉
 DqDa 气氛
 DqDt 气田
-DqD！ 气短
+DqD! 气短
 DqES 气缸
 DqEm 气囊
 DqEp 气罐
@@ -17330,7 +17332,7 @@ Dqgw 气得
 Dqhj 气井
 Dqj: 气密
 Dqjf 气宇
-Dqj！ 气割
+Dqj! 气割
 DqkO 智者千虑 愚者千虑
 Dqn. 气泡
 DqnN 气流
@@ -17409,7 +17411,7 @@ Dsr: 矢志
 Dsu 龊
 Dswf 矢量
 Dt 田 田径
-Dt:！ 矫情
+Dt:! 矫情
 Dt<p 田边
 Dt>H 田静
 Dt>u 田契
@@ -17419,7 +17421,7 @@ DtB 龋
 DtBD 田螺
 DtCy 田产
 DtDc 龋齿
-DtD！ 田畴
+DtD! 田畴
 DtFR 田联
 DtGf 田赋
 DtHR 田塍
@@ -17429,7 +17431,7 @@ DtKR 田猎
 DtM? 田轩
 DtP: 田忌
 DtPl 田里
-DtP！ 田野
+DtP! 田野
 DtRS 田红
 DtST 田头
 DtUE 田园
@@ -17487,7 +17489,7 @@ Dunu 智谱清言
 DuoH 智识树皮
 DuvS 韧劲
 DuwN 智识星神
-Du！K 知识青年
+Du!K 知识青年
 Dv 氢 氢气
 DvB; 知难而退
 DvBH 氢能
@@ -17553,55 +17555,55 @@ DzUz 氯金酸铵
 Dzcu 知无不言
 DzsP 知错就改
 Dzxb 韦铁和
-D！ 短 短期
-D！/x 短处
-D！?B 短袖
-D！?J 短裤
-D！?l 短裙
-D！?r 短装
-D！D！ 短短
-D！EW 短缺
-D！Ex 短小
-D！H 氰
-D！H; 短腿
-D！K 男青年
-D！Kr 男青年
-D！M/ 短暂
-D！Op 短片
-D！Rf 短线
-D！Rw 畴昔
-D！Sg 短工
-D！Yv 短发
-D！as 短促
-D！au 短信
-D！bf 短号
-D！cB 短笛
-D！cQ 短篇
-D！d 短
-D！dH 短期
-D！ej 短见
-D！iC 短接
-D！iG 短打
-D！kb 短命
-D！kn 短剑
-D！nH 短波
-D！nf 短浅
-D！nz 短池
-D！or 短枪
-D！rq 短粗
-D！rx 短途
-D！s. 短跑
-D！sY 短路
-D！u? 短评
-D！uA 短讯
-D！uN 短语
-D！ud 短刀
-D！vw 短文
-D！wz 短时
-D！x? 短秤
-D！xb 短程
-D！y/ 短剧
-D！z 畴
+D! 短 短期
+D!/x 短处
+D!?B 短袖
+D!?J 短裤
+D!?l 短裙
+D!?r 短装
+D!D! 短短
+D!EW 短缺
+D!Ex 短小
+D!H 氰
+D!H; 短腿
+D!K 男青年
+D!Kr 男青年
+D!M/ 短暂
+D!Op 短片
+D!Rf 短线
+D!Rw 畴昔
+D!Sg 短工
+D!Yv 短发
+D!as 短促
+D!au 短信
+D!bf 短号
+D!cB 短笛
+D!cQ 短篇
+D!d 短
+D!dH 短期
+D!ej 短见
+D!iC 短接
+D!iG 短打
+D!kb 短命
+D!kn 短剑
+D!nH 短波
+D!nf 短浅
+D!nz 短池
+D!or 短枪
+D!rq 短粗
+D!rx 短途
+D!s. 短跑
+D!sY 短路
+D!u? 短评
+D!uA 短讯
+D!uN 短语
+D!ud 短刀
+D!vw 短文
+D!wz 短时
+D!x? 短秤
+D!xb 短程
+D!y/ 短剧
+D!z 畴
 E 元 当时 小
 E' 专业
 E, 雀 雀斑
@@ -17774,7 +17776,7 @@ EA.f 专研
 EA/y 专业
 EA:q 亏欠
 EA:x 专心 亏心
-EA:！ 专情
+EA:! 专情
 EA<l 专力
 EA>G 专责
 EA?W 专刊
@@ -17871,7 +17873,7 @@ EAzf 亏钱
 EB 小熊猫
 EBKp 小熊猫
 EBr 少而精
-EBr！ 少而精
+EBr! 少而精
 EC 当 当然
 EC,W 当班
 EC/X 当兵
@@ -18101,7 +18103,7 @@ EHw 当然是
 EHwC 当然是
 EHy 肖
 EHzb 索然无味
-EH！Y 肖邦
+EH!Y 肖邦
 EI 盗窃犯
 EIKY 盗窃犯
 EIZn 囊空如洗
@@ -18163,7 +18165,7 @@ EJWZ 远航
 EJWl 小店区
 EJXg 元首 远道
 EJYf 远卫
-EJY！ 远隔
+EJY! 远隔
 EJZa 元夜
 EJZh 远郊
 EJZl 远离
@@ -18226,7 +18228,7 @@ EJxx 元歌
 EJzE 远销
 EJzX 元来
 EJzf 顽钝
-EJ！R 元素
+EJ!R 元素
 EK 二年级
 EK.W 小年到
 EKBZ 当猴耍
@@ -18532,9 +18534,9 @@ EYj 卸
 EYkn 远隔重洋
 EYqB 元阳县
 EYwa 缺陷晶体
-EY！ 小阳春
-EY！G 卸责
-EY！w 小阳春
+EY! 小阳春
+EY!G 卸责
+EY!w 小阳春
 EZ 姿 姿势
 EZ/S 远交近攻
 EZ;f 少女感
@@ -18613,7 +18615,7 @@ Ec?S 二等奖
 EcEJ 次元
 EcFi 次子
 EcGs 次生
-EcJ！ 次序
+EcJ! 次序
 EcKr 次年
 EcLi 次之
 EcQ 少管所
@@ -19442,9 +19444,9 @@ Exz: 元歌无心
 ExzO 小锣
 Exze 小镇
 Exzf 小钱
-Ex！/ 小麦
-Ex！H 小青
-Ex！w 小春
+Ex!/ 小麦
+Ex!H 小青
+Ex!w 小春
 Ey 当局者迷
 EyZQ 小原好美
 EyZf 索尼娅
@@ -19460,11 +19462,11 @@ EzW; 小键盘
 EzZn 削铁如泥
 Ezaj 小镇做题家
 EzqB 小金县
-E！ 壹 小青年
-E！: 懿
-E！Kr 小青年
-E！d 壹
-E！hw 懿旨
+E! 壹 小青年
+E!: 懿
+E!Kr 小青年
+E!d 壹
+E!hw 懿旨
 F 子 网 网络
 F' 孩子
 F,ag 孤琴候萝径
@@ -19550,7 +19552,7 @@ F;nK 勐海
 F;nO 孟浪
 F;rW 耿介
 F;x; 孟秋
-F;！w 孟春
+F;!w 孟春
 F< 孤 孤独
 F<.J 周旋到底
 F<;U 孤烟
@@ -19575,7 +19577,7 @@ F<Xw 孤单
 F<Zk 孤孀
 F<aJ 孤例
 F<aW 孤僻
-F<a！ 孤傲
+F<a! 孤傲
 F<b 孔方兄
 F<bJ 孔方兄
 F<g 孤
@@ -19643,7 +19645,7 @@ FBaL 取而代之
 FBaN 聘任
 FBdH 聘期
 FBqy 聘用
-FBu！ 聘请
+FBu! 聘请
 FBzj 聘金
 FC 耽 耽误
 FC:: 耽忧
@@ -19765,7 +19767,7 @@ FIi 耻
 FIia 同步操作
 FIim 同步控制
 FIqg 耻骨
-FJ 周围 周
+FJ 周 周围
 FJ, 雕
 FJ,< 周瑞
 FJ,Q 雕琢
@@ -20012,7 +20014,7 @@ FRyR 联展
 FRyt 联属
 FRzE 联锁 联销
 FRzM 聚散无常
-FR！Y 联邦
+FR!Y 联邦
 FS 取决于
 FS/W 曲意逢迎
 FSFU 同工同酬
@@ -20113,7 +20115,7 @@ FXu 罔
 FXuu 孤岛诊疗谭
 FXwH 聪明
 FXyY 罔顾
-FX！！ 聪慧
+FX!! 聪慧
 FY 耶 耶稣
 FY:M 网际快车
 FYLw 耶鲁
@@ -20158,9 +20160,9 @@ FZtE 丹东
 FZtz 丹朱
 FZxx 子夜秋歌
 FZyh 丹尼
-FZ！/ 丹麦
-FZ！H 丹青
-FZ！N 丹毒
+FZ!/ 丹麦
+FZ!H 丹青
+FZ!N 丹毒
 Fa 孜 孜然
 Fa;D 孙修炜
 Fa>H 周信静
@@ -20178,8 +20180,8 @@ Fao; 周仰杰
 Fap 孜
 FatK 典贷翡翠
 Fau/ 孙仲谋处
-Fa！ 同位素
-Fa！R 同位素
+Fa! 同位素
+Fa!R 同位素
 Fb 职 职业
 Fb/< 职务
 Fb/y 职业
@@ -20219,7 +20221,7 @@ Fbsg 职高
 FbxL 职称
 Fbz 曲别针
 Fbze 曲别针
-Fb！G 职责
+Fb!G 职责
 Fc 册 册封
 Fc?y 册页
 FcCl 册立
@@ -20278,8 +20280,8 @@ Fejh 耳塞
 Fekp 耳垂
 Feo; 耳根
 Feoq 耳机
-Feql 耳风
 Feqo 耳朵
+Feql 耳风
 Fer; 耳热
 FesF 耳熟 耳郭
 FeuN 耳语
@@ -20287,7 +20289,7 @@ FevX 丹雄鸡
 Fexg 耳光
 Feyr 耳屎
 Feze 耳针
-Fe！/ 耳麦
+Fe!/ 耳麦
 Ff 凹 刚开始
 Ff/x 凹处
 Ff;H 聚丙烯腈
@@ -20632,7 +20634,7 @@ FqAY 丹凤朝阳
 FqAz 曲直
 FqBQ 曲蟮
 FqC; 曲灵
-FqC！ 曲靖
+FqC! 曲靖
 FqFi 曲子
 FqLu 曲解
 FqMB 曲轴
@@ -20645,7 +20647,7 @@ FqTx 曲奇
 FqUB 曲酸
 FqUS 曲式
 FqYw 曲阳
-FqZ！ 曲率
+FqZ! 曲率
 Fqcm 曲面
 Fqcy 曲笔
 Fqgv 曲径
@@ -20697,7 +20699,7 @@ Ft,W 同班
 Ft/y 同业
 Ft:G 同性
 Ft:x 同心
-Ft:！ 同情
+Ft:! 同情
 Ft;f 同感
 Ft<S 同岁
 Ft<f 同方
@@ -20864,8 +20866,8 @@ Fvf/ 聚亚
 Fvfl 娶妻
 Fvfp 聚对亚苯
 Fvfx 取下
-Fvgi 取自
 Fvgw 取得
+Fvgi 取自
 FviU 聚拢
 Fvih 取指
 Fvkh 聚合
@@ -20913,7 +20915,7 @@ FwB? 聪明能干
 FwBu 同日而语
 FwC 同盟军
 FwCM 同盟军
-FwD！ 聪明智慧
+FwD! 聪明智慧
 FwIx 聚星闪耀
 FwJo 孔明庙前有老柏
 FwNW 网易云音乐
@@ -20961,11 +20963,11 @@ FzD< 周铁男
 FzST 删镜头
 FzUz 聚钒酸铵
 FzgR 孙铭徽
-F！ 刚柔并济
-F！Xn 刚柔并济
-F！on 刚柔相济
-F！ux 孔融让梨
-F！z: 聊表寸心
+F! 刚柔并济
+F!Xn 刚柔并济
+F!on 刚柔相济
+F!ux 孔融让梨
+F!z: 聊表寸心
 G 则 生 购买
 G' 生活
 G, 生理学
@@ -20974,8 +20976,8 @@ G,IY 赎珠阁
 G,MF 生理学
 G,Vn 生理盐水
 G. 购 购物
-G.AA 购书
 G.AS 购买
+G.AA 购书
 G.B 购
 G.Mc 购车
 G.OA 购置
@@ -20999,7 +21001,7 @@ G/Cb 财务部
 G/LE 贝克尔
 G/c, 财务管理
 G: 恋 恋爱
-G::！ 恋情
+G::! 恋情
 G:Ai 恋爱
 G:CP 恋童
 G:Fq 恋曲
@@ -21116,7 +21118,7 @@ GBa, 蛮像
 GBb 贻
 GBc 蛮
 GBfo 亦能画马穷殊相
-GBj！ 贻害
+GBj! 贻害
 GBmn 蛮牛
 GBoR 蛮横
 GBpu 蛮荒
@@ -21143,7 +21145,7 @@ GCXa 生产总值
 GCY 生产队
 GCYr 生产队
 GCZ 生产率
-GCZ！ 赔率 生产率
+GCZ! 赔率 生产率
 GCaM 赔偿
 GCaz 赔付
 GCb 赔
@@ -21157,7 +21159,7 @@ GCov 财产权
 GCq 生产者
 GCqz 生产者
 GCrN 赔款
-GCt！ 生产要素
+GCt! 生产要素
 GCug 赔话
 GCwd 生产日期
 GCyj 生产厂家
@@ -21450,7 +21452,7 @@ GXtN 赠票
 GXuy 赠言
 GXw 赠
 GXzf 赚钱
-GX！v 赠予
+GX!v 赠予
 GY 赂 变阻器
 GYXr 赠卫八处士
 GYcW 生发剂
@@ -21482,7 +21484,7 @@ GaFi 败子
 GaOd 弈仙牌
 GaPn 变化莫测
 GaRk 败给
-GaR！ 败绩
+GaR! 败绩
 GaSC 变化多端
 GaUT 败因
 GaVc 败坏
@@ -21606,7 +21608,7 @@ GeD> 生存智慧
 GeDq 财气
 GeEC 赎当
 GeGY 贿赂
-GeG！ 亦真亦幻
+GeG! 亦真亦幻
 GeH 贿
 GeIa 财阀
 GeIm 财门
@@ -21624,7 +21626,7 @@ GeUe 财团
 GeYj 财院
 GeYk 财险
 GeZ 生存率
-GeZ！ 生存率
+GeZ! 生存率
 GeaC 生存位
 GedQ 财帛
 GefI 财政
@@ -21678,8 +21680,8 @@ GfxX 赋税
 Gfy 财政局
 GfyA 财政局
 GfyG 财政厅
-Gf！c 财政预算
-Gf！v 赋予
+Gf!c 财政预算
+Gf!v 赋予
 Gg 鬼 鬼子
 Gg,/ 贝德玛
 Gg,w 鬼王
@@ -21701,7 +21703,7 @@ GgPB 赋得暮雨送李胄
 GgTu 赌徒套
 GgV; 鬼城
 GgYF 鬼祟
-GgZ！ 鬼畜
+GgZ! 鬼畜
 GgeB 鬼雄
 Gget 鬼才
 Ggio 鬼手
@@ -21710,7 +21712,7 @@ Ggnc 生息演算
 Ggnw 鬼混
 GgpY 鬼节
 Ggql 鬼风
-Ggr！ 鬼精
+Ggr! 鬼精
 Ggug 鬼话
 Ggwr 生息日
 Ggws 鬼影
@@ -21797,7 +21799,7 @@ GkxM 生命科学
 GkxY 生命上限
 Gl 生杀予夺
 GlfT 生杀与夺
-Gl！T 生杀予夺
+Gl!T 生杀予夺
 Gm 生物学
 Gm.; 生物碱
 Gm;z 生物炼金
@@ -21890,7 +21892,7 @@ GqV; 赌城
 GqVA 赌场
 Gqad 赌侠
 Gqaj 顶风作案
-Gqa！ 赌债
+Gqa! 赌债
 GqeL 赌博
 Gqgd 赌徒
 Gqkb 赌命
@@ -21921,7 +21923,7 @@ Gs,P 生理
 Gs.g 生硬
 Gs:G 生性
 Gs:d 生怕
-Gs:！ 生情
+Gs:! 生情
 Gs;A 生成
 Gs;h 生火
 Gs<c 生辰
@@ -22048,7 +22050,7 @@ Gtpa 罂粟花
 GtuA 贬词
 Gtuh 贬谪
 GtxL 贬称
-Gt！G 贬责
+Gt!G 贬责
 Gu 账 账号
 Gu/< 账务
 GuFc 账册
@@ -22069,11 +22071,11 @@ Gunb 账本
 GurN 账款
 Guwo 生长明妃尚有村
 Gv 变 变化
+Gv:o 变彩
 Gv,; 变焦
 Gv,e 变现
 Gv/a 变故
 Gv:G 变性
-Gv:o 变彩
 Gv:w 变慢
 Gv:x 变心
 Gv;A 变成
@@ -22150,8 +22152,8 @@ Gvy 变
 GvyA 变局
 GvyV 变压
 Gvye 变质
-Gv！A 变幻
-Gv！f 变奏
+Gv!A 变幻
+Gv!f 变奏
 Gw 赐 赐教
 Gw:W 生日快乐
 Gw<r 贱日岂殊众
@@ -22163,7 +22165,7 @@ Gwau 生日信
 GwcO 魅影面罩
 Gwno 弈星混沌棋
 GwqF 赐教
-Gw！v 赐予
+Gw!v 赐予
 GxRJ 丁香结
 GxUa 丁香酚
 GxnU 丁香油酚
@@ -22182,7 +22184,7 @@ Gym 变压器
 GymK 变压器
 Gyv 贩
 GyxB 贩私
-Gy！N 贩毒
+Gy!N 贩毒
 Gz 魅 魅力
 Gz<b 銮驾
 Gz<l 魅力
@@ -22199,12 +22201,12 @@ Gzw 魅
 GzxG 生无可恋
 Gzxk 魅可
 Gzzk 銮铃
-G！ 婴幼儿
-G！F 变奏曲
-G！Fq 变奏曲
-G！Je 婴幼儿
-G！Pn 变幻莫测
-G！zM 变幻无常
+G! 婴幼儿
+G!F 变奏曲
+G!Fq 变奏曲
+G!Je 婴幼儿
+G!Pn 变幻莫测
+G!zM 变幻无常
 H 月 股 怎么
 H' 服务
 H,IJ 滕王阁序
@@ -22416,7 +22418,7 @@ HBt; 肌肉覆盖感
 HBuP 胎记
 HByV 胎压
 HBym 胎毛
-HB！N 胎毒
+HB!N 胎毒
 HC 脓 脓肿
 HC.P 脓包
 HC? 脓
@@ -22446,7 +22448,7 @@ HDoU 脱氧核糖核酸
 HDoX 肤氢松
 HDor 脱氧核糖
 HDyp 脱氧尿苷
-HD！Y 腮帮
+HD!Y 腮帮
 HE 脖 脖子
 HE:f 胆小怕事
 HEA 肟
@@ -22468,12 +22470,12 @@ HGGa 胜败
 HGGp 胜迹
 HGLG 胜负
 HGRu 胜券
-HGR！ 胜绩
+HGR! 胜绩
 HGTf 胜败乃兵家常事
 HGVS 胜境
 HGVz 胜地
 HGYF 胜出
-HGZ！ 胜率
+HGZ! 胜率
 HGaN 胜任
 HGag 胜仗
 HGah 胜似
@@ -22496,8 +22498,8 @@ HH 朋 朋友
 HH.O 皮肤碎片
 HH/J 朋克
 HH;k 脆皮烧鸽
-HHB; 皮肤通透感
 HHBf 皮皮虾
+HHB; 皮肤通透感
 HHH 皮脂腺
 HHH? 脂肪肝
 HHHH 朦朦胧胧
@@ -22815,7 +22817,7 @@ HTnb 股本
 HTng 肥活
 HTns 肥水
 HTnt 肥沃
-HTn！ 腌渍
+HTn! 腌渍
 HTov 股权
 HTp: 腌菜
 HTqg 胯骨 股骨
@@ -22877,7 +22879,7 @@ HVHp 肚皮
 HVHq 脏增肌
 HVII 脚步
 HVIm 脚门
-HVI！ 脚凳
+HVI! 脚凳
 HVJZ 脚底
 HVJe 脚儿
 HVLT 脚色
@@ -23012,8 +23014,8 @@ HXyE 脱屑
 HXym 脱毛
 HXz. 脱钩
 HXzE 脱销
-HX！ 胰岛素
-HX！R 胰岛素
+HX! 胰岛素
+HX!R 胰岛素
 HY 服 服装
 HY/< 服务
 HY;j 胆甾烷
@@ -23050,7 +23052,7 @@ HYrm 服众
 HYsl 服了
 HYv 服
 HYww 月隐晦明
-HY！N 服毒
+HY!N 服毒
 HZ 脑 脑子
 HZ, 臃
 HZ.O 脑勺
@@ -23654,13 +23656,13 @@ HzIb 肘窝
 HzTr 胸无大志
 HzUe 胸无点墨
 Hzc 肘
-H！ 膈 腮帮子
-H！Fi 腮帮子
-H！H 腈
-H！HP 膈膜
-H！RS 腈纶
-H！T 腠
-H！g 膈
+H! 膈 腮帮子
+H!Fi 腮帮子
+H!H 腈
+H!HP 膈膜
+H!RS 腈纶
+H!T 腠
+H!g 膈
 I 此 问 身体
 I' 问题
 I, 闰 闰年
@@ -23835,7 +23837,7 @@ IBdu 闽超
 IBeF 闽南
 IBfD 穷通与修短
 IBnS 闽江
-IBn！ 闽清
+IBn! 闽清
 IBp: 闽菜
 IBuN 闽语
 IBy/ 闽剧
@@ -23959,7 +23961,7 @@ IIYv 频发
 IIYx 闪闪发光
 IIZl 步离
 IIZz 空空如也
-IIZ！ 频率
+IIZ! 频率
 IIaE 频传
 IIaT 频仍
 IIaU 步伐
@@ -23998,7 +24000,7 @@ IJ 窕 毋庸置疑
 IJOh 毋庸置疑
 IJS 窕
 IJn 门儿清
-IJn！ 门儿清
+IJn! 门儿清
 IJpZ 门庭若市
 IJqB 闻喜县
 IJrW 身残志坚
@@ -24137,7 +24139,7 @@ IPxT 穿透
 IPxf 穿上
 IPy 穿
 IPzp 穿过
-IP！Y 穿帮
+IP!Y 穿帮
 IQ 帘 帘子
 IQ, 闹着玩
 IQ,E 闹着玩
@@ -24255,11 +24257,11 @@ ISnR 空港
 ISnW 门头沟区
 ISnt 空泛
 ISnv 门外汉
+ISoY 空格
 ISo. 空构
 ISoE 空档
 ISoT 空想
 ISoX 空栏
-ISoY 空格
 ISor 空枪
 ISpG 空警
 ISrT 空类
@@ -24283,7 +24285,7 @@ ISy. 空屋
 ISyL 闻名遐迩
 ISzb 空钟
 ISzu 空无
-IS！A 空幻
+IS!A 空幻
 IT 殷 阉割
 IT:: 殷忧
 IT< 门巴族
@@ -24302,7 +24304,7 @@ IThX 殷商
 ITjS 殷实
 ITjb 闭目塞听
 ITjf 殷富
-ITj！ 阉割
+ITj! 阉割
 IToL 穷奢极欲
 IToV 柴达木盆地
 ITp 闼
@@ -24456,7 +24458,7 @@ Iagd 此伏彼起
 IaqB 闽侯县
 Iauf 身份证
 Iaxf 须佐卡
-Ia！y 身体素质
+Ia!y 身体素质
 Ib 窝 问答
 Ib.W 问到
 Ib/f 闾丘
@@ -24468,7 +24470,7 @@ IbDq 窝气
 IbEZ 空中小姐
 IbEm 窝囊
 IbEx 闺中少妇不知愁
-IbF！ 闹中取静
+IbF! 闹中取静
 IbGJ 窝赃
 IbGj 问句
 IbIL 闾阎
@@ -24538,7 +24540,7 @@ Ibxl 窜稀
 IbzL 窝铺
 Ibza 空口无凭
 Ibzp 问过
-Ib！G 问责
+Ib!G 问责
 Ic 阄 身不由己
 IcBP 身不由己
 IcOH 射不主皮
@@ -24659,7 +24661,7 @@ Ih/f 此皆骑战一敌万
 Ih/o 此条
 Ih/x 此处
 Ih:G 雌性
-Ih:！ 此情
+Ih:! 此情
 Ih;U 紫烟
 Ih;h 柴火
 Ih<y 此岸
@@ -24762,7 +24764,7 @@ Ihxg 紫光
 Ihyf 此后
 IhzF 紫铜
 Ihzj 紫金
-Ih！? 此表
+Ih!? 此表
 Ii 止 止损
 Ii,c 闵振环
 Ii/r 射手丘丘人
@@ -24939,7 +24941,7 @@ Io 闲 闲置
 Io,f 紫刺球
 Io/A 闲荡
 Io:x 闲心
-Io:！ 闲情
+Io:! 闲情
 Io<Y 此木岂无阴
 IoAA 闲书
 IoAo 闲杂
@@ -24983,7 +24985,7 @@ Ioz 空格键
 IozF 穷极无聊
 Iozf 闲钱
 Iozl 空格键
-Io！H 闲静
+Io!H 闲静
 Ip 紫荆花
 Ip/o 紫薯条
 IpEH 间苯二胺
@@ -25005,7 +25007,7 @@ IqIr 躲闪
 IqQT 躲着
 IqWl 殷都区
 IqWp 躲避
-Iqa！ 躲债
+Iqa! 躲债
 IqeH 闻风丧胆
 Iqec 躲在
 Iqfp 躲开
@@ -25180,7 +25182,7 @@ Iuo 空调机
 Iuoq 空调机 步话机
 Iuti 毋忘我
 IuxJ 阅读程序
-Iu！? 登记表
+Iu!? 登记表
 Iv 闵 闵行
 IvFb 门对孟津口
 IvWl 柴桑区
@@ -25210,7 +25212,7 @@ IwWR 问题归约
 IwWV 间壁
 IwXg 间道
 IwYE 间隙
-IwY！ 间隔
+IwY! 间隔
 IwaC 间位
 IwaH 间作
 IwaU 间伐
@@ -25305,49 +25307,49 @@ Izlo 射杀
 IznN 射流
 IzqB 紫金县
 Izqb 射向
-Izr！ 射精
+Izr! 射精
 Izum 身无长物
 Izws 射影
 Izxb 射程
 IzzX 射来
-I！ 登 登记
-I！< 窈
-I！<s 登山
-I！<y 登岸
-I！Bb 登台
-I！Cn 登录
-I！Fi 凳子
-I！G? 登顶
-I！Hy 登月
-I！IJ 窈窕
-I！Im 登门
-I！Lz 登载
-I！Mz 登封
-I！VA 登场
-I！Vu 登入
-I！Wc 登临
-I！YF 登出
-I！Yi 登陆
-I！cP 登第
-I！d 登
-I！dV 登基
-I！fT 登天
-I！iY 登报
-I！ol 登攀
-I！oq 登机
-I！or 登楼
-I！os 登极
-I！q 凳
-I！sg 登高
-I！uP 登记
-I！wz 登时
-I！xD 登科
-I！xf 登上
+I! 登 登记
+I!< 窈
+I!<s 登山
+I!<y 登岸
+I!Bb 登台
+I!Cn 登录
+I!Fi 凳子
+I!G? 登顶
+I!Hy 登月
+I!IJ 窈窕
+I!Im 登门
+I!Lz 登载
+I!Mz 登封
+I!VA 登场
+I!Vu 登入
+I!Wc 登临
+I!YF 登出
+I!Yi 登陆
+I!cP 登第
+I!d 登
+I!dV 登基
+I!fT 登天
+I!iY 登报
+I!ol 登攀
+I!oq 登机
+I!or 登楼
+I!os 登极
+I!q 凳
+I!sg 登高
+I!uP 登记
+I!wz 登时
+I!xD 登科
+I!xf 登上
 J 店 度 应该
 J' 喜欢
 J,Xd 广玉兰
 J. 殉 殉职
-J.:！ 殉情
+J.:! 殉情
 J.Fb 殉职
 J.P 庖
 J.U, 殉国
@@ -25360,7 +25362,7 @@ J.pJ 殉葬
 J.pY 殉节
 J.v, 殉难
 J.w 殉
-J.y！ 庖厨
+J.y! 庖厨
 J/ 喜马拉雅
 J/EW 死马当活马医
 J/F 死胡同
@@ -25416,7 +25418,7 @@ J< 嘉 嘉宾
 J<</ 唐屹峰
 J<?S 嘉奖
 J<AJ 嘉勉
-J<C！ 嘉靖
+J<C! 嘉靖
 J<Do 嘉果
 J<JT 嘉庆
 J<Ol 嘉义
@@ -25498,7 +25500,7 @@ JEcr 残缺不全
 JEkk 列缺霹雳
 JEpF 彭小苒
 JEqB 庆元县
-JE！ 殪
+JE! 殪
 JF 殃及 殃
 JF/ 底子薄
 JF/L 底子薄
@@ -25518,7 +25520,7 @@ JGLx 腐败之种
 JGaF 腐败分子
 JGaM 裂变化学
 JGwB 庄生晓梦迷蝴蝶
-JG！I 死生契阔
+JG!I 死生契阔
 JH 庞然大物
 JHCH 死皮赖脸
 JHTm 庞然大物
@@ -25736,7 +25738,7 @@ JSYF 逃出
 JSZZ 逃婚
 JSZa 逃夜
 JSZl 逃离
-JSa！ 逃债
+JSa! 逃债
 JSc> 烈音齐奏
 JSdz 逃走
 JSfp 逃开
@@ -25794,7 +25796,7 @@ JTr 康乃馨
 JTry 康乃馨
 JTs 殁
 JTy< 庆历
-JT！f 庆丰
+JT!f 庆丰
 JU 庞 店面
 JU;O 广式烧填鸭
 JU;f 庄园烤松饼
@@ -25910,8 +25912,8 @@ JWrZ 列数
 JWrs 烈士
 JWwr 烈日
 JWyt 烈属
-JW！? 列表
-JW！a 逃避责任
+JW!? 列表
+JW!a 逃避责任
 JX 廉 廉价
 JX; 廉
 JXAz 廉直
@@ -26114,7 +26116,7 @@ JbWE 喜乐
 JbZ 废品率
 JbZF 喜好
 JbZv 喜怒
-JbZ！ 废品率
+JbZ! 废品率
 JbeX 喜丧
 Jbf; 殒灭
 Jbfb 喜事
@@ -26158,7 +26160,7 @@ Jdgd 歹徒
 Jdk 庳
 Jdp; 唐三藏
 Jdrr 歹人
-Jd！N 歹毒
+Jd!N 歹毒
 Je 儿 儿子
 Je/m 儿马
 JeAM 儿鞋
@@ -26230,7 +26232,7 @@ JffL 喜形于色
 Jfga 残敌
 Jfib 残损
 Jfjf 庞天宇
-Jfj！ 残害
+Jfj! 残害
 JfkC 残雪
 Jfkq 康一千
 JflD 残疾
@@ -26256,13 +26258,13 @@ JfwG 残星
 JfwR 残暴
 Jfwu 残照
 JfyA 残局
-Jf！N 残毒
+Jf!N 残毒
 Jg 广 广告
 Jg,c 死循环
 Jg,k 廖德玲
 Jg: 彭德怀
 Jg:c 彭德怀
-Jg?！ 广袤
+Jg?! 广袤
 JgAv 广受
 JgCM 彭德军
 JgEJ 广元 广远
@@ -26378,7 +26380,7 @@ Jhyf 死后
 Jhys 死尸
 JhzE 死锁
 Jhzy 死也
-Jh！u 死契
+Jh!u 死契
 Ji 广播电台
 Ji,, 残振珊瑚
 JiKW 鹰手营子矿区
@@ -26620,8 +26622,8 @@ JnxX 应税
 Jnxb 应和
 JnyB 应届
 JnyO 应尽
-Jn！X 廉洁奉公
-Jn！v 应予
+Jn!X 廉洁奉公
+Jn!v 应予
 Jo 床 床上
 Jo.; 喜树碱
 Jo<b 床架
@@ -26703,7 +26705,7 @@ JsY 廓
 Jsf 殛
 Jsf/ 死路一条
 JsnL 殃及池鱼
-Jsn！ 廓清
+Jsn! 廓清
 Jt 殊 殊荣
 Jt?W 广西壮族自治区
 JtEt 广东省
@@ -26724,7 +26726,7 @@ JuMc 废话连篇
 JuR 死亡线
 JuRf 死亡线
 JuZ 死亡率
-JuZ！ 死亡率
+JuZ! 死亡率
 Jue 应该有
 JueH 应该有
 JufY 康诺顿
@@ -26816,21 +26818,21 @@ Jzry 死无全尸
 Jzu 庑
 JzvR 度过难关
 Jzvu 死无对证
-J！ 序 序列
-J！Dc 序齿
-J！Fq 序曲
-J！H 胤
-J！JW 序列
-J！PT 序幕
-J！Se 序章
-J！Tm 序目
-J！a 廒
-J！bf 序号
-J！rZ 序数
-J！se 序跋
-J！uy 序言
-J！v 序
-J！vw 序文
+J! 序 序列
+J!Dc 序齿
+J!Fq 序曲
+J!H 胤
+J!JW 序列
+J!PT 序幕
+J!Se 序章
+J!Tm 序目
+J!a 廒
+J!bf 序号
+J!rZ 序数
+J!se 序跋
+J!uy 序言
+J!v 序
+J!vw 序文
 K 年 每 每天
 K' 年月
 K, 逛 逛街
@@ -26855,7 +26857,7 @@ K,Mm 狂轰
 K,My 狂炎
 K,O 莹
 K,Pe 狂草
-K,P！ 狂野
+K,P! 狂野
 K,RS 翟红
 K,Sa 狂攻
 K,Sb 狂冲
@@ -26883,7 +26885,7 @@ K,nA 狂潮
 K,nE 狂沙
 K,nI 狂澜
 K,np 狂灌
-K,n！ 狂涛
+K,n! 狂涛
 K,oT 狂想
 K,p 逛
 K,pY 羽球节
@@ -26951,7 +26953,7 @@ K:ec 犹存
 K:gi 犹自
 K:hD 犹疑
 K:y 犹
-K:！, 犹豫
+K:!, 犹豫
 K; 狠 狠狠
 K;: 敏感性
 K;:G 敏感性
@@ -26981,7 +26983,7 @@ K;ur 猜灯谜
 K;vS 狠劲
 K;xg 荧光
 K;yX 荧屏
-K;！N 狠毒
+K;!N 狠毒
 K< 狐 狐狸
 K<<K 狐族
 K<<s 翠峰山
@@ -27084,7 +27086,7 @@ KBw/ 独显
 KBxg 萤光
 KBy/ 独居
 KBzS 劳而无功
-KB！f 独奏
+KB!f 独奏
 KC 翌 独立性
 KC,U 独立王国
 KC:G 独立性
@@ -27264,7 +27266,7 @@ KKoJ 猕猴桃
 KKql 飙风
 KKr 狐狸精
 KKrQ 猫猫糕
-KKr！ 狐狸精
+KKr! 狐狸精
 KKs 蒙蒙亮
 KKsC 茕茕孑立
 KKsg 飙高
@@ -27277,9 +27279,9 @@ KKw; 繁荣昌盛
 KKwu 猫狗日记
 KKxx 飙歌
 KKyT 狐狸尾巴
-KKz！ 羽翼未丰
-KK！n 羽翼丰满
-KK！！ 犹犹豫豫
+KKz! 羽翼未丰
+KK!n 羽翼丰满
+KK!! 犹犹豫豫
 KL 蓉 独裁者
 KLKi 獬豸
 KLKj 狰狞
@@ -27315,7 +27317,7 @@ KN.W 每到
 KN/j 每斤
 KN/o 每条
 KN/x 每处
-KN/！ 每逢
+KN/! 每逢
 KN:u 繁忙
 KN;A 繁盛
 KN;f 敏感
@@ -27365,7 +27367,7 @@ KNVW 每块
 KNXg 每道
 KNY 毓
 KNYr 每队
-KNY！ 每隔
+KNY! 每隔
 KNZD 每亩
 KNZa 每夜
 KNZs 毓婷
@@ -27442,7 +27444,7 @@ KOYf 狼卫
 KOZ 犯罪率
 KOZ; 狎妓
 KOZr 犯罪嫌疑人
-KOZ！ 犯罪率
+KOZ! 犯罪率
 KOaF 犯罪分子
 KOab 狼堡
 KObd 狼嗥
@@ -27469,7 +27471,7 @@ KPf 狒
 KPi? 熙攘
 KPl 狸
 KPo 狼牙棒
-KPo！ 狼牙棒
+KPo! 狼牙棒
 KPtj 狂弹要塞
 KPxb 熙和
 KPy 独幕剧
@@ -27486,7 +27488,7 @@ KQdI 独善其身
 KQfK 颐养天年
 KQmy 营养物质
 KQoq 羽扇枫
-KQ！R 营养素
+KQ!R 营养素
 KR 猎 猎人
 KR:c 萦怀
 KR? 年终奖
@@ -27526,7 +27528,7 @@ KRs 萦
 KRtR 萦系
 KRw 猎
 KRws 猎影
-KR！L 猎艳
+KR!L 猎艳
 KS 菀 猫头鹰
 KSAT 獐头鼠目
 KSFi 獐子
@@ -28039,7 +28041,7 @@ KoCM 荣军
 KoCl 荣立
 KoF 狂想曲
 KoFq 狂想曲
-KoI！ 荣登
+KoI! 荣登
 KoJa 荣膺
 KoVQ 荣幸
 KoWC 荣归
@@ -28179,7 +28181,7 @@ KrXD 年兽
 KrXH 年前
 KrY; 年限
 KrZa 年夜
-KrZ！ 年率
+KrZ! 年率
 KraL 年俗
 KraU 年代
 Kraa 年份
@@ -28227,9 +28229,9 @@ Kryf 年后
 Kryy 年尾
 KrzX 年来
 Krzj 年金
-Kr！< 年幼
-Kr！? 年表
-Kr！H 年青
+Kr!< 年幼
+Kr!? 年表
+Kr!H 年青
 Ks 舞蹈家
 Ks?r 独敲初夜磬
 KsGs 舞蹈生
@@ -28444,7 +28446,7 @@ Kynf 猫尾酒馆
 Kyw 复习题
 KywC 复习题
 Kywx 午后时光
-Kyz！ 羽毛未丰
+Kyz! 羽毛未丰
 Kz 蓥 犯错误
 KzKg 独来独往
 KzL< 敏锐之力
@@ -28456,28 +28458,28 @@ Kzj 蓥
 Kzjk 独钓寒江雪
 Kzp 迤
 Kzub 犯错误
-K！ 猜 猜测
-K！,d 犹豫再三
-K！.W 猜到
-K！G 赜
-K！H 猜
-K！JR 猜度
-K！K！ 猜猜
-K！P: 猜忌
-K！Ri 猜拳
-K！YF 猜出
-K！bc 猜中
-K！cS 犹豫不决
-K！cj 犹豫不定
-K！hD 猜疑
-K！nG 猜测
-K！o 猱
-K！oT 猜想
-K！ur 猜谜
-K！vz 猜对
-K！xT 猜透
-K！zD 年幼无知
-K！zR 猜错
+K! 猜 猜测
+K!,d 犹豫再三
+K!.W 猜到
+K!G 赜
+K!H 猜
+K!JR 猜度
+K!K! 猜猜
+K!P: 猜忌
+K!Ri 猜拳
+K!YF 猜出
+K!bc 猜中
+K!cS 犹豫不决
+K!cj 犹豫不定
+K!hD 猜疑
+K!nG 猜测
+K!o 猱
+K!oT 猜想
+K!ur 猜谜
+K!vz 猜对
+K!xT 猜透
+K!zD 年幼无知
+K!zR 猜错
 L 之 尔 之间
 L' 之后
 L, 截 截至
@@ -28779,7 +28781,7 @@ LFWZ 戴子航
 LFbP 欲取鸣琴弹
 LFdz 之子期宿来
 LFv 鲰
-LF！ 鳢
+LF! 鳢
 LG 负 负责
 LG:x 负心
 LGDR 负累
@@ -28796,7 +28798,7 @@ LGYD 负隅
 LGaA 负值
 LGaK 负伤
 LGaf 负分
-LGa！ 负债
+LGa! 负债
 LGb 负
 LGbf 负号
 LGcm 负面
@@ -28814,7 +28816,7 @@ LGpf 负荆
 LGrZ 负数
 LGyV 负压
 LGyY 负屈
-LG！G 负责
+LG!G 负责
 LH 截然不同
 LH.f 色胆包天
 LHP 鱼腥草
@@ -28945,7 +28947,7 @@ LQwH 鲜明
 LQy 鲜 皱着眉
 LQyT 皱着眉
 LQzE 鲜销
-LQ！L 鲜艳
+LQ!L 鲜艳
 LR 鲽 久经考验
 LR>R 角黄素
 LRE; 蟹黄壳壳烧
@@ -28967,8 +28969,8 @@ LT,f 色球
 LT,v 色斑
 LT:: 触目惊心
 LT:o 色彩
-LT:！ 色情
-LTD！ 争奇斗艳
+LT:! 色情
+LTD! 争奇斗艳
 LTFi 色子
 LTGg 色鬼
 LTGv 色变
@@ -29018,7 +29020,7 @@ LTxg 色光
 LTxw 色香
 LTyN 色层
 LTzl 色键
-LT！R 色素
+LT!R 色素
 LU 鲇 鱼龙混杂
 LU/ 鲴
 LUdA 戴因斯雷布
@@ -29070,7 +29072,7 @@ LWtW 载舟覆舟
 LWud 刻刀
 LWw, 戴乐旺
 LWw> 刻晴
-LW！N 刻毒
+LW!N 刻毒
 LX 觯 裁判员
 LXZO 急公好义
 LXbG 裁判员
@@ -29151,7 +29153,7 @@ LgPe 谷草
 LgV? 欲往城南望城北
 LgVz 谷地
 LgcL 欲行不行各尽觞
-Lgj！ 敷衍塞责
+Lgj! 敷衍塞责
 Lgkv 谷雨
 Lgm. 谷物
 LgrC 谷粒
@@ -29174,7 +29176,7 @@ Li/x 之处
 Li:E 之遥
 Li:W 之快
 Li:x 之心
-Li:！ 之情
+Li:! 之情
 Li;f 之感
 Li;h 之火
 Li<K 之旅
@@ -29369,8 +29371,8 @@ LluS 争论
 Llv 争
 Llxg 争光
 Llz/ 争锋
-Ll！L 争艳
-Ll！w 争春
+Ll!L 争艳
+Ll!w 争春
 Lm 鳄 鳄鱼
 LmA 鳄
 LmLv 鳄鱼
@@ -29382,7 +29384,7 @@ Lmz/ 急先锋
 Lmzn 欲哭无泪
 Ln 久治不愈
 Ln: 鱼水情
-Ln:！ 鱼水情
+Ln:! 鱼水情
 Ln;j 角鲨烷
 LnAF 鱼泡直聘
 LnB; 急流勇退
@@ -29504,7 +29506,7 @@ LuR. 解约
 LuRH 解散
 LuRh 蟹黄
 LuRp 解送
-LuR！ 解绑
+LuR! 解绑
 LuSW 解决
 LuSt 解冻
 LuTu 解套
@@ -29553,8 +29555,8 @@ LupR 解药
 Lur; 解热
 LurZ 解数
 Lura 蟹粉
-LutL 解乏
 Lutr 解释
+LutL 解乏
 Lutu 鱼语翻译
 LuuF 解调
 LuuX 解说
@@ -29570,7 +29572,7 @@ LuyY 解厄
 Luyf 邂逅
 LuzE 解锁
 Luzo 蟹钳
-Lu！N 解毒
+Lu!N 解毒
 Lv 鱼 鱼头
 Lv/? 谷文萍
 Lv;G 鱼灯
@@ -29721,12 +29723,12 @@ Lzrr 载人
 LztZ 载要
 Lzvw 载文
 LzwH 载明
-L！ 鲭 负责人
-L！H 鲭
-L！TT 鲜艳夺目
-L！a 负责任
-L！aN 负责任
-L！rr 负责人
+L! 鲭 负责人
+L!H 鲭
+L!TT 鲜艳夺目
+L!a 负责任
+L!aN 负责任
+L!rr 负责人
 M 学 车 觉得
 M' 学习
 M, 瞿 连环画
@@ -30309,7 +30311,7 @@ MQ/< 常务
 MQ/D 常备
 MQ/O 常驻
 MQ:G 常性
-MQ:！ 常情
+MQ:! 常情
 MQ<s 常山
 MQHY 常服
 MQKr 常年
@@ -30356,7 +30358,7 @@ MQxZ 常委
 MQyV 常压
 MQzE 常销
 MQzX 常来
-MQ！H 常青
+MQ!H 常青
 MR 黉 连续剧
 MR: 连续性
 MR:G 连续性
@@ -30510,7 +30512,7 @@ MZ 较 较高
 MZ/p 较近
 MZ:W 较快
 MZ:w 较慢
-MZD！ 较短
+MZD! 较短
 MZEJ 较远
 MZEt 较少
 MZEx 较小
@@ -30690,7 +30692,7 @@ Mcyo 车厢
 Mcyy 车尾
 Mczf 车钱
 Mczk 车铃
-Mc！Y 车帮
+Mc!Y 车帮
 Md 转基因
 MdUT 转基因
 Mdfm 常规武器
@@ -31058,7 +31060,7 @@ MvSy 轻音
 MvTv 轻盈
 MvU; 轻点
 MvWo 轻舟
-MvZ！ 轻率
+MvZ! 轻率
 MvaJ 轻佻
 MvaK 轻伤 轻侮
 Mvag 轻便
@@ -31094,7 +31096,7 @@ Mvuy 轻言
 Mvw. 轻易
 Mvwf 轻量
 Mvye 轻质
-Mv！o 轻柔
+Mv!o 轻柔
 Mw 辊 连日来
 MwFi 辊子
 MwRs 轻量级
@@ -31202,11 +31204,11 @@ MzvB 封斋
 MzyJ 连锁反应
 MzzE 封锁
 MzzS 封镜
-M！ 辏 常青藤
-M！T 辏
-M！o 常青树
-M！ov 常青树
-M！pH 常青藤
+M! 辏 常青藤
+M!T 辏
+M!o 常青树
+M!ov 常青树
+M!pH 常青藤
 N 五 动 运动
 N' 社会
 N,,/ 祖玛玛
@@ -31223,7 +31225,7 @@ N/;q 运斤成风
 N/CE 五岳寻仙不辞远
 N/CM 云骑军
 N/Nf 祈福
-N/N！ 祈祷
+N/N! 祈祷
 N/Ta 祈盼
 N/ay 五马分尸
 N/cj 动荡不安
@@ -31253,7 +31255,7 @@ N< 动作
 N</A 动荡
 N</X 动兵
 N<:x 动心
-N<:！ 动情
+N<:! 动情
 N<;f 动感
 N<;h 动火
 N<<l 动力
@@ -31313,7 +31315,7 @@ N<uA 动词
 N<uO 动议
 N<wf 动量
 N<zE 动销
-N<！H 动静
+N<!H 动静
 N>>k 云青青兮欲雨
 N>N, 祝融五峯尊
 N>Nb 祷祝
@@ -31471,7 +31473,7 @@ NHwH 五脏六腑
 NHxF 育秧
 NHxb 育种
 NHy 育
-NH！< 育幼
+NH!< 育幼
 NI 祉 视频电话
 NILL 云闪之鳞
 NIUi 视频点播
@@ -31550,7 +31552,7 @@ NLsY 神之路
 NLw 五角星
 NLwG 五角星
 NLx: 弃之可惜
-NL！I 五谷丰登
+NL!I 五谷丰登
 NM 运输机
 NM< 祁连山
 NM<s 祁连山
@@ -31610,7 +31612,7 @@ NOJF 礼义廉耻
 NOKS 云片猴头
 NONN 五四运动
 NOU/ 弃甲曳兵
-NO！p 五四青年节
+NO!p 五四青年节
 NP 祀 云里雾里
 NP/U 视野范围
 NPLR 神里之纹
@@ -31715,7 +31717,7 @@ NUqB 云龙县
 NUuw 祈或亡
 NV 社 社交
 NV,v 祛斑
-NV:！ 社情
+NV:! 社情
 NV;h 社火
 NVB 祛
 NVO, 社主
@@ -31796,7 +31798,7 @@ NaG 祈使句
 NaGj 祈使句
 NaIj 充分肯定
 NaIo 神代射术
-NaL！ 礼仪之邦
+NaL! 礼仪之邦
 NaQ 五保户
 NaQh 五保户
 NaWl 五华区
@@ -31823,7 +31825,7 @@ NbHB 祸胎
 NbJ 祝
 NbJF 祸殃
 NbNf 祝福
-NbN！ 祝祷
+NbN! 祝祷
 NbXB 祝颂
 NbXg 祸首
 NbYF 祸祟
@@ -31835,7 +31837,7 @@ Nbfb 祸事
 Nbg< 祝辞
 NbgA 祸乱
 Nbif 祝捷
-Nbj！ 祸害
+Nbj! 祸害
 Nbk 吾
 Nble 云中君不见
 Nblt 云中君
@@ -31849,7 +31851,7 @@ NbuA 祝词
 Nbuz 云中谁寄锦书来
 Nbxn 五号香水
 Nbyd 祝愿
-Nb！z 祝寿
+Nb!z 祝寿
 Nc 动不动
 NcDM 神不知鬼不觉
 NcM 运筹学
@@ -31883,7 +31885,7 @@ NeE 云南省
 NeEO 丢盔卸甲
 NeEt 云南省
 NeFt 视同
-NeII 五十步笑百步 视频
+NeII 视频 五十步笑百步
 NeIU 视阈
 NeIt 视窗
 NeKM 五十年间似反掌
@@ -31893,7 +31895,7 @@ NeNO 丢盔弃甲
 NeO 祓
 NeO< 视为
 NePr 五十弦翻塞外声
-NeP！ 视野
+NeP! 视野
 NeQS 视差
 NeRf 视线
 NeU/ 视图
@@ -31964,7 +31966,7 @@ NfwG 福星
 NfxW 福利
 Nfxf 福卡
 NfzX 福来
-Nf！z 福寿
+Nf!z 福寿
 Ng 廷 运行机制
 NgCc 运行剖面
 NgCr 五更疏欲断
@@ -32143,7 +32145,7 @@ Npc 弃 运
 NpcT 运算
 Npcj 运管
 Npcy 运笔
-Npc！ 运筹
+Npc! 运筹
 Npdz 运走
 NpgO 运往
 Npgx 运行
@@ -32250,7 +32252,7 @@ Nrx 社会上
 NrxJ 社会秩序
 NrxM 社会科学
 Nrxf 社会上
-Nr！K 社会青年
+Nr!K 社会青年
 Ns 示 示范
 Ns/Y 示范
 Ns:G 示性
@@ -32382,7 +32384,7 @@ Nw/z 神驰
 Nw:G 神性
 Nw:o 神采
 Nw:v 神怪
-Nw:！ 神情
+Nw:! 神情
 Nw;G 神灯
 Nw;f 神威
 Nw<K 神族
@@ -32560,7 +32562,7 @@ NynM 云淡
 Nyns 云水
 Nynv 云汉
 Nynz 祈愿池
-Nyn！ 云涛
+Nyn! 云涛
 NyoI 云杉
 NyoX 云梯
 Nyot 云栖
@@ -32589,13 +32591,13 @@ NzjM 神铸定轨
 Nzm. 福无双至
 NznK 云来海
 Nzo> 魂来枫林青
-N！ 祷 祷告
-N！T 禊
-N！ar 五毒俱全
-N！k: 祷念
-N！ma 福慧双修
-N！mb 祷告
-N！z 祷
+N! 祷 祷告
+N!T 禊
+N!ar 五毒俱全
+N!k: 祷念
+N!ma 福慧双修
+N!mb 祷告
+N!z 祷
 O 为 四 主要
 O' 为什么
 O, 主 主题
@@ -32705,8 +32707,8 @@ O,wG 主星
 O,y> 主厨
 O,yY 主顾
 O,zl 主键
-O,！ 四环素
-O,！R 四环素
+O,! 四环素
+O,!R 四环素
 O. 蜀 蜀黍
 O.<s 蜀山
 O.B 蜀
@@ -32802,7 +32804,7 @@ O/xf 罗莎利亚
 O/y 虚
 O/yf 罗马尼亚
 O/zu 虚无
-O/！A 虚幻
+O/!A 虚幻
 O: 虑 罹患
 O:, 罹
 O:Ep 永怀当此节
@@ -32929,7 +32931,7 @@ O<g 主旋律
 O<gl 主旋律
 O<jZ 罗山案
 O<jq 为宜
-O<j！ 为害
+O<j! 为害
 O<kk 为零
 O<l 虏
 O<nV 虚方法
@@ -33221,7 +33223,7 @@ OSwO 罗曼
 OSx 罗
 OSxb 罗卜
 OSzb 罗锅
-OS！R 罗素
+OS!R 罗素
 OT 罨 四大发明
 OTCn 主目录
 OTU 罨
@@ -33388,7 +33390,7 @@ OeT 牍
 OeZK 郎才女貌
 Oeaj 四十亿
 OedK 四十三年
-Oed！ 虚有其表
+Oed! 虚有其表
 Oefu 四十万
 OexE 四十秒
 Of 罡 为天下先
@@ -33666,7 +33668,7 @@ Opuy 片言
 Opww 片晶
 Opwz 片时
 Opyy 片尾
-Op！！ 永葆青春
+Op!! 永葆青春
 Oq 署 主教练
 Oq,P 署理
 Oq>, 署豫
@@ -33690,7 +33692,7 @@ OrOg 良人罢远征
 OrPS 虚数弱
 OrQD 为人所知
 OrRq 虚数织叶者
-OrW！ 为人师表
+OrW! 为人师表
 OrX 主人翁
 OrXB 主人翁 主人公
 OraK 虚数伤
@@ -33704,8 +33706,8 @@ OrhN 为人父母
 OriZ 虚数抗
 OruY 主人忘归客不发
 Orw/ 为人民服务
-Or！ 四人帮
-Or！Y 四人帮
+Or! 四人帮
+Or!Y 四人帮
 Os 四 四川
 Os,x 四象
 Os.< 四碳
@@ -33833,8 +33835,8 @@ OtwC 主要是
 OtyU 主要原因
 OtzR 罪错
 Otzp 罪过
-Ot！G 罪责
-Ot！y 主要矛盾
+Ot!G 罪责
+Ot!y 主要矛盾
 Ou 罚 罚款
 Ou,f 罚球
 OuCU 罚站
@@ -33896,14 +33898,14 @@ Ox?B 罩袖
 Ox?I 罩衫
 Ox?i 罩衣
 OxFi 罩子
-OxM！ 四季常青
+OxM! 四季常青
 OxQT 罩着
 OxT, 永和大王
 OxU 义和团
 OxUe 义和团
 OxWl 永和区
 OxYk 为乘阳气行时令
-OxZ！ 四季如春
+OxZ! 四季如春
 OxaO 罩住
 Oxe 罩
 Oxec 罩在
@@ -33911,7 +33913,7 @@ OxoH 罩棚
 Oxoc 罩杯
 OxqB 永和县
 Oxrv 主称会面难
-Ox！d 四季豆
+Ox!d 四季豆
 Oy 版 版本
 Oy:x 版心
 OyEc 版次
@@ -33944,8 +33946,8 @@ OzaI 永无休止
 Ozno 虚无法杖
 Oztn 虚无飘渺
 Ozyy 义无反顾
-O！ 罪责难逃
-O！vJ 罪责难逃
+O! 罪责难逃
+O!vJ 罪责难逃
 P 张 里 里面
 P' 已经
 P, 雅 雅思
@@ -33984,7 +33986,7 @@ P,rs 雅士
 P,uy 雅言
 P,ve 雅观
 P,wf 雅量
-P,！H 雅静
+P,!H 雅静
 P. 葛 葛洪
 P.Ab 葛布
 P.CM 葛军
@@ -34189,7 +34191,7 @@ PGUd 费电
 PGUs 异丁醇
 PGV; 费城
 PGZs 费氏
-PGZ！ 费率
+PGZ! 费率
 PGao 费休
 PGb 费
 PGfb 费事
@@ -34424,8 +34426,8 @@ PTx; 莫愁 暮秋
 PTyf 幕后
 PTym 莫毛
 PTyt 莫属
-PT！? 墓表
-PT！w 暮春
+PT!? 墓表
+PT!w 暮春
 PU 野战军
 PU:G 弱酸性
 PUCM 野战军
@@ -34503,7 +34505,7 @@ PXsJ 弹跳
 PXtp 弹升
 PXuA 弹词
 PXyV 弹压
-PX！f 弹奏
+PX!f 弹奏
 PY 邪 邪恶
 PY:x 邪心
 PYAJ 慕陶直可庶
@@ -34533,7 +34535,7 @@ PYsY 邪路
 PYtX 邪乎
 PYuX 邪说
 PYww 张顺昌
-PY！N 邪毒
+PY!N 邪毒
 PZ 弦 强弩之末
 PZ/J 莫妮克
 PZFi 弦子
@@ -34544,7 +34546,7 @@ PZiC 张娜拉
 PZk: 弓如霹雳弦惊
 PZxn 强效稳定液
 PZxx 弦歌
-PZ！ 弦
+PZ! 弦
 P` 已经
 Pa 改 改变
 Pa.P 改包
@@ -34781,7 +34783,7 @@ Pcxb 引种
 Pcxf 引上
 PcyJ 异面反应
 PczX 引来
-Pc！p 引逗
+Pc!p 引逗
 Pd 莫斯科
 Pd;l 己三烯
 PdUs 己三醇
@@ -34808,7 +34810,7 @@ PeLv 草鱼
 PeMV 草堂
 PeO, 草主
 PePe 草草
-PeP！ 草野
+PeP! 草野
 PeQw 草帽
 PeR. 草约
 PeRC 草绿
@@ -34824,7 +34826,7 @@ PeV, 草堆
 PeV? 草坪
 PeVA 草场
 PeVz 草地
-PeZ！ 草率
+PeZ! 草率
 Peah 已黑化
 Pean 草体
 Pebe 草叶
@@ -35155,7 +35157,7 @@ Ppxb 异种
 Ppxw 异香
 Ppye 异质
 Ppzt 异铁
-Pp！Y 异邦
+Pp!Y 异邦
 PqUK 费用回复
 Pqbh 野风吹蕙带
 PqfO 野老与人争席罢
@@ -35181,7 +35183,7 @@ ProQ 粥样
 Proc 暮禽相与还
 Prz 墓志铭
 PrzS 墓志铭
-Pr！ 鬻
+Pr! 鬻
 Ps 巳 莫高窟
 Ps,B 弥足珍贵
 PsIy 莫高窟
@@ -35346,9 +35348,9 @@ PyxD 牙科
 PyyQ 牙刷
 Pyye 牙质
 Pz 导 导致
+Pz.a 导致
 Pz.O 异铁碎片
 Pz.P 导包
-Pz.a 导致
 Pz:L 弛懈
 Pz?W 导刊
 PzBq 导通
@@ -35395,45 +35397,45 @@ Pzur 导诊
 Pzuy 导言
 Pzy 弛
 Pzyn 导尿
-P！ 野 野生
-P！/Q 野驴
-P！/m 野马
-P！:G 野性
-P！:x 野心
-P！;: 野炊
-P！;h 野火
-P！Al 野鹿
-P！At 野兔
-P！Do 野果
-P！GB 野蛮
-P！Gg 野鬼
-P！Gs 野生
-P！Jv 野餐
-P！KG 野狗
-P！KO 野狼
-P！Kb 野营
-P！Kp 野猫
-P！Kq 野猪
-P！OX 野鸭
-P！Pe 野草
-P！Sx 野外
-P！UU 野战
-P！V 墅
-P！Vz 野地
-P！XD 野兽
-P！bl 野史
-P！bz 野味
-P！dF 野趣
-P！jw 野宴
-P！kX 野鸽
-P！mn 野牛
-P！p: 野菜
-P！pa 野花
-P！rZ 野禽
-P！rr 野人
-P！v 野
-P！vX 野鸡
-P！ws 野景
+P! 野 野生
+P!/Q 野驴
+P!/m 野马
+P!:G 野性
+P!:x 野心
+P!;: 野炊
+P!;h 野火
+P!Al 野鹿
+P!At 野兔
+P!Do 野果
+P!GB 野蛮
+P!Gg 野鬼
+P!Gs 野生
+P!Jv 野餐
+P!KG 野狗
+P!KO 野狼
+P!Kb 野营
+P!Kp 野猫
+P!Kq 野猪
+P!OX 野鸭
+P!Pe 野草
+P!Sx 野外
+P!UU 野战
+P!V 墅
+P!Vz 野地
+P!XD 野兽
+P!bl 野史
+P!bz 野味
+P!dF 野趣
+P!jw 野宴
+P!kX 野鸽
+P!mn 野牛
+P!p: 野菜
+P!pa 野花
+P!rZ 野禽
+P!rr 野人
+P!v 野
+P!vX 野鸡
+P!ws 野景
 Q 所 着 美国
 Q' 所以
 Q, 雇 雇主
@@ -35452,12 +35454,12 @@ Q,bG 雇员
 Q,i 帷 雇
 Q,lF 雇凶
 Q,qy 雇用
-Q,u！ 雇请
+Q,u! 雇请
 Q,z, 美玉无瑕
 Q. 所到之处
 Q.L/ 所到之处
 Q.fy 盖码饭
-Q/ 所有 幞
+Q/ 幞 所有
 Q/.a 所致
 Q/.i 所至
 Q//x 所处
@@ -35601,7 +35603,7 @@ Q<yR 房展
 Q<yh 帕加尼
 Q<zf 房钱
 Q<zt 羰铁
-Q<！u 房契
+Q<!u 房契
 Q>o; 姜春杰
 Q?M? 扁平封装
 Q?UR 扁平电缆
@@ -35664,7 +35666,7 @@ QFN 美联社
 QFNV 美联社
 QFP 姜子牙
 QFPy 姜子牙
-QFP！ 遍野
+QFP! 遍野
 QFQF 翩翩
 QFRw 扁鹊
 QFTu 扇子套
@@ -35687,7 +35689,7 @@ QFsj 遍及
 QFsk 翩跹
 QFvn 帽子戏法
 QFy< 遍历
-QF！d 扁豆
+QF!d 扁豆
 QG 养生之道
 QGLX 养生之道
 QH 肩 肩膀
@@ -35955,9 +35957,9 @@ QTfb 美事
 QTfs 美食
 QTge 美德
 QTgw 美得
+QThr 美以
 QThG 着魔
 QThQ 美帝
-QThr 美以
 QTid 美拍
 QTio 着手
 QTjL 美容
@@ -35998,7 +36000,7 @@ QTyT 美眉
 QTzB 美钠
 QTzE 美钞
 QTzj 美金
-QT！L 美艳
+QT!L 美艳
 QU 帖 帖子
 QUBf 养龙虾
 QUEe 羰酰二
@@ -36105,8 +36107,8 @@ QbDb 启智
 QbDc 启齿
 QbKf 启蒙
 QbMz 启封
-QbN< 启动
 QbNp 启运
+QbN< 启动
 QbNs 启示
 QbPT 启幕
 QbT 扈
@@ -36129,7 +36131,7 @@ QbsI 幅员辽阔
 Qbt; 启衅
 QbwH 启明
 Qbxb 启程
-Qb！f 启奏
+Qb!f 启奏
 Qc 差不多
 Qc,w 羌管弄晴
 QcHW 美不胜收
@@ -36419,12 +36421,12 @@ QyoJ 羊桃
 Qysh 羊蹄
 Qysy 羊毫
 Qyym 羊毛
-Qz 帕金森
 Qzim 差错控制
+Qz 帕金森
 Qzom 帕金森
-Q！ 帻
-Q！G 帻
-Q！z 帱
+Q! 帻
+Q!G 帻
+Q!z 帱
 R 线 给 世界
 R' 关注
 R' 关注
@@ -36504,7 +36506,7 @@ R.ri 编码数据
 R.uM 约谈
 R.ue 约计
 R.uy 约言
-R.u！ 约请
+R.u! 约请
 R.vX 纸包鸡
 R.w 绚
 R.wf 约旦
@@ -36570,14 +36572,14 @@ R/rN 终会
 R/sl 终了
 R/wr 终日
 R/yA 终局
-R/！j 经验丰富
+R/!j 经验丰富
 R7 关于
 R: 缓 缓解
 R:/. 关怀备至
 R::w 缓慢
 R:<R 线性方程组
 R:>? 线性表
-R:C！ 绥靖
+R:C! 绥靖
 R:Dq 缓气
 R:EJ 绥远
 R:Gi 线性变换
@@ -36693,7 +36695,7 @@ R?qB 黄平县
 RA 世 世纪
 RA/a 世故
 RA:G 世贸
-RA:！ 世情
+RA:! 世情
 RA<K 世族
 RA?o 纽襻
 RABa 约翰内斯堡
@@ -36824,7 +36826,7 @@ RCOU 共产主义青年团
 RCOj 绿甲
 RCOp 纪录片
 RCPe 绿草
-RCP！ 绿野
+RCP! 绿野
 RCQ 缘
 RCQw 绿帽
 RCRC 绿绿
@@ -36883,7 +36885,7 @@ RCyf 结束后
 RCym 绿毛
 RCzU 绿钻
 RCzr 红颜未老恩先断
-RC！d 绿豆
+RC!d 绿豆
 RD 细 细节
 RD.E 细砂
 RD.Z 细碎
@@ -36896,7 +36898,7 @@ RD:R 世界贸易组织
 RD:u 纸短情长
 RD:w 世界贸易
 RD:x 细心
-RD:！ 细情
+RD:! 细情
 RD<b 细加
 RD<x 细辛
 RDAA 纬书
@@ -37008,8 +37010,8 @@ RDyT 细眉
 RDyb 世界历史
 RDym 细毛
 RDzg 世界银行
-RD！o 细柔
-RD！w 结果表明
+RD!o 细柔
+RD!w 结果表明
 RE 纱 纱布
 RE;G 纱灯
 RE?i 纱衣
@@ -37080,7 +37082,7 @@ RGFw 绝顶聪明
 RGZ 缨
 RGnq 眷恋泠风
 RGvu 终生难忘
-RG！R 维生素
+RG!R 维生素
 RH 散 散步
 RH. 绊脚石
 RH.E 黄月砂
@@ -37253,7 +37255,7 @@ RJkh 结合
 RJko 结霜
 RJnW 结汇
 RJnp 结满
-RJn！ 结清
+RJn! 结清
 RJo. 结构
 RJoL 结核
 RJpY 结节
@@ -37261,9 +37263,9 @@ RJrr 缠人
 RJrx 结余
 RJsl 结了
 RJsu 缠足
+RJuS 结论
 RJuD 结课
 RJuN 结语
-RJuS 结论
 RJub 结识
 RJvR 共度难关
 RJvz 结对
@@ -37299,7 +37301,7 @@ RL 绝 绝对
 RL./ 编解码
 RL.m 编解码器
 RL:T 绿色心眼
-RL:！ 绝情
+RL:! 绝情
 RL;c 红色烧牛蹄筋
 RL>Q 黄鱼豆腐羹
 RL>R 黄色素 红色素
@@ -37424,11 +37426,11 @@ RNUU 统战
 RNVH 绯云坡
 RNWQ 统帅
 RNWr 统舱
-RNZ！ 统率
+RNZ! 统率
 RNaf 统分
 RNah 统货
 RNcj 统管
-RNc！ 统筹
+RNc! 统筹
 RNfL 黄云万里动风色
 RNfi 统一
 RNgE 统御
@@ -37669,8 +37671,8 @@ RRy 纺织厂
 RRyc 纺织厂
 RRye 丝质
 RRz, 丝锥
-RR！ 纤维素
-RR！R 纤维素
+RR! 纤维素
+RR!R 纤维素
 RS 红 红色
 RS,O 红玉
 RS,e 红隼
@@ -37814,7 +37816,7 @@ RSxW 红利
 RSxf 维多利亚
 RSxg 红光
 RSym 红毛
-RS！d 红豆
+RS!d 红豆
 RT 绮 绝大多数
 RTA 绔
 RTCa 绝大部分
@@ -38215,8 +38217,8 @@ Rbxg 织光
 Rbyr 燕屎
 RbzM 共鸣链
 Rbzd 织锦
-Rb！/ 燕麦
-Rb！N 缉毒
+Rb!/ 燕麦
+Rb!N 缉毒
 Rc 缅 缅甸
 Rc.D 缅甸
 Rc:c 缅怀
@@ -38273,7 +38275,7 @@ Rdfx 维基百科
 Rdgo 绵甜
 Rdj: 绵密
 Rdkk 卷起千堆雪
-Rdn！ 缴清
+Rdn! 缴清
 RdoU 缴械
 RdpK 缴获
 RdpZ 纯白花嫁
@@ -38335,7 +38337,7 @@ Rf.; 纯碱
 Rf/o 线条
 Rf/r 世事茫茫难自料
 Rf:G 线性 统一性
-Rf:！ 纯情
+Rf:! 纯情
 Rf>w 线春
 Rf?X 纯平
 Rf?i 线衣
@@ -38620,8 +38622,8 @@ RhzF 黄铜
 RhzU 黄钻
 Rhzj 黄金
 Rhzt 黄铁
-Rh！N 黄毒
-Rh！d 黄豆
+Rh!N 黄毒
+Rh!d 黄豆
 Ri 拳 拳击
 Ri,? 维持现状
 Ri,w 拳王
@@ -38655,7 +38657,7 @@ Riix 红扑扑
 RinV 拳法
 Rio 拳
 RioO 拳术
-Rio！ 拳棒
+Rio! 拳棒
 Riqz 维护者
 Rir 经手人
 Rirr 经手人
@@ -38674,9 +38676,9 @@ Rj<a 缩放 绽放
 RjC 绽
 RjCf 缩写
 RjDY 缩略
-RjD！ 缩短
-RjEZ 纠察小姐
+RjD! 缩短
 RjEx 缩小
+RjEZ 纠察小姐
 RjFv 缩聚
 RjJW 绽裂
 RjKr 送完年
@@ -38799,17 +38801,17 @@ Rkym 纤毛
 RkzE 纪念钞
 RkzM 纤链
 Rkzf 给钱
-Rk！ 红霉素
-Rk！R 红霉素
-Rk！o 纤柔
-Rk！v 给予
-Rk！y 综合素质
+Rk! 红霉素
+Rk!R 红霉素
+Rk!o 纤柔
+Rk!v 给予
+Rk!y 综合素质
 Rl 燕瘦环肥
 Rl,H 燕瘦环肥
 RlFZ 黄建丹
 RlOI 黄建彪
 Rm 纵 纵横
-Rm:！ 纵情
+Rm:! 纵情
 Rm;h 纵火
 Rm?X 黄楚平
 RmG 缵
@@ -38823,7 +38825,7 @@ RmRb 黄双燕
 RmTm 纵目
 RmWc 纵览
 RmYr 纵队
-RmY！ 纵隔
+RmY! 纵隔
 RmZT 纯牛奶
 RmZn 绿林好汉
 Rma< 织梦仿
@@ -38943,7 +38945,7 @@ Rnx: 经济可行性
 Rnx; 黄润秋
 Rnxf 经济上
 Rnxn 经济利益
-Rn！< 绿水青山
+Rn!< 绿水青山
 Ro 绀 红楼梦
 Ro,W 红木瑞印
 Ro,f 红刺球
@@ -39194,7 +39196,7 @@ Rsj 级
 Rso 线路板
 Rsoy 线路板
 RsrZ 级数
-Rs！R 缟素
+Rs!R 缟素
 Rt 练 练习
 Rt,, 练琴
 Rt.W 练到
@@ -39269,7 +39271,7 @@ RumK 编译器
 RunU 绍酒
 RunX 绍兴
 RunZ 维谢海姆
-Run！ 誊清
+Run! 誊清
 RurW 绍介
 Ruri 统计数据
 RutR 编译系统
@@ -39280,8 +39282,8 @@ Ruy 誊 统计局
 Ruy/ 绍剧
 RuyA 统计局
 Ruzi 统计链段
-Ru！ 统计表
-Ru！? 统计表
+Ru! 统计表
+Ru!? 统计表
 Rv 经 经济
 Rv,P 经理 纹理
 Rv,b 经售
@@ -39491,27 +39493,27 @@ Rzwa 黄金时代
 Rzwc 红针晶簇
 Rzxx 红锤哥
 RzzS 黄铜镜
-R！ 绩 绩效
-R！<b 绑架
-R！G 绩
-R！H; 绑腿
-R！QT 绑着
-R！RL 绑缚
-R！U 共青团
-R！Ub 共青团员
-R！Ue 共青团
-R！Wt 绑匪
-R！Y 绑
-R！Zh 绩效
-R！aO 绑住
-R！iA 绑扎
-R！jC 绑定
-R！jm 绑牢
-R！n: 绩溪
-R！tN 绑票
-R！v 纾
-R！！ 红艳艳
-R！！L 红艳艳
+R! 绩 绩效
+R!<b 绑架
+R!G 绩
+R!H; 绑腿
+R!QT 绑着
+R!RL 绑缚
+R!U 共青团
+R!Ub 共青团员
+R!Ue 共青团
+R!Wt 绑匪
+R!Y 绑
+R!Zh 绩效
+R!aO 绑住
+R!iA 绑扎
+R!jC 绑定
+R!jm 绑牢
+R!n: 绩溪
+R!tN 绑票
+R!v 纾
+R!! 红艳艳
+R!!L 红艳艳
 S 名 多 项目
 S' 工作
 S, 准 准备
@@ -39542,8 +39544,8 @@ S,ug 准话
 S,wG 准星
 S,wz 准时
 S,yN 准尉
-S,！f 准奏
-S,！v 准予
+S,!f 准奏
+S,!v 准予
 S. 韵 准确性
 S..a 韵致
 S.:G 准确性
@@ -39559,7 +39561,7 @@ S.S 韵
 S.ST 韵头
 S.Tm 韵目
 S.Z 准确率
-S.Z！ 准确率
+S.Z! 准确率
 S.bz 韵味
 S.db 韵白
 S.fb 韵事
@@ -39656,7 +39658,7 @@ S:uv 意译
 S:vX 恐怖鸡
 S:x 意
 S:yd 意愿
-S:！? 意表
+S:!? 意表
 S; 减 减少
 S;,y 减耗
 S;.h 减磅
@@ -39728,12 +39730,12 @@ S<Kc 功臣
 S<Kl 功劳
 S<Nk 巫山云雨
 S<Ot 功罪
-S<R！ 功绩
+S<R! 功绩
 S<Sb 功名
 S<TY 名山大川
 S<Wl 名山区
 S<Zh 功效
-S<Z！ 功率
+S<Z! 功率
 S<bG 功勋
 S<c 多方面
 S<cm 多方面
@@ -39790,8 +39792,8 @@ SBz 功能键
 SBzj 冶金
 SBzl 功能键
 SBzt 冶铁
-SBz！ 冶铸
-SB！L 冶艳
+SBz! 冶铸
+SB!L 冶艳
 SC 工农业
 SC/ 工农兵
 SC/X 工农兵
@@ -39889,7 +39891,7 @@ SGeF 贡献
 SGk; 功败垂成
 SGrs 贡士
 SGxX 贡税
-SG！i 贡奉
+SG!i 贡奉
 SH 名胜古迹
 SH,q 冰肌玉骨
 SH/G 名胜古迹
@@ -40025,7 +40027,7 @@ SS:: 凄凄惨惨
 SS:; 凄凄惨惨戚戚
 SS:o 多彩
 SS:x 多心
-SS:！ 多情
+SS:! 多情
 SS;P 冷冻炸弹
 SS;U 多多烧
 SS<b 多加
@@ -40243,7 +40245,7 @@ STc, 项目管理
 STcV 头等
 STcm 头面
 STco 工具箱
-STc！ 头筹
+STc! 头筹
 STd 头
 STe; 头盔
 STfK 头饰
@@ -40346,9 +40348,9 @@ SWYF 决出
 SWYg 名师出高徒
 SWb< 决别
 SWbk 决口
+SWco 决策
 SWcT 决算
 SWcb 决不
-SWco 决策
 SWj 音乐家
 SWjC 决定
 SWjQ 音乐家
@@ -40399,7 +40401,7 @@ SYuy 怨言
 SYvz 怨怼
 SYxb 怨种
 SYzZ 夕阳无限好
-SY！N 怨毒
+SY!N 怨毒
 SZ 凛 外交部
 SZ/S 凛冬
 SZ/r 冰弩丘丘人
@@ -40665,7 +40667,7 @@ Sbxf 冲上
 Sby/ 名剧
 SbyQ 冲刷
 SbyV 冲压
-Sby！ 名厨
+Sby! 名厨
 Sbz/ 冲锋
 SbzE 冲销
 SbzX 冲来
@@ -40788,7 +40790,7 @@ SfkV 冰天雪地
 Sfkh 巧合
 SfmC 凄楚
 SfnW 头屯河区
-Sfn！ 凄清
+Sfn! 凄清
 Sfp/ 凄苦
 Sfpg 冯天薇
 SfqB 彰武县
@@ -40820,7 +40822,7 @@ SgDk 工龄
 SgEG 工资
 SgIw 工间
 SgJf 工残
-SgJ！ 工序
+SgJ! 工序
 SgMF 工学
 SgMJ 工党
 SgNr 意乱神迷
@@ -41005,7 +41007,7 @@ SkZU 冷颤
 SkZh 冷交
 SkaW 冷僻
 Skah 冷货
-Ska！ 冷傲
+Ska! 冷傲
 SkbA 冷嘲
 Skbm 冷噤
 Skbs 冷哼
@@ -41023,7 +41025,7 @@ Skgw 冷得
 SkjF 冷字
 Skjb 冷宫
 Skjx 冷寂
-Skj！ 冷害
+Skj! 冷害
 Skk/ 名垂千古
 Skko 冷霜
 SkmK 冷器
@@ -41033,7 +41035,7 @@ SknM 冷淡
 SknP 冷漠
 Skno 冰霜法杖
 Skns 冷水
-Skn！ 冷清
+Skn! 冷清
 Sko/ 冷析
 SkoI 冷杉
 SkoW 冷柜
@@ -41054,9 +41056,9 @@ Skxg 冷光
 Skyf 冷厉
 Skz/ 冷锋
 Skzj 汞合金
-Sk！H 冷静
-Sk！L 冷艳
-Sk！b 名垂青史
+Sk!H 冷静
+Sk!L 冷艳
+Sk!b 名垂青史
 Sl 仑 头痛医头
 Sl/C 多病故人疏
 SlBq 章建通
@@ -41172,14 +41174,14 @@ SnnW 冰深渊法师 冷水滩区
 Snnm 冰淇淋
 Snns 冰水
 Snnx 冰河
-Snn！ 冷清清
+Snn! 冷清清
 SnoO 冰柱
 SnoW 冰柜
 Snog 冰杖
 Snoq 冰机
 Snow 冰棍
 Snoy 冰橇
-Sno！ 冰棒
+Sno! 冰棒
 SnpW 冰蓝
 Snpa 冰花
 Snpr 冰茶
@@ -41206,13 +41208,13 @@ SnzI 冰镩
 Snzb 冰锅
 Snze 冰镇
 Snzs 冰镐
-Sn！N 冰毒
+Sn!N 冰毒
 So 凇 多样性
 So:G 多样性
 SoB 凇
 SoEM 巫术小车
 SoI 冷板凳
-SoI！ 冷板凳
+SoI! 冷板凳
 SoNm 脊椎动物
 SoWa 巫术巨像
 SoWl 赣榆区
@@ -41301,7 +41303,7 @@ Srup 多米诺
 Sry/ 多米尼克
 Sry< 多米尼加
 SrzR 舛错
-Sr！u 桀骜
+Sr!u 桀骜
 Ss 凉 凉菜
 Ss.R 凉碟
 Ss:G 凉性
@@ -41358,7 +41360,7 @@ Stcb 冻不
 Stf: 冻馁
 Sthm 冻麻
 Stj; 冻灾
-Stj！ 冻害
+Stj! 冻害
 Stkv 冻雨
 Stlr 冻疮
 StvX 冻鸡
@@ -41388,7 +41390,7 @@ SuxT 韶秀
 Suxg 韶光
 Sv 多难兴邦
 Svam 头文件
-Svn！ 多难兴邦
+Svn! 多难兴邦
 Svov 多叉树
 Sw 外星人
 Sw.s 冰晶石
@@ -41462,7 +41464,7 @@ SxNp 外运
 SxOA 外置
 SxOO 功利主义
 SxOx 外罩
-SxP！ 外野
+SxP! 外野
 SxQ; 多愁善感
 SxRC 外缘
 SxRf 外线
@@ -41504,7 +41506,7 @@ Sxae 头上何所有
 Sxah 外货 外化
 Sxam 多卤化物
 Sxat 外侨
-Sxa！ 外债
+Sxa! 外债
 Sxb 外
 Sxbb 外患
 Sxbf 外号
@@ -41586,7 +41588,7 @@ SxzE 外销 外钞
 SxzM 外链
 SxzX 外来
 Sxzl 外键
-Sx！? 外表
+Sx!? 外表
 Sy 音 音乐
 Sy,y 音耗
 Sy./ 音码
@@ -41597,7 +41599,7 @@ SyII 音频
 SyIa 减压阀
 SyIb 音问
 SyJe 音儿
-SyJ！ 音序
+SyJ! 音序
 SyKH 夕殿萤飞思悄然
 SyKr 冰原狂战士 冰原猎人
 SyLT 音色
@@ -41650,7 +41652,7 @@ SyvO 音叉
 Sywf 音量
 Syxb 音程
 Syye 音质
-Sy！R 音素
+Sy!R 音素
 Sz 冲锋枪
 SzBb 冶铸台
 SzLv 冷锅鱼
@@ -41667,20 +41669,20 @@ Szio 冲锋手
 Szor 冲锋枪
 Szub 竟无语凝噎
 Szxp 冰镇香苏
-S！ 凑 凑合
-S！.W 凑到
-S！/p 凑近
-S！;A 凑成
-S！BF 外柔内刚
-S！GS 凑够
-S！Sf 凑巧
-S！T 凑
-S！c/ 桀骜不驯
-S！cq 凑齐
-S！iU 凑拢
-S！kh 凑合
-S！rZ 凑数
-S！zf 凑钱
+S! 凑 凑合
+S!.W 凑到
+S!/p 凑近
+S!;A 凑成
+S!BF 外柔内刚
+S!GS 凑够
+S!Sf 凑巧
+S!T 凑
+S!c/ 桀骜不驯
+S!cq 凑齐
+S!iU 凑拢
+S!kh 凑合
+S!rZ 凑数
+S!zf 凑钱
 T 大 太 大学
 T' 大家
 T, 瞧 大理石
@@ -41776,7 +41778,7 @@ T;Tj 眼瞎
 T;Tk 眼睑
 T;Tm 眼目
 T;Tx 眼瞅
-T;T！ 眼睛
+T;T! 眼睛
 T;UR 眼圈
 T;XH 眼前
 T;a< 眼岔
@@ -42087,7 +42089,7 @@ TInw 大步流星
 TIr 爽身粉
 TIra 爽身粉
 TIyO 奇门遁甲
-TI！ 瞪
+TI! 瞪
 TJ 眺 眺望
 TJ<p 大吉岭茶
 TJD> 眼裂短
@@ -42188,7 +42190,7 @@ TOAF 太虚丸子
 TOAo 太杂
 TOBG 太贵
 TODR 太累
-TOD！ 太短
+TOD! 太短
 TOEJ 太远
 TOEt 太少
 TOEx 太小
@@ -42348,7 +42350,7 @@ TTTL 眼睁睁
 TTTS 鼎鼎大名
 TTTT 大眼瞪小眼 睁大眼睛
 TTTb 眼巴巴
-TTT！ 大眼睛
+TTT! 大眼睛
 TTXL 达达乌帕谷
 TTaF 盈盈仙子
 TTbb 大大咧咧 目瞪口呆
@@ -42388,7 +42390,7 @@ TVLA 大地之鞭
 TVST 大块头
 TVTk 瞌睡
 TVTy 奇域大厅
-TVU！ 大地回春
+TVU! 大地回春
 TVV 睦
 TVVW 达坂城区
 TVWl 大埔区 鼎城区
@@ -42498,7 +42500,7 @@ TZwC 眩晕
 TZwo 大好时机
 TZxg 眩光
 TZyz 巴奴毛肚火锅
-TZ！ 眩
+TZ! 眩
 Ta 盼 具体的
 Ta.W 盼到
 Ta/f 大伟丘
@@ -42575,9 +42577,9 @@ Tbpt 巴菲
 TbqB 大邑县
 Tbra 巴粉
 Tbrs 巴士
+Tbtx 巴西
 TbtE 巴东
 TbtT 巴乔
-Tbtx 巴西
 TbuH 巴望
 Tbxu 巴黎
 TbyP 巴厘
@@ -42586,7 +42588,7 @@ TbzG 眼中钉
 Tbzj 巴金
 Tbzr 目中无人
 Tbzt 巴铁
-Tb！d 巴豆
+Tb!d 巴豆
 Tc 达不到
 Tc.W 达不到
 Tc<q 大箐山县
@@ -42898,7 +42900,7 @@ Tdnt 大潘
 Tdnu 大梁
 Tdnv 大汉
 Tdnx 大河
-Tdn！ 大清
+Tdn! 大清
 Tdo 大规模
 Tdo: 大柳
 Tdo; 大概
@@ -42914,7 +42916,7 @@ Tdor 大楼 大枪
 Tdot 大桥
 Tdov 大树 大权
 Tdoy 大板
-Tdo！ 大棒
+Tdo! 大棒
 Tdp 大白菜
 Tdp, 大蕉
 Tdp. 大葱
@@ -42971,14 +42973,14 @@ TdyR 大殿
 Tdya 大雁
 Tdyd 大愿
 Tdym 大毛
-Tdy！ 大厨
+Tdy! 大厨
 TdzE 大钞
 TdzR 大错
 Tdzb 大钟
 Tdzf 大钱
 Tdzz 大鑫
-Td！/ 大麦
-Td！d 大豆
+Td!/ 大麦
+Td!d 大豆
 Te 奔 奔驰
 Te/b 奔驶
 Te/m 奔马
@@ -43124,7 +43126,7 @@ TjIx 大家闺秀
 TjJ 大家庭
 TjJN 大家庭
 TjKf 瞎蒙
-TjK！ 瞎猜
+TjK! 瞎猜
 TjL 巴塞尔
 TjLE 巴塞尔
 TjME 瞎转
@@ -43233,7 +43235,7 @@ Tli: 眼疾手快
 Tll 爽
 Tlml 大杀特杀
 TlxW 爽利
-Tm 目 目前
+Tm 目 目标
 Tm/k 目验
 Tm;G 目灯
 Tm<l 目力
@@ -43571,7 +43573,7 @@ TxZ; 目光如炬
 TxZA 目光如鼠
 TxZE 奇妙
 TxZh 奇效
-TxZ！ 目光如豆
+TxZ! 目光如豆
 TxaD 奇偶 奇伟
 Txad 奇侠
 TxbG 奇勋
@@ -43610,7 +43612,7 @@ Txws 奇景
 TxyR 太和殿
 Txz 凸透镜
 TxzS 凸透镜
-Tx！A 奇幻
+Tx!A 奇幻
 Ty 瞩 瞩目
 Ty< 大后方
 Ty<f 大后方
@@ -43677,8 +43679,8 @@ TzuN 大无语
 Tzxx 大锤哥
 Tzzj 夺金
 Tzzp 夺过
-T！ 睛
-T！H 睛
+T! 睛
+T!H 睛
 U 或 点 电影
 U' 或者
 U' 或者
@@ -43689,7 +43691,7 @@ U,/, 图象处理
 U,/< 国务
 U,/a 国故
 U,:G 国贸
-U,:！ 国情
+U,:! 国情
 U,; 醮
 U,;f 国威
 U,;x 国戚
@@ -43746,7 +43748,7 @@ U,aA 国仇
 U,ah 国货
 U,an 国体
 U,au 国信
-U,a！ 国债
+U,a! 国债
 U,b< 国别
 U,bc 国中
 U,bf 国号
@@ -43801,9 +43803,9 @@ U,xX 国税
 U,xg 国光
 U,xx 国歌
 U,y/ 国剧
-U,！n 国泰
+U,!n 国泰
 U. 酌 电磁波
-U.:！ 酌情
+U.:! 酌情
 U.; 电磁炉
 U.;I 点到即止
 U.;J 电磁感应
@@ -43926,7 +43928,7 @@ U/yN 图层
 U/yd 固原
 U/yx 固习
 U/zG 图钉
-U/！? 图表
+U/!? 图表
 U: 忒 回忆录
 U:Cn 回忆录
 U:Lp 回忆之蕾
@@ -43973,7 +43975,7 @@ U;ST 点头
 U;Sb 点名
 U;TN 酿成大祸
 U;Tn 点燃大海
-U;T！ 点睛
+U;T! 点睛
 U;U; 点点
 U;Uo 战火回想
 U;Uw 点醒
@@ -44000,7 +44002,7 @@ U;n. 电灯泡
 U;nA 点染
 U;nh 点滴
 U;ns 点水
-U;n！ 点清
+U;n! 点清
 U;oR 电威横织
 U;p: 点菜
 U;rZ 点数
@@ -44175,6 +44177,7 @@ UDpe 战斗英雄
 UDtV 战略要地
 UDve 围观
 UDw 围
+UDU 战略战术
 UDyX 围屏
 UE 园 园区
 UE:x 贰心
@@ -44248,7 +44251,7 @@ UFZJ 电子效应
 UFZV 电子市场
 UFZa 电子媒体
 UFZy 龙丹妮
-UFZ！ 圆周率
+UFZ! 圆周率
 UFa 电子化
 UFac 电子信箱
 UFag 电子信息
@@ -44282,8 +44285,8 @@ UFvn 电子文本
 UFvz 电子对
 UFxT 电子科大
 UFxu 电子光谱
-UF！ 醴 电子表
-UF！? 电子表
+UF! 醴 电子表
+UF!? 电子表
 UG 酊 醉生梦死
 UGAF 龙生九子
 UGcW 酊剂
@@ -44305,7 +44308,7 @@ UHUO 电脑配置
 UHV; 电脑城
 UHVm 酣然入梦
 UHZ 或然率
-UHZ！ 或然率
+UHZ! 或然率
 UHa 酢
 UHfP 龙腾万里
 UHia 电脑操作
@@ -44540,15 +44543,15 @@ USLE 图多尔
 USUE 或多或少
 USUG 酩酊
 USZ 回头率
-USZ！ 回头率 电功率
+USZ! 回头率 电功率
 USaw 恩怨分明
 USb 酩
 USbH 点头哈腰
 USc 电冰箱
 USco 电冰箱
 USf/ 回头下望人寰处
-USg 式
 USgq 式微
+USg 式
 USj 回头客
 USjY 回头客
 USk< 龙脊雪山
@@ -44566,7 +44569,7 @@ USzj 龙冶金
 UT 因 因此
 UT/a 因故
 UT: 恩
-UT:！ 恩情
+UT:! 恩情
 UT<K 恩施
 UT>H 恩静
 UT?S 式大将
@@ -44615,12 +44618,12 @@ UTrr 恩人
 UTwH 因明
 UTxB 因私
 UTze 电尕镇
-UT！R 因素
+UT!R 因素
 UU 战 战争
 UU// 战战兢兢
 UU/D 战备
 UU/m 战马
-UU:！ 战情
+UU:! 战情
 UU;h 战火
 UU<K 战旗
 UU<l 战力
@@ -44662,7 +44665,7 @@ UUQ< 配电房
 UURP 战纪
 UURR 醋酸纤维
 UURf 战线
-UUR！ 战绩
+UUR! 战绩
 UUS 点点头
 UUS: 战意
 UUS< 战功
@@ -44724,7 +44727,7 @@ UUxx 战歌 战哥
 UUyA 战局
 UUyf 战后
 UUzB 醋酸钠
-UU！? 战表
+UU!? 战表
 UV 垄 垄断
 UVF 醋坛子
 UVFi 醋坛子
@@ -44778,7 +44781,7 @@ UWl; 划痕
 UWn 戈壁滩
 UWns 划水
 UWnv 戈壁滩
-UWn！ 划清
+UWn! 划清
 UWpa 龙船花
 UWtr 回归系数
 UWzp 划过
@@ -44858,7 +44861,7 @@ UYxf 国际上
 UYxx 国际歌
 UYzF 国际铜
 UYzj 酬金
-UYz！ 国际金融
+UYz! 国际金融
 UZ 醉 醉酒
 UZ:x 醉心
 UZ<b 醉驾
@@ -44974,7 +44977,7 @@ UbHy 圆月
 UbIS 回空
 UbIm 回门 或门
 UbIs 回身
-UbI！ 圆凳
+UbI! 圆凳
 UbJO 回廊
 UbJZ 圆底
 UbJa 回府
@@ -45104,7 +45107,7 @@ UbuH 回望
 UbuK 或许
 Ubug 回话
 Ubup 圆谎
-Ubu！ 回请
+Ubu! 回请
 UbvU 回戏
 Ubvw 回文
 Ubw/ 回显
@@ -45123,8 +45126,8 @@ UbzI 回味无穷
 UbzX 回来
 Ubzb 回锅
 Ubzp 回过
-Ub！B 圆融
-Ub！w 回春
+Ub!B 圆融
+Ub!w 回春
 Uc 配不上
 Uc;b 醉不成欢惨将别
 UcV 回不去
@@ -45226,7 +45229,7 @@ Udoq 电机
 Udos 电极
 Udow 电棍
 Udoy 电板
-Udo！ 电棒
+Udo! 电棒
 Udp 圆白菜
 Udp: 电芯 圆白菜
 Udpa 电荷
@@ -45253,7 +45256,7 @@ UdzU 电钻
 Udzb 电钟
 Udzk 电铃
 Udzy 电锯
-Ud！? 电表
+Ud!? 电表
 Ue 团 团队
 Ue,p 团弄
 Ue/m 戎马
@@ -45287,7 +45290,7 @@ UeUn 国有国法
 UeVx 戎盐
 UeYr 团队
 UeZ 占有率
-UeZ！ 占有率
+UeZ! 占有率
 Uea; 团伙
 UeaX 回乡偶书二首
 Uean 团体
@@ -45399,7 +45402,7 @@ UiHI 弋腔
 UiST 龙抬头
 UiU; 战技点
 UiZ 点击率
-UiZ！ 回报率 点击率
+UiZ! 回报率 点击率
 Uiaj 贰拾亿
 Uifn 回看天际下中流
 Uifu 贰拾万
@@ -45580,8 +45583,8 @@ UnqB 龙江县 龙游县
 UnsY 龙水路
 Unue 电流计
 Unxw 龙涎香
-Un！ 电流表
-Un！? 电流表
+Un! 电流表
+Un!? 电流表
 Uo 困 困难
 Uo/D 困惫
 Uo<q 因材施教
@@ -45662,7 +45665,7 @@ Upud 戒刀
 Upxn 酸萝卜老鸭汤
 UpyO 戒尺
 Upzn 固若金汤
-Up！N 戒毒
+Up!N 戒毒
 Uq 酵 或者说
 UqF 酵
 UqFi 酵子
@@ -45678,7 +45681,7 @@ UqnA 龙风汤
 Uqo, 因风想玉珂
 UqqB 团风县
 UquX 或者说
-Uq！R 酵素
+Uq!R 酵素
 Ur 囚 因人而异
 Ur;f 因人成事
 Ur?i 囚衣
@@ -45836,8 +45839,8 @@ Uyo; 鸢尾根
 Uypa 鸢尾花
 UyrD 酯原料
 Uywz 酉时
-Uy！ 电压表
-Uy！? 电压表
+Uy! 电压表
+Uy!? 电压表
 Uz 占 占据
 Uz.W 占到
 Uz;z 点铁成金
@@ -45867,9 +45870,9 @@ UzuD 占课
 UzwG 占星
 Uzxb 占卜
 Uzy 酏
-U！ 圊 国泰民安
-U！H 圊
-U！wj 国泰民安
+U! 圊 国泰民安
+U!H 圊
+U!wj 国泰民安
 V 去 地 城市
 V' 地方
 V, 堆 地理位置
@@ -45998,7 +46001,7 @@ V;sF 城郭
 V;yo 城厢
 V;ze 城镇
 V;zt 城铁
-V;！Y 城邦
+V;!Y 城邦
 V< 坊 坊间
 V<: 地方性
 V<:G 地方性
@@ -46225,7 +46228,7 @@ VGWQ 郝帅
 VGWV 赤壁
 VGX/ 郝普
 VGXg 赤道
-VGX！ 赫兹
+VGX! 赫兹
 VGY 郝
 VGZ/ 赫妈
 VGa 赦
@@ -46258,7 +46261,7 @@ VGv 赧
 VGyT 赤眉
 VGze 螫针
 VGzj 赤金
-VG！d 赤豆
+VG!d 赤豆
 VH 坡 坡度
 VHBB 坡垒
 VHFi 地肤子
@@ -46568,7 +46571,7 @@ VZa 城市化
 VZah 城市化
 VZhS 坑爹
 VZhj 坑井
-VZj！ 坑害
+VZj! 坑害
 VZkD 埃姆雷
 VZky 城郊雪原
 VZlo 坑杀
@@ -46678,7 +46681,7 @@ VerZ 填数
 VeuA 填词
 Vexf 填上
 Veyw 城乡居民
-Ve！? 填表
+Ve!? 填表
 Vf 垣 地下室
 Vf/ 垭
 VfDt 圩田
@@ -46899,7 +46902,7 @@ VtvX 土鸡
 VtwG 土星
 VtyN 土层
 Vtye 土质
-Vt！d 土豆
+Vt!d 土豆
 Vu 入 入门
 Vu, 培训班
 Vu,W 培训班
@@ -46949,7 +46952,7 @@ VuYr 入队
 VuZ 增长率
 VuZQ 入市
 VuZa 入夜
-VuZ！ 增长率
+VuZ! 增长率
 Vua; 入伙
 VuaC 入侵
 VuaK 入伏
@@ -46995,8 +46998,8 @@ VuvU 入戏
 Vuwz 入时
 Vux; 入秋
 VuzS 入镜
-Vu！u 入赘
-Vu！w 入春
+Vu!u 入赘
+Vu!w 入春
 Vv 坟 坟墓
 Vv<s 坟山
 VvKV 坟茔
@@ -47034,7 +47037,7 @@ VwVW 堤堰
 VwY< 堤防
 VwYL 塌陷
 VwYt 坦陈
-VwZ！ 坦率
+VwZ! 坦率
 Vwak 坤伶
 Vwc 坤
 Vwcu 却是旧时相识
@@ -47056,7 +47059,7 @@ Vwv 墁
 VwxF 塌秧
 VwxL 坦称
 Vwz 埘
-Vw！? 坤表
+Vw!? 坤表
 Vx 盐 盐水
 Vx, 塔利班
 Vx,W 塔利班
@@ -47198,8 +47201,8 @@ VzYL 地陷
 VzYj 寺院
 VzZD 地亩
 VzZQ 地市
-Vza 城镇化
 VzaC 地位
+Vza 城镇化
 Vzab 地堡 地保
 Vzah 城镇化
 Vzar 地价
@@ -47253,11 +47256,11 @@ VzyN 地层
 Vzye 地质
 VzzL 地铺
 Vzzt 地铁
-Vz！? 地表
-Vz！u 地契
-V！ 坳
-V！< 坳
-V！g 塥
+Vz!? 地表
+Vz!u 地契
+V! 坳
+V!< 坳
+V!g 塥
 W 区 师 医疗
 W' 避免
 W, 匡 匡扶
@@ -47555,7 +47558,7 @@ WEgw 乐得
 WEio 乐手
 WEmK 乐器
 WEnz 乐池
-WEn！ 乐清
+WEn! 乐清
 WEpP 巨壳藤蔓
 WErp 乐迷
 WEry 乐声
@@ -47761,7 +47764,7 @@ WWFi 巨子
 WWGv 巨变
 WWLu 巨蟹
 WWMS 巨轮
-WWP！ 巨野
+WWP! 巨野
 WWQf 巨幅
 WWRD 巨细
 WWST 巨头
@@ -47830,7 +47833,7 @@ WYql 迎风
 WYxf 迎上
 WYzS 师出无名
 WYzX 迎来
-WY！w 迎春
+WY!w 迎春
 WZ 航 航空
 WZ,W 航班
 WZ/< 航务
@@ -47866,7 +47869,7 @@ WZsY 航路
 WZxb 航程
 WZyR 航展
 WZyd 归离原
-WZ！ 舷
+WZ! 舷
 W` 明天 民主 我们要
 Wa 收 收集
 Wa,o 收集
@@ -47952,7 +47955,7 @@ Waiz 收抚
 WajL 收容
 Wajm 收官
 Wajw 收审
-Waj！ 收割
+Waj! 收割
 Wakn 收敛
 Wan; 收益
 Wan> 收清
@@ -47970,9 +47973,9 @@ Watr 收悉
 WauK 收讫
 Wavw 收文
 Wax; 收秋
+Wayy 收尾
 WayA 医保局
 Ways 收尸
-Wayy 收尾
 Waz; 收银
 WazJ 收镰
 Wazf 收钱
@@ -48097,7 +48100,7 @@ Wd;f 紧迫感
 WdLB 匹夫之勇
 WdWZ 匹夫匹妇
 Wdb 舶
-Wde！ 匹夫有责
+Wde! 匹夫有责
 Wdpd 乐斯菲斯
 WdqB 临泉县
 Wdxx 船夫哥
@@ -48461,7 +48464,7 @@ Wqxf 船上
 Wqyc 船厂
 Wqyy 船尾
 Wqzf 船钱
-Wq！Y 船帮
+Wq!Y 船帮
 Wr 舱 舱门
 WrBn 舱内
 WrFZ 欧舒丹
@@ -48490,7 +48493,7 @@ Wtf 匪
 Wtgd 匪徒
 WtqB 临西县
 Wtx 舾
-Wt！Y 匪帮
+Wt!Y 匪帮
 Wu 劈 譬如
 Wu<f 譬方
 Wu<s 劈山
@@ -48560,7 +48563,7 @@ WvRf 竖线
 WvRj 紧缩
 WvSW 坚决
 WvSn 坚冰
-WvS！ 紧凑
+WvS! 紧凑
 WvTG 紧盯
 WvTp 贤达
 WvU/ 坚固 肾图 竖图
@@ -48625,7 +48628,7 @@ Wx.q 匿光破解者
 WxAu 区委书记
 WxH 肾上腺
 WxHd 肾上腺
-WxH！ 肾上腺素
+WxH! 肾上腺素
 WxQq 匿光启智者
 WxSq 匿光决锋者
 WxVf 欧科塔维亚
@@ -48672,8 +48675,8 @@ WzkA 巨无霸
 Wznc 归来池苑皆依旧
 Wzq. 归来煮白石
 WzqR 归来且闭关
-W！ 迎春花
-W！pa 迎春花
+W! 迎春花
+W!pa 迎春花
 X 前 并 单位
 X' 公司 并且
 X, 道琼斯
@@ -48728,7 +48731,7 @@ X:qB 道孚县 乌恰县
 X:rJ 半乳糖
 X; 总成绩
 X;Lu 逆焰之刃
-X;R！ 总成绩
+X;R! 总成绩
 X;b 半成品
 X;bm 半成品
 X;lD 乌烟瘴气
@@ -48860,7 +48863,7 @@ XBao 公休
 XBau 公信
 XBax 公仆
 XBay 公假
-XBa！ 公债
+XBa! 公债
 XBc: 公筷
 XBdy 道由白云尽
 XBeH 公有
@@ -48883,7 +48886,7 @@ XBjD 公寓
 XBjQ 公家
 XBjZ 公安 公案
 XBjw 公审
-XBj！ 公害
+XBj! 公害
 XBk 瓮
 XBlr 曾参杀人
 XBm. 公物
@@ -49000,7 +49003,7 @@ XGoy 剪贴板
 XH 煎 前往
 XH/W 前驱
 XH:o 剪彩
-XH:！ 前情
+XH:! 前情
 XH; 煎
 XH;A 剪成
 XH;G 前灯
@@ -49035,7 +49038,7 @@ XHIs 前身
 XHJS 前兆
 XHJW 前列
 XHJe 前儿
-XHJ！ 前序
+XHJ! 前序
 XHK 翦
 XHKr 前年
 XHL? 剪裁
@@ -49108,7 +49111,7 @@ XHnv 前汉
 XHo; 剪枝
 XHoO 前述
 XHpX 八月萧关道
-XHp！ 前茅
+XHp! 前茅
 XHqb 前向
 XHqz 前者
 XHrA 剪断
@@ -49138,8 +49141,8 @@ XHyG 前厅
 XHyf 前后
 XHz/ 前锋
 XHzX 前来
-XH！f 前奏
-XH！u 煎熬
+XH!f 前奏
+XH!u 煎熬
 XI 剃须刀
 XIB< 单身贵族
 XIK 前些年
@@ -49405,7 +49408,7 @@ XYHZ 塑胶
 XYHy 朔月
 XYII 逆频
 XYIs 塑身
-XYJ！ 逆序
+XYJ! 逆序
 XYLr 逆鳞
 XYME 逆转
 XYMz 塑封
@@ -49734,7 +49737,7 @@ Xg/ 夔
 Xg/, 并行处理
 Xg/o 首条 并行处理技术
 Xg:G 并行性
-Xg:！ 道情
+Xg:! 道情
 Xg<b 道贺
 Xg<p 道边
 Xg?. 道袍
@@ -49810,6 +49813,7 @@ Xgge 道德
 Xggx 道行
 Xgh< 道旁
 Xgi 首
+Xgm 首选
 Xgi, 首推
 XgiG 首打
 Xgia 并行操作
@@ -49976,8 +49980,8 @@ Xiws 半影
 Xiwz 半时
 Xixa 公报私仇
 Xixb 半程
-Xi！ 乌托邦
-Xi！Y 乌托邦
+Xi! 乌托邦
+Xi!Y 乌托邦
 Xj 鸵 公安局
 Xj/ 公安处
 Xj/x 公安处
@@ -50285,7 +50289,7 @@ Xs 八路军
 XsCM 八路军
 XsYj 半路出家
 XsZ 普及率
-XsZ！ 普及率
+XsZ! 普及率
 Xsfy 道高一尺
 Xsqf 塑路者分形
 Xsqz 塑路者
@@ -50476,7 +50480,7 @@ XwzM 单链
 Xwze 逆时针
 Xwzl 单键
 Xwzp 单过
-Xw！Y 单帮
+Xw!Y 单帮
 Xx 公积金
 XxFi 单光子
 XxTx 普利奇
@@ -50499,30 +50503,30 @@ XzE. 并无二致
 XzWQ 曾钦帅
 XzWl 前锋区 前金区 前镇区 乌来区
 XzYA 逆来顺受
-X！ 兹 慈善
-X！: 慈
-X！:F 孳乳
-X！Ai 慈爱
-X！Cy 慈颜
-X！F 孳
-X！Gs 孳生
-X！NJ 慈禧
-X！NQ 慈祥
-X！Nm 慈母
-X！QX 慈善
-X！X 鹚
-X！Z/ 慈姑
-X！hf 慈父
-X！t: 慈悲
-X！xb 慈和
-X！！ 兹
+X! 兹 慈善
+X!: 慈
+X!:F 孳乳
+X!Ai 慈爱
+X!Cy 慈颜
+X!F 孳
+X!Gs 孳生
+X!NJ 慈禧
+X!NQ 慈祥
+X!Nm 慈母
+X!QX 慈善
+X!X 鹚
+X!Z/ 慈姑
+X!hf 慈父
+X!t: 慈悲
+X!xb 慈和
+X!! 兹
 Y 出 发 发现
 Y' 发展
+Y,RW 陈王昔时宴平乐
 Y, 雒 顺理成章
 Y,,G 险象环生
 Y,;S 顺理成章
 Y,P, 阿玛雅
-Y,RW 陈王昔时宴平乐
 Y,ge 阿玛德
 Y,i 雒
 Y,ml 陈玉林
@@ -50554,7 +50558,7 @@ Y.pj 陶艺
 Y.vw 陶文
 Y.yp 顺磁屏蔽
 Y.z. 陶钧
-Y.z！ 陶铸
+Y.z! 陶铸
 Y/ 降 降低
 Y/,W 降班
 Y/,y 降耗
@@ -50626,7 +50630,7 @@ Y/ww 隆昌
 Y/xX 降税
 Y/xe 随处可见
 Y/yV 降压
-Y/！? 降表
+Y/!? 降表
 Y: 随心所欲
 Y:GH 各怀鬼胎
 Y:QL 随心所欲
@@ -50684,8 +50688,8 @@ Y<?M 随山将万转
 Y<Dt 防龋
 Y<E; 防盗
 Y<EV 防尘
-Y<IS 防空
 Y<Ii 防止
+Y<IS 防空
 Y<Im 阿加门
 Y<Is 防身
 Y<Ja 防腐
@@ -50754,7 +50758,7 @@ Y<x 附加税
 Y<xX 附加税
 Y<yF 附加原子
 Y<zx 防锈
-Y<！N 防毒
+Y<!N 防毒
 Y>:X 顺丰快递
 Y>CN 顺丰速运
 Y>EJ 隔远
@@ -50779,7 +50783,7 @@ Y?Gv 顺变
 Y?HV 顺脚
 Y?HY 顺服
 Y?Jn 顺应
-Y?J！ 顺序
+Y?J! 顺序
 Y?Nb 顺祝
 Y?QS 顺差
 Y?QT 顺着
@@ -50828,14 +50832,14 @@ Y?xg 顺光
 Y?y 顺
 Y?yv 顺反
 Y?zB 顺钠
-Y?！f 顺丰
+Y?!f 顺丰
 YA 邋 发布会
 YA>W 阿勒泰地区
 YAD< 顺直男
 YAWm 阿司匹林
 YAZ 出勤率
 YAZn 顺直女
-YAZ！ 出勤率
+YAZ! 出勤率
 YAdF 各司其职
 YAf: 两朝开济老臣心
 YAil 隔靴搔痒
@@ -50934,10 +50938,10 @@ YEqB 两当县
 YEqv 陆小凤
 YEzK 两小无猜 两小无嫌猜
 YF 祟 出现
+YF,q 阿联酋
 YF, 阿联酋
 YF,b 出售
 YF,e 出现
-YF,q 阿联酋
 YF.; 出碱
 YF/X 出兵
 YF/l 出落
@@ -51038,9 +51042,9 @@ YFar 出价 出仕
 YFbf 出号
 YFbk 出口
 YFbm 出品
+YFcf 两耳不闻窗外事
 YFcU 出笼
 YFcW 发孔剂
-YFcf 两耳不闻窗外事
 YFcm 出面
 YFdu 出超
 YFdz 出走
@@ -51146,7 +51150,7 @@ YGVz 出生地
 YGY 卫生院
 YGYj 卫生院
 YGZ 发生率
-YGZ！ 出生率 发生率
+YGZ! 出生率 发生率
 YGaa 两败俱伤
 YGb 卫生员
 YGbG 卫生员
@@ -51228,14 +51232,14 @@ YHvw 阴文
 YHwK 阴晦
 YHwS 阴暗
 YHws 阴影
-YHw！ 阴晴
+YHw! 阴晴
 YHxB 阴私
 YHy 阴
 YHy< 阴历
 YHym 阴毛
-YH！N 阴毒
-YH！o 阴柔
-YH！z 阴寿
+YH!N 阴毒
+YH!o 阴柔
+YH!z 阴寿
 YI 陟 除此之外
 YI/ 骘
 YIBS 除此而外
@@ -51285,7 +51289,7 @@ YL/l 陷落
 YL: 隐
 YL:: 隐忧
 YL:G 隐性
-YL:！ 隐情
+YL:! 隐情
 YL;p 隐退
 YL? 陷
 YL?b 隐衷
@@ -51322,7 +51326,7 @@ YLh 陔
 YLhp 陷进
 YLig 隐括
 YLj: 隐密
-YLj！ 陷害
+YLj! 陷害
 YLkb 隐含
 YLlB 隐痛
 YLlD 隐疾
@@ -51349,9 +51353,9 @@ YLy/ 隐居
 YLyL 出尔反尔
 YLye 隐遁
 YLzR 隐错
-YL！ 阿尔泰
-YL！< 阿尔泰山
-YL！n 阿尔泰
+YL! 阿尔泰
+YL!< 阿尔泰山
+YL!n 阿尔泰
 YM 阵 阵容
 YMFi 阵子
 YMHV 阵脚
@@ -51455,7 +51459,7 @@ YRov 出线权
 YRpY 阿纳萨
 YRqF 降维骰子
 YRxe 隐约可见
-YR！y 阶级矛盾
+YR!y 阶级矛盾
 YS 障 障碍
 YS,t 陈巧珠
 YS.w 障碍
@@ -51606,7 +51610,7 @@ YZhC 隔离带
 YZnV 隔离法
 YZuP 降妖记
 YZww 出郊旷清曙
-Y` 发展 出来
+Y` 除了
 Ya 附 附近
 Ya/? 附骥
 Ya/p 附近
@@ -51663,7 +51667,7 @@ YayL 阵代屋敷
 Yayf 附后
 Yayt 附属
 Yaz 附
-Ya！? 附表
+Ya!? 附表
 Yb 陨 陨石
 Yb,a 阿哈玩偶
 Yb.s 陨石
@@ -51866,7 +51870,7 @@ YfwA 卫冕
 YfwG 卫星
 Yfyx 陋习
 YfzT 出于无奈
-Yf！H 卫青
+Yf!H 卫青
 Yg 各 各种
 Yg,: 陈自瑶
 Yg,W 各班
@@ -52065,7 +52069,7 @@ Yk,x 险象
 Yk: 两重性
 Yk:? 两重心字罗衣
 Yk:G 两重性
-Yk:！ 险情
+Yk:! 险情
 Yk</ 险峰
 Yk<B 险峻
 Yk>R 阿霉素
@@ -52171,7 +52175,7 @@ YlXi 两半
 YlYj 两院
 YlYr 两队
 YlZ 发病率
-YlZ！ 发病率
+YlZ! 发病率
 Yla 两倍
 YlaC 两位 两倍
 YlaG 两侧
@@ -52214,7 +52218,7 @@ YlnS 两江
 Ylnb 两本
 Ylnv 两汉
 Ylny 两派
-Yln！ 两清
+Yln! 两清
 Ylo; 两根
 YloQ 两样
 Yloa 两枚
@@ -52354,7 +52358,7 @@ YpWl 阿莲区
 YpY< 巡防
 YpZ 发芽率
 YpZa 巡夜
-YpZ！ 发芽率
+YpZ! 发芽率
 YpaB 陈英俊
 YpbE 巡哨
 Ypc 巡
@@ -52399,7 +52403,7 @@ YqRL 阻绝
 YqS 出风头
 YqST 出风头
 YqYY 阴风阵阵
-YqY！ 阻隔
+YqY! 阻隔
 YqaA 阻值
 YqcW 防老剂
 Yqg: 隐者自怡悦
@@ -52446,7 +52450,7 @@ YrSV 出人头地
 YrSb 除名
 YrSr 出人意料
 YrSx 除外 除夕
-YrS！ 出人意表
+YrS! 出人意表
 YrV 坠
 YrVB 除去 除却
 YrVu 坠入
@@ -52478,7 +52482,7 @@ Yri. 各个击破
 Yrif 阶段
 Yrip 出类拔萃
 Yrix 除掉
-Yrj！ 除害
+Yrj! 除害
 Yrk 出人命
 Yrkb 出人命
 Yrko 除霜
@@ -52519,7 +52523,7 @@ Yt,, 陈琴
 Yt,: 陈瑶
 Yt/X 陈兵
 Yt/d 阿贾克斯
-Yt:！ 陈情
+Yt:! 陈情
 Yt<P 陈凯
 Yt<a 陈放
 Yt>Y 陈邦
@@ -52574,13 +52578,13 @@ YtuA 陈词
 YtuT 陈设
 YtuX 陈说
 Ytuy 陈言
-Ytu！ 陈请
+Ytu! 陈请
 YtwH 陈东明
 YtxC 陈辉
 YtxL 陈稳
 Ytxw 陈卓
 Ytz> 降血钙素
-Yt！r 出乎预料
+Yt!r 出乎预料
 Yu 发言人
 Yu/W 阿谀逢迎
 YuLB 防误触
@@ -52595,7 +52599,7 @@ Yuo 发言权
 Yuov 发言权
 Yurr 发言人
 Yuuu 阴谋诡计
-Yu！A 阿谀奉承
+Yu!A 阿谀奉承
 Yv 陉 发生
 Yv,b 发售
 Yv,e 发现
@@ -52613,7 +52617,7 @@ Yv:f 发怔
 Yv:m 发憷
 Yv:o 发怵
 Yv:p 发慌
-Yv:！ 发情
+Yv:! 发情
 Yv;. 发炮
 Yv;U 发烧 发烟
 Yv;f 发威
@@ -52776,8 +52780,8 @@ Yvym 发毛
 YvzR 发错
 YvzX 发来
 Yvzp 发过
-Yv！? 发表
-Yv！w 发春
+Yv!? 发表
+Yv!w 发春
 Yw 阳 阳光
 Yw:G 阳性
 Yw; 隰
@@ -52846,8 +52850,8 @@ Ywxg 阳光
 Ywy< 阳历
 Ywz 顺时针
 Ywze 顺时针
-Yw！w 阳春
-Yw！z 阳寿
+Yw!w 阳春
+Yw!z 阳寿
 Yx 阿 阿里
 Yx,, 阿瑟 阳光琥珀
 Yx.u 阿訇
@@ -52971,42 +52975,42 @@ Yzup 川金诺
 YzxL 陈锡稳
 YzxT 陈锦秀
 Yzzz 陈金鑫
-Y！ 隔 隔壁
-Y！:x 隔心
-Y！;A 隔成
-Y！<s 隔山
-Y！<y 隔岸
-Y！HP 隔膜
-Y！IL 隔阂
-Y！IS 隔空
-Y！Iw 隔间
-Y！Q< 隔房
-Y！QK 隔扇
-Y！QT 隔着
-Y！RA 隔世
-Y！RL 隔绝
-Y！Sy 隔音
-Y！VV 隔墙
-Y！WV 隔壁
-Y！YD 阳奉阴违
-Y！Za 隔夜
-Y！Zl 隔离
-Y！aU 隔代
-Y！cT 防毒面具
-Y！dH 阳春三月
-Y！dk 阳春白雪
-Y！fT 隔天
-Y！fp 隔开
-Y！g 隔
-Y！gx 隔行
-Y！nS 隔江
-Y！oy 隔板
-Y！r; 隔热
-Y！rA 隔断
-Y！sl 隔了
-Y！vS 发表文章
-Y！wr 隔日
-Y！yN 隔层
+Y! 隔 隔壁
+Y!:x 隔心
+Y!;A 隔成
+Y!<s 隔山
+Y!<y 隔岸
+Y!HP 隔膜
+Y!IL 隔阂
+Y!IS 隔空
+Y!Iw 隔间
+Y!Q< 隔房
+Y!QK 隔扇
+Y!QT 隔着
+Y!RA 隔世
+Y!RL 隔绝
+Y!Sy 隔音
+Y!VV 隔墙
+Y!WV 隔壁
+Y!YD 阳奉阴违
+Y!Za 隔夜
+Y!Zl 隔离
+Y!aU 隔代
+Y!cT 防毒面具
+Y!dH 阳春三月
+Y!dk 阳春白雪
+Y!fT 隔天
+Y!fp 隔开
+Y!g 隔
+Y!gx 隔行
+Y!nS 隔江
+Y!oy 隔板
+Y!r; 隔热
+Y!rA 隔断
+Y!sl 隔了
+Y!vS 发表文章
+Y!wr 隔日
+Y!yN 隔层
 Z 她 好 如何
 Z' 如果 交流
 Z, 好玩儿
@@ -53042,7 +53046,7 @@ Z/nH 姑婆
 Z/ng 姑活
 Z/p< 姑苏
 Z/qq 姑且
-Z/！? 姑表
+Z/!? 姑表
 Z: 媛 离心力
 Z:.n 离心泵
 Z:<l 离心力
@@ -53072,7 +53076,7 @@ Z<TD 努力奋斗
 Z<c 娠
 Z<f 妨
 Z<is 努力提高
-Z<j！ 妨害
+Z<j! 妨害
 Z<n 好办法
 Z<nV 好办法
 Z><s 玄嵩
@@ -53085,7 +53089,7 @@ Z>lt 畜群
 Z>wH 玄明
 Z>ws 玄影
 Z? 嫂 嫂子
-Z?:！ 奸情
+Z?:! 奸情
 Z?Fi 嫂子
 Z?GU 奸贼
 Z?Kc 奸臣
@@ -53186,7 +53190,7 @@ ZCpv 嫩茎
 ZCrr 妇人
 ZCx 妇产科
 ZCxD 妇科 妇产科
-ZC！< 妇幼
+ZC!< 妇幼
 ZD 亩 如果说
 ZD/ 交界处
 ZD/x 交界处
@@ -53332,7 +53336,7 @@ ZFnv 好汉
 ZFny 离子源
 ZFoT 好想
 ZFos 好极
-ZFo！ 好棒
+ZFo! 好棒
 ZFp/ 好苦
 ZFp: 离子芯
 ZFpr 好茶
@@ -53362,7 +53366,7 @@ ZFyJ 离子反应
 ZFzg 女子无才便是德
 ZFzl 离子键
 ZFzp 好过
-ZF！H 好靓
+ZF!H 好靓
 ZG 姓 姓名
 ZG:Q 娇生惯养
 ZGNw 女财神
@@ -53393,12 +53397,12 @@ ZIdr 如闻其声
 ZIfz 如此一来
 ZIjl 效颦安可希
 ZIo 娴
-ZIr！ 夜阑人静
+ZIr! 夜阑人静
 ZIsF 娴熟
 ZIuF 好空调
 ZIuz 如此说来
 ZIvW 如此这般
-ZI！H 娴静
+ZI!H 娴静
 ZJ 姚 姚明
 ZJ,, 市列珠玑
 ZJIZ 嬉闹
@@ -53544,7 +53548,7 @@ ZRwu 婚纱照
 ZRxZ 市纪委
 ZS 嫜 好意思
 ZS: 婚外情
-ZS:！ 婚外情
+ZS:! 婚外情
 ZSD: 好意思
 ZSG 婚外恋
 ZSG: 婚外恋
@@ -53608,7 +53612,7 @@ ZTpr 奶茶
 ZTrJ 奶糖
 ZTra 奶粉
 ZTye 奶盾
-ZT！? 姨表
+ZT!? 姨表
 ZU 姻 颤抖
 ZU:G 禀性
 ZU? 颤
@@ -54066,7 +54070,7 @@ Zh/X 交兵
 Zh/k 交验 效验
 Zh:x 交心
 Zh:y 效尤
-Zh:！ 交情
+Zh:! 交情
 Zh;f 交感
 Zh;h 交火
 Zh<X 交办
@@ -54097,7 +54101,7 @@ ZhLg 市井之徒
 ZhMV 嫡堂
 ZhNm 嫡母
 ZhPG 交费
-ZhP！ 郊野
+ZhP! 郊野
 ZhQ< 交房
 ZhQS 交差
 ZhRB 交纳
@@ -54107,7 +54111,7 @@ ZhRb 交织
 ZhRg 交关
 ZhRk 交给
 ZhRw 夜以继日
-ZhR！ 效绩
+ZhR! 效绩
 ZhSg 交工
 ZhSx 郊外
 ZhTd 交大
@@ -54126,7 +54130,7 @@ ZhYF 交出 嫡出
 ZhYN 交际
 ZhZF 交好
 ZhZh 交媾 嬷嬷
-ZhZ！ 效率
+ZhZ! 效率
 Zha 效 妖魔化
 Zha< 效仿
 ZhaE 嫡传
@@ -54153,7 +54157,7 @@ ZhiC 交接
 ZhiL 交换
 ZhiT 交投
 Zhio 交手
-Zhj！ 交割
+Zhj! 交割
 Zhkb 效命
 Zhkh 交合
 Zhn; 效益
@@ -54188,13 +54192,13 @@ Zhyy 交尾
 Zhz/ 交锋
 ZhzR 交错
 Zhzf 交钱
-Zh！B 交融
+Zh!B 交融
 Zi 交换机
 ZiD? 女扮男装
 ZiFl 交换网
 ZiRu 弩手组长
 ZiUn 交换电流
-ZiU！ 妙手回春
+ZiU! 妙手回春
 Ziaa 交换价值
 Ziag 妙手偶得
 ZidV 好看的垃圾
@@ -54267,7 +54271,7 @@ Zl/p 离近
 Zl/v 离骚
 Zl:; 嫉恨
 Zl:x 离心
-Zl:！ 离情
+Zl:! 离情
 Zl<y 离岸
 ZlB 离
 ZlD 嫉
@@ -54331,14 +54335,14 @@ Zm<S 卒岁
 Zm<U 如梦方醒
 Zm?U 如梦初醒
 ZmKK 率从狻猊
-ZmZ！ 如梦如幻
+ZmZ! 如梦如幻
 Zmbc 卒中
 Zmbm 奶制品
 Zme 卒
 Zmk/ 率先垂范
 ZmkO 如梦令
 Zmzy 如坐针毡
-Zm！q 如坐春风
+Zm!q 如坐春风
 Zn 女 女性
 Zn,w 女王
 Zn.f 夜深忽梦少年事
@@ -54433,7 +54437,7 @@ ZnrN 交流会
 Znrr 女人
 Znrs 女士
 Znry 女声
-Znr！ 夜深人静
+Znr! 夜深人静
 Znsu 女足
 Znun 交浅言深
 ZnvH 奶汤鸡脯
@@ -54442,7 +54446,7 @@ ZnwG 女星
 ZnxG 女贞
 ZnyG 女厕
 ZnzH 奶汤银肺
-Zn！q 如沐春风
+Zn!q 如沐春风
 Zo 媒 媒体
 ZoFi 媒子
 ZoJe 媒儿
@@ -54528,7 +54532,7 @@ Zs<K 氏族
 ZsG 婷
 ZsUp 氏醛
 ZsZs 婷婷
-Zs！E 好高骛远
+Zs!E 好高骛远
 Zt 妖 妖怪
 Zt:I 娇惯
 Zt:v 妖怪
@@ -54581,14 +54585,14 @@ Ztpt 妖孽
 ZtqB 如东县
 Ztql 妖风
 Ztry 娇声
-Ztr！ 妖精
+Ztr! 妖精
 Ztt 好东西
 Zttx 好东西
 Ztuy 妖言
 ZtyT 娥眉
 Ztz 姝
-Zt！L 娇艳 妖艳
-Zt！o 娇柔
+Zt!L 娇艳 妖艳
+Zt!o 娇柔
 Zu 好望角
 ZuJu 好说歹说
 ZuK 交谊舞
@@ -54657,7 +54661,7 @@ ZvnA 怒潮
 ZvnH 姚劲波
 ZvnK 怒海
 Zvna 交叉淡化
-Zvn！ 怒涛
+Zvn! 怒涛
 Zvr 胬
 Zvy 奴
 Zvzf 驽钝
@@ -54757,86 +54761,93 @@ Zzx 夜来香
 Zzxf 妹叔
 Zzxw 夜来香
 Zzy 她
-Z！ 率 率先
-Z！/X 率兵
-Z！:G 率性
-Z！<l 畜力
-Z！? 婊
-Z！?r 玄奘
-Z！Az 率直
-Z！CM 率军
-Z！Cb 率部
-Z！Cy 畜产
-Z！D 畜
-Z！FE 玄孙
-Z！Fi 婊子
-Z！Gs 畜生
-Z！H 婧
-Z！HK 率然
-Z！K 女青年
-Z！Kr 女青年
-Z！LE 率尔
-Z！Ln 娇艳欲滴
-Z！MF 玄学
-Z！O/ 玄虚
-Z！QO 畜养
-Z！Rg 玄关
-Z！Sn 玄冰
-Z！Ue 率团
-Z！Yr 率队
-Z！ZE 玄妙
-Z！e 率
-Z！eT 率真
-Z！fT 玄天
-Z！fU 玄武
-Z！gn 夜静更深
-Z！jN 玄宗
-Z！kO 率领
-Z！mG 畜牲
-Z！mJ 率先
-Z！ma 畜牧
-Z！oT 玄想
-Z！oX 畜栏
-Z！oq 玄机
-Z！ql 玄风
-Z！qr 玄奥
-Z！rT 畜类
-Z！rZ 畜禽
-Z！tX 玄乎
-Z！v 妤
-Z！x: 玄秘
-Z！y 玄
-Z！！A 玄幻
-Z！！H 玄青
-`B 这能
+Z! 率 率先
+Z!/X 率兵
+Z!:G 率性
+Z!<l 畜力
+Z!? 婊
+Z!?r 玄奘
+Z!Az 率直
+Z!CM 率军
+Z!Cb 率部
+Z!Cy 畜产
+Z!D 畜
+Z!FE 玄孙
+Z!Fi 婊子
+Z!Gs 畜生
+Z!H 婧
+Z!HK 率然
+Z!K 女青年
+Z!Kr 女青年
+Z!LE 率尔
+Z!Ln 娇艳欲滴
+Z!MF 玄学
+Z!O/ 玄虚
+Z!QO 畜养
+Z!Rg 玄关
+Z!Sn 玄冰
+Z!Ue 率团
+Z!Yr 率队
+Z!ZE 玄妙
+Z!e 率
+Z!eT 率真
+Z!fT 玄天
+Z!fU 玄武
+Z!gn 夜静更深
+Z!jN 玄宗
+Z!kO 率领
+Z!mG 畜牲
+Z!mJ 率先
+Z!ma 畜牧
+Z!oT 玄想
+Z!oX 畜栏
+Z!oq 玄机
+Z!ql 玄风
+Z!qr 玄奥
+Z!rT 畜类
+Z!rZ 畜禽
+Z!tX 玄乎
+Z!v 妤
+Z!x: 玄秘
+Z!y 玄
+Z!!A 玄幻
+Z!!H 玄青
+`b 爸爸
+`m 妈妈
+`g 哥哥
+`j 姐姐
+`y 爷爷
+`N 奶奶
 `C 那不
-`E 那次
-`H 怎样
-`I 这些
-`M 那么
-`O 那样
-`P 这里
-`R 那个
-`S 那就
+`E 那次 哪次
+`H 怎样的
+`I 那些 这些
+`M 那么 这么
+`O 那样 这样
+`P 那里 这里
+`R 哪个 哪会
+`S 那就 
 `T 怎么
 `W 那是
-`X 那种
+`X 这下
 `a 这人
-`b 怎能
+`B 怎能
 `c 这不
 `e 这次
-`f 这下
-`i 那些 哪些
+`f 那天 这天
+`i 哪些
 `k 这可
-`l 那里
-`o 这样
+`l 哪里
+`o 这样 那样
 `p 哪里
-`r 这个
-`s 这就
-`t 这么
-`w 这是
-`x 这种
-a 他 你
+`r 那个 这个
+`s 那就 这就
+`t 那么 这么
+`w 那是 这是
+`x 那种 这种
+`n 你的的
+`w 我的
+a 你 他
 a' 你们 分类
 a, 像 像是
 a,/ 分理处
@@ -54865,7 +54876,7 @@ a,rr 代理人
 a,ug 像话
 a,wC 像是
 a,x 像
-a,！R 像素
+a,!R 像素
 a. 倒 倒是
 a.,W 倒班
 a.: 偬
@@ -54886,7 +54897,7 @@ a.HR 倒腾
 a.IY 倒阁
 a.Ie 倒闭
 a.Je 侄儿
-a.J！ 倒序
+a.J! 倒序
 a.Lj 倒角
 a.Lz 倒载
 a.ME 倒转
@@ -55066,7 +55077,7 @@ a/xg 倚马可待
 a/yA 做局
 a/zR 做错
 a/zp 做过
-a/！z 做寿
+a/!z 做寿
 a: 优 优化
 a:/N 假性近视
 a:/n 仍怜故乡水
@@ -55140,7 +55151,7 @@ a:ye 优质
 a:yw 优厚
 a:zC 但恨无过王右军
 a:zN 傲慢无礼
-a:！o 优柔
+a:!o 优柔
 a; 盆 伙伴
 a;,h 伙耕
 a;;; 贫燃火焰
@@ -55172,13 +55183,13 @@ a;pa 盆花
 a;ue 伙计
 a;ws 盆景
 a;xb 伙种
+a< 仿佛 仙
 a<,I 仙山琼阁
-a< 仙 仿佛
 a<, 催
 a<.s 仙石
 a</g 仿古
 a</m 伽马
-a<:！ 催情
+a<:! 催情
 a<<X 催办 仿办
 a<Bb 仙台
 a<C, 仙鹤
@@ -55217,7 +55228,7 @@ a<ZT 催奶
 a<Zh 仿效
 a<Zn 仙女
 a<Zo 分崩离析
-a<Z！ 分辨率
+a<Z! 分辨率
 a<a> 催债
 a<aP 仿佛
 a<ad 仙侠
@@ -55447,7 +55458,7 @@ aCUz 侵占
 aCVU 位域
 aCVX 倍增
 aCVu 侵入
-aCZ！ 倍率
+aCZ! 倍率
 aCaM 倍佳
 aCah 侵华
 aCb 倍
@@ -55460,7 +55471,7 @@ aCfe 位于
 aCgw 倚立自移时
 aCi: 侵扰
 aCif 位段
-aCj！ 侵害
+aCj! 侵害
 aCl 位
 aCoT 位相
 aCov 侵权
@@ -55492,7 +55503,7 @@ aDOU 倒果为因
 aDQh 佃户
 aDR 分界线
 aDRf 分界线
-aDR！ 伟绩
+aDR! 伟绩
 aDTd 伟大
 aDTp 伟达
 aDUb 偶或
@@ -55521,11 +55532,11 @@ aDuS 伟论
 aDw 伟
 aDxq 佃租
 aDxx 伟哥
-aD！Z 俊男靓女
+aD!Z 俊男靓女
 aE 传 传统
 aE,f 传球
 aE.W 传到
-aE:！ 传情
+aE:! 传情
 aE;G 传灯
 aE;f 传感
 aEAb 传布
@@ -55575,7 +55586,7 @@ aEXB 传颂
 aEXP 传递 仁弟
 aEXg 传道 仁道
 aEXw 传单
-aEX！ 仁慈
+aEX! 仁慈
 aEYF 传出
 aEYc 仁川
 aEZ 佞
@@ -55646,7 +55657,7 @@ aFRo 分子结构
 aFU 分子式
 aFUS 分子式
 aFZF 分子离子
-aFZ！ 仔畜
+aFZ! 仔畜
 aFaM 倜傥
 aFcW 分子筛 偶联剂
 aFe 佴
@@ -55747,8 +55758,8 @@ aHJR 仙胺度
 aHJY 作废
 aHJh 作死
 aHLT 作色
-aHO, 作主
 aHO< 作为
+aHO, 作主
 aHOH 侠肝义胆
 aHOV 作罢
 aHQT 作美
@@ -55917,7 +55928,7 @@ aK/x 伤处
 aK:c 伤怀
 aK:w 侮慢
 aK:x 伤心 伤悼
-aK:！ 伤情
+aK:! 伤情
 aK;f 伤感
 aK< 伤
 aK<u 伏辩
@@ -55961,7 +55972,7 @@ aKiM 俯卧撑
 aKj 仡
 aKjZ 伏案 伏安
 aKjh 伤寒
-aKj！ 伤害
+aKj! 伤害
 aKkR 伯劳飞燕
 aKkk 黛羽霜翎
 aKl; 伤痕
@@ -56008,7 +56019,7 @@ aLRA 俗世
 aLSb 俗名
 aLTu 俗套
 aLX 华尔兹
-aLX！ 华尔兹
+aLX! 华尔兹
 aLZ/ 你妈
 aLZF 你好 您好
 aLa 俄亥俄
@@ -56045,15 +56056,15 @@ aLxL 俗称
 aLy 伯尔尼
 aLyh 伯尔尼
 aLz 傅
-aL！ 伏尔泰
-aL！n 伏尔泰
+aL! 伏尔泰
+aL!n 伏尔泰
 aM 佳 停车场
 aM:O 信赏必罚
 aM<U 化学方程式
 aM?g 化学平衡
 aMBH 佳能 化学能
 aMEJ 侯学元
-aME！ 化学元素
+aME! 化学元素
 aMGa 化学变化
 aMGj 佳句
 aMI 做学问
@@ -56066,7 +56077,7 @@ aMR 传输线
 aMRC 佳缘
 aMRU 偏转线圈
 aMRf 传输线 化学纯
-aMR！ 佳绩
+aMR! 佳绩
 aMSy 佳音
 aMU 化学式
 aMUO 佳酿
@@ -56081,7 +56092,7 @@ aMaH 佳作
 aMaQ 倘佯
 aMag 倘使
 aMaz 偿付
-aMa！ 偿债
+aMa! 偿债
 aMbm 佳品
 aMcp 偿还
 aMdH 佳期
@@ -56098,7 +56109,7 @@ aMle 佳肴
 aMna 化学活化
 aMnf 化学溶蚀
 aMnn 凭轩涕泗流
-aMn！ 偿清
+aMn! 偿清
 aMpY 佳节
 aMpe 倘若
 aMqB 佳县
@@ -56271,7 +56282,7 @@ aOxb 仪程
 aOy/ 住居
 aOzE 伪钞
 aOzp 住过
-aO！? 仪表
+aO!? 仪表
 aP 佛 佛教
 aP,o 佰草集
 aP,t 佛珠
@@ -56436,7 +56447,7 @@ aRaC 借位
 aRaO 借住
 aRaU 借贷 借代
 aRah 供货
-aRa！ 借债
+aRa! 借债
 aRbG 借呗
 aRbk 借口 借喻
 aRbm 供品
@@ -56494,7 +56505,7 @@ aRzS 借镜
 aRzU 传送锚点
 aRzX 借来
 aRzf 借钱
-aR！i 供奉
+aR!i 供奉
 aS 伦 伦敦
 aS,, 伦琴
 aS,P 伦理
@@ -56607,7 +56618,7 @@ aUHr 代膦
 aUII 代步
 aUJ 侥
 aUJ. 代庖
-aUJ！ 代序
+aUJ! 代序
 aUKl 代劳
 aUO< 代为
 aUOs 代四
@@ -56679,7 +56690,7 @@ aUuy 代言
 aUxL 代称
 aUzE 代销
 aUzj 代金
-aU！? 代表
+aU!? 代表
 aV 侍 侍郎
 aV,p 侍弄
 aVAR 仙境爱丽丝
@@ -56702,7 +56713,7 @@ aVqB 佛坪县 华坪县
 aVqz 侍者
 aVt 坌
 aVz 侍
-aV！i 侍奉
+aV!i 侍奉
 aW 侯 俱乐部
 aW,r 侯珍
 aW/m 侯马
@@ -56766,7 +56777,7 @@ aWuH 仰望
 aWw> 仙舟曜青
 aWxg 仰光
 aWxv 作壁上观
-aW！H 僻静
+aW!H 僻静
 aX 伴 伴随
 aX:G 传递性
 aXA 分公司
@@ -56824,7 +56835,7 @@ aXw 僧
 aXwG 伴星
 aXxK 俯首称臣
 aXyh 僧尼
-aX！f 伴奏
+aX!f 伴奏
 aY 俩 保险公司
 aY/ 保险业
 aY/y 保险业
@@ -57126,8 +57137,8 @@ abge 保德
 abh 信噪比
 abhY 侃爷
 abhh 信噪比
-abiQ 保护
 abiV 保持
+abiQ 保护
 abj: 保密
 abjC 保定
 abjQ 仲家
@@ -57163,7 +57174,7 @@ abye 保质
 abyh 仲尼
 abzg 何患无辞
 abzt 保镖
-ab！w 仲春
+ab!w 仲春
 ac 修 修改
 ac,P 修理
 ac.I 倏忽 悠忽
@@ -57181,7 +57192,7 @@ acBc 候虫
 acCa 修整
 acD 候
 acDq 假面愚者
-acD！ 修短
+acD! 修短
 acEJ 悠远
 acHK 悠然 倏然
 acHV 修脚
@@ -57200,8 +57211,8 @@ acNq 伤筋动骨
 acO< 修为
 acOS 修罗
 acPa 修改
-acQ; 修盖
 acQO 修养
+acQ; 修盖
 acQT 悠着
 acRQ 修缮
 acRg 攸关
@@ -57249,11 +57260,12 @@ acn< 悠游
 acnB 修浚
 acnm 分不清楚
 acnw 候温
-acn！ 分不清
+acn! 分不清
 aco; 修枝
 acot 修桥
 acpb 修葺
 acq 侪
+acu 悠长
 acqB 攸县
 acqF 候教
 acqf 候考
@@ -57412,7 +57424,7 @@ afOe 假一罚十
 afOp 分片
 afP 伙食费
 afPG 伙食费
-afP！ 分野
+afP! 分野
 afQ< 分房
 afQh 分户
 afQi 何求美人折
@@ -57453,7 +57465,7 @@ afYj 分院
 afYn 侵蚀隧洞
 afYr 分队
 afYv 分发
-afY！ 分隔
+afY! 分隔
 afZA 分娩
 afZb 俨如
 afZl 分离
@@ -57492,7 +57504,7 @@ afj 修正案
 afj, 伤天害理 佳丽宝
 afjQ 分家
 afjZ 修正案
-afj！ 分割
+afj! 分割
 aflt 分群
 afmJ 分选
 afmK 分器
@@ -57506,7 +57518,7 @@ afnN 分流
 afnR 分洪
 afnZ 分液
 afny 分派
-afn！ 分清
+afn! 分清
 afo/ 分析
 afoX 分栏
 afoZ 分校
@@ -57692,7 +57704,7 @@ ah.s 化石
 ah/k 化验
 ah:o 华彩
 ah:x 倾心
-ah:！ 倾情
+ah:! 倾情
 ah;A 化成
 ah;G 华灯
 ah;Q 化炉
@@ -57740,9 +57752,9 @@ ahMc 货车
 ahN< 倾动
 ahNH 化育
 ahNp 货运
+ahO< 华为 化为
 ahO, 货主
 ahO; 货郎
-ahO< 华为 化为
 ahOe 信以为真
 ahPT 倾慕 化募
 ahPl 华里
@@ -57876,7 +57888,7 @@ ahzf 化钙
 ahzj 化镓
 ahzq 化铅
 ahzt 化铁
-ah！? 华表
+ah!? 华表
 ai 伊拉克
 ai/J 伊拉克
 ai/f 但看古来盛名下
@@ -58000,7 +58012,7 @@ ak 偷 偷笑
 ak:C 偷懒
 ak:T 使命必达
 ak:W 但令心似金钿坚
-ak:！ 偷情
+ak:! 偷情
 ak; 使命感
 ak;f 使命感 偷感
 ak;g 儒艮
@@ -58111,7 +58123,7 @@ alup 伊诺
 alvm 伊桑
 alw, 健旺
 alxW 伊利
-al！w 伊春
+al!w 伊春
 am 件 候选人
 am/m 做牛马
 am< 伏特加
@@ -58225,9 +58237,9 @@ anxb 体积
 anye 体质
 anym 体毛
 anzn 盆满钵满
-an！ 体温表
-an！: 似水柔情
-an！? 体表 体温表
+an! 体温表
+an!: 似水柔情
+an!? 体表 体温表
 ao 休 休息
 ao,W 休班
 ao,d 悠木碧
@@ -58344,7 +58356,7 @@ aqWf 何老师
 aqWl 信都区
 aqXq 仙风道骨
 aqZ 使用率
-aqZ！ 使用率
+aqZ! 使用率
 aqaa 使用价值
 aqaq 佩佩
 aqb 代用品
@@ -58699,7 +58711,7 @@ auz 保证金
 auzZ 但说无妨
 auzf 储钱
 auzj 保证金
-au！i 信奉
+au!i 信奉
 av 仅仅 仅
 av, 傩
 av,b 仅售
@@ -58810,7 +58822,7 @@ awuN 偈语
 awuO 倡议
 awuc 伸长
 awuy 倡言
-awu！ 但请
+awu! 但请
 awvp 但这
 awvy 但又
 aww 倡
@@ -58858,7 +58870,7 @@ axWO 化种匣
 axWl 保税区 仁和区
 axX 伯利兹
 axXe 何曾
-axX！ 伯利兹
+axX! 伯利兹
 axY< 侦防
 axZ 倭
 axZ< 何妨
@@ -59029,7 +59041,7 @@ azit 付排 付托
 azjH 体无完肤
 azlo 他杀
 azm. 他物
-azn！ 付清
+azn! 付清
 azo; 付杰
 azo< 付梓
 azrN 付款
@@ -59046,45 +59058,45 @@ azwr 他日
 azy 他
 azzP 化铝锂
 azzf 付钱
-a！ 债 债券
-a！/< 债务
-a！: 代表性
-a！:G 代表性
-a！:w 傲慢
-a！<K 傣族
-a！<y 傲岸
-a！Dq 傲气
-a！G 债
-a！H 倩
-a！HK 傲然
-a！MM 仪表堂堂
-a！NC 俸禄
-a！Ne 傲视
-a！O, 债主
-a！Q 代表着
-a！QT 代表着
-a！Qh 债户
-a！RA 傲世
-a！Ru 债券
-a！Tr 代表大会
-a！U 代表团
-a！Ue 代表团
-a！Zn 倩女
-a！a 傲 代表作
-a！aH 代表作
-a！i 俸
-a！j 倒春寒
-a！jh 倒春寒
-a！jr 优柔寡断
-a！m. 傲物
-a！n 傣
-a！n< 傲游
-a！ov 债权
-a！qg 傲骨
-a！rN 债款
-a！rm 代表人物
-a！ws 倩影
-a！z 俦
+a! 债 债券
+a!/< 债务
+a!: 代表性
+a!:G 代表性
+a!:w 傲慢
+a!<K 傣族
+a!<y 傲岸
+a!Dq 傲气
+a!G 债
+a!H 倩
+a!HK 傲然
+a!MM 仪表堂堂
+a!NC 俸禄
+a!Ne 傲视
+a!O, 债主
+a!Q 代表着
+a!QT 代表着
+a!Qh 债户
+a!RA 傲世
+a!Ru 债券
+a!Tr 代表大会
+a!U 代表团
+a!Ue 代表团
+a!Zn 倩女
+a!a 傲 代表作
+a!aH 代表作
+a!i 俸
+a!j 倒春寒
+a!jh 倒春寒
+a!jr 优柔寡断
+a!m. 傲物
+a!n 傣
+a!n< 傲游
+a!ov 债权
+a!qg 傲骨
+a!rN 债款
+a!rm 代表人物
+a!ws 倩影
+a!z 俦
 b 中 吃
 b' 只要
 b, 呈 唯一
@@ -59122,7 +59134,7 @@ b,m. 唯物
 b,p 逞
 b,qB 呼玛县
 b,ti 唯我
-b,u！ 呈请
+b,u! 呈请
 b,vw 呈文
 b,w 呈
 b. 吻 吻合
@@ -59270,7 +59282,7 @@ b:iG 吹打
 b:iP 吹拂
 b:id 吹拍
 b:ik 吹擂
-b:i！ 吹捧
+b:i! 吹捧
 b:mn 吹牛
 b:nt 呕心沥血
 b:oU 中心构图
@@ -59283,7 +59295,7 @@ b:x 吣
 b:z 嚼
 b:zX 吹来
 b:zp 吹过
-b:！f 吹奏
+b:!f 吹奏
 b; 喊 中成药
 b;Bk 叶翅蛉
 b;CA 喊冤
@@ -59324,7 +59336,7 @@ b</x 别处
 b<:d 别怕
 b<:p 别慌
 b<:u 别忙
-b<:！ 别情
+b<:! 别情
 b<<b 另加
 b<? 中山装
 b<?H 别被
@@ -59343,7 +59355,7 @@ b<LC 别急
 b<N< 别动
 b<O< 别为
 b<OA 别羁
-b<P！ 别墅
+b<P! 别墅
 b<Rk 别给
 b<Rq 别绪
 b<S 哕
@@ -59483,7 +59495,7 @@ bAuO 嘲谑
 bAuq 嘲讽
 bAxb 哪种
 bAzX 哪来
-bB 虽 虽然
+bB 虽然 虽
 bB/ 唆
 bB:X 中通快递
 bBCw 中邮速递易
@@ -59601,7 +59613,7 @@ bEry 哨声
 bEsq 吴远亮
 bEt 吵
 bExf 哨卡
-bE！ 噎
+bE! 噎
 bF 吼 中央军委
 bF/m 中央处理器
 bF:y 中央情报局
@@ -59745,7 +59757,7 @@ bIrr 中间人
 bIu/ 中间设备
 bIxf 嘴上
 bIyw 嘴厚
-bI！ 噔
+bI! 噔
 bJ 兄 兄弟
 bJ,R 吹度玉门关
 bJ,T 叶儿耙
@@ -59774,7 +59786,7 @@ bJml 吴庚林
 bJqz 响应者
 bJtR 饕餮血统
 bJuc 兄长
-bK 吃饭 唠
+bK 吃 吃饭
 bK.W 吃到
 bK:s 吃惊
 bK:x 吃心
@@ -59833,7 +59845,7 @@ bKr 中年人
 bKrQ 吃年糕
 bKrr 中年人 吃人
 bKsl 吃了
-bKu！ 吃请
+bKu! 吃请
 bKvB 吃斋
 bKvS 吃劲
 bKvX 吃鸡
@@ -59843,7 +59855,7 @@ bKxf 吃上
 bKxg 吃光
 bKxw 吃香
 bKzp 吃过
-bK！R 吃素
+bK!R 吃素
 bL 咳 咳嗽
 bL:F 哺乳
 bL;z 呼之即来
@@ -59933,7 +59945,7 @@ bOn 咏
 bOo: 咏柳
 bOry 嘘声
 bOvI 叹为观止
-bO！w 咏春
+bO!w 咏春
 bP 呀 吸引力
 bP,m 哈莫琳
 bP,q 嘴强王者
@@ -60064,8 +60076,8 @@ bRt; 喋血
 bRum 中级调谐器
 bRx 中纪委
 bRxZ 中纪委
-bR！ 叶绿素
-bR！R 叶绿素
+bR! 叶绿素
+bR!R 叶绿素
 bS 哆 口头禅
 bS,C 吕功琛
 bS: 噫
@@ -60199,7 +60211,7 @@ bVt; 吐血
 bVxT 中场秀
 bVxf 吐穗
 bVyt 吐属
-bV！L 吐艳
+bV!L 吐艳
 bW 叫 叫做
 bW, 哐
 bW.W 叫到
@@ -60274,7 +60286,7 @@ bWvX 叫鸡
 bWxu 吸收光谱
 bWyY 叫屈
 bWzX 叫来
-bW！w 叫春
+bW!w 叫春
 bX 只 只是
 bX,b 只售
 bX.W 只到
@@ -60436,7 +60448,7 @@ bZv 呶
 bZx; 咬秋
 bZyM 吴姬压酒唤客尝
 bZzp 咬过
-bZ！x 吕氏春秋
+bZ!x 吕氏春秋
 ba 喉 中华民国
 ba: 喝倒彩
 ba:g 叶伊恬
@@ -60836,7 +60848,7 @@ bczD 喘不过气
 bczp 只不过
 bczt 中铁
 bczw 只不过是
-bc！N 中毒
+bc!N 中毒
 bd 啤 啤酒
 bd/ 嘶
 bd;; 另起炉灶
@@ -61143,7 +61155,7 @@ bhm/ 叱骂
 bhmK 啼哭
 bhnC 啼泣
 bhrJ 吃麻糖
-bh！G 叱责
+bh!G 叱责
 bi 啦 啪啪
 bi,, 别抱琵琶
 bi/ 哳
@@ -61343,7 +61355,7 @@ bkwm 唯命是从
 bkxW 哈利
 bkxt 吃拿卡要
 bkyh 哈尼
-bk！w 哈雷彗星
+bk!w 哈雷彗星
 bl 史 史上
 bl;: 嗜杀成性
 blA 唏
@@ -61360,7 +61372,7 @@ blVc 别君去兮何时还
 blX 啸
 blXH 史前
 blaE 史传
-bla！ 啸傲
+bla! 啸傲
 blbO 唏嘘
 blbX 啸鸣
 blc, 史籍
@@ -61603,7 +61615,7 @@ bqsq 响亮
 bqt; 嗜血
 bqw 嗜
 bqwk 听风是雨
-bqw！ 响晴
+bqw! 响晴
 bqzk 响铃
 br 啥 别人的
 br?X 吴志平
@@ -61632,7 +61644,7 @@ brqw 中断向量
 brry 呛声
 bruf 中断请求
 bryJ 吸热反应
-br！? 咪表
+br!? 咪表
 bs 吸 吸引
 bs;U 吸烟
 bs<l 吸力
@@ -61681,7 +61693,7 @@ bsu 唱高调
 bsuF 唱高调
 bsxg 吸光
 bszj 吸金
-bs！N 吸毒
+bs!N 吸毒
 bt 哦 呼吸
 bt;: 嗜血成性
 bt?q 喝西北风
@@ -61924,7 +61936,7 @@ bxwx 中科曙光
 bxx 咔
 bxxC 叶光辉
 bxzb 吴秋钟
-bx！G 呵责
+bx!G 呵责
 by 呢 嘱咐
 by. 喔
 by: 噘
@@ -61982,32 +61994,32 @@ bznf 别来沧海事
 bzp/ 味苦
 bzpa 吊钟花
 bzpk 味蕾
-bzr！ 味精
+bzr! 味精
 bzu 呒
 bzum 别无长物
 bzw 味
 bzzQ 别来无恙
 bzza 别来锦字终难偶
 bzzj 听钟未眠客
-b！ 呦 啧啧
-b！/ 唛
-b！< 呦
-b！Em 嗉囊
-b！G 啧
-b！J 吃豆腐
-b！Ja 吃豆腐
-b！K 中青年
-b！Kr 中青年
-b！R 嗉
-b！Y 喀麦隆
-b！Y/ 喀麦隆
-b！a 嗷
-b！bw 吆喝
-b！b！ 啧啧
-b！g 嗝
-b！i 唪
-b！x 嗪
-b！y 吆
+b! 呦 啧啧
+b!/ 唛
+b!< 呦
+b!Em 嗉囊
+b!G 啧
+b!J 吃豆腐
+b!Ja 吃豆腐
+b!K 中青年
+b!Kr 中青年
+b!R 嗉
+b!Y 喀麦隆
+b!Y/ 喀麦隆
+b!a 嗷
+b!bw 吆喝
+b!b! 啧啧
+b!g 嗝
+b!i 唪
+b!x 嗪
+b!y 吆
 c 不 ，
 c' 不过
 c' 不过
@@ -62148,7 +62160,7 @@ c<df 等边三角形
 c<ea 不辨真伪
 c<iq 簇拥
 c<p 笾
-c<p！ 不辨菽麦
+c<p! 不辨菽麦
 c<qB 竹山县
 c>PT 筹募
 c>hX 筹商
@@ -62348,7 +62360,7 @@ cIAz 简直
 cICf 简写
 cICn 管窥蠡测
 cIDY 简略
-cID！ 简短
+cID! 简短
 cIEt 简省
 cIGW 简则
 cIKN 简繁
@@ -62401,8 +62413,8 @@ cIwH 简明
 cIxL 简称
 cIxz 不肯和亲归去来
 cIy< 简历
-cI！? 简表
-cI！d 不问青红皂白
+cI!? 简表
+cI!d 不问青红皂白
 cJ 不喜欢
 cJ,/ 齐广璞
 cJ?N 箫鼓哀吟感鬼神
@@ -62428,9 +62440,9 @@ cLXH 不久前
 cLl 筝
 cLq: 不解风情
 cLru 不负众望
-cL！ 不负责
-cL！G 不负责
-cL！a 不负责任
+cL! 不负责
+cL!G 不负责
+cL!a 不负责任
 cM 不觉得
 cM,P 不觉碧山暮
 cMTo 篡党夺权
@@ -62812,8 +62824,9 @@ cawC 不仅是
 cayZ 不分昼夜
 cayy 符尾
 caz 符
-ca！d 不分青红皂白
+ca!d 不分青红皂白
 cb 不 不是
+cbj 不定
 cb,F 不再
 cb,P 不理
 cb.W 不到
@@ -62850,8 +62863,8 @@ cbAJ 不免
 cbAS 不买
 cbAi 不爱
 cbAv 不受
-cbBG 不贵
 cbBH 不能
+cbBG 不贵
 cbBq 不通
 cbBy 不由
 cbC; 不灵
@@ -62873,8 +62886,8 @@ cbFJ 不周
 cbFY 面中凹陷
 cbFZ 不丹
 cbFt 不同
-cbGP 不鸣则已
 cbGS 不够
+cbGP 不鸣则已
 cbGW 否则
 cbGa 不败
 cbGv 不变
@@ -62938,8 +62951,8 @@ cbU/ 不图
 cbUP 不配
 cbUT 不因
 cbUb 不回 不惑
-cbV. 不均
 cbVB 不去
+cbV. 不均
 cbVQ 不幸
 cbVc 不坏
 cbVd 不堪
@@ -63025,11 +63038,11 @@ cbhC 不带
 cbhQ 不啻
 cbhh 不比
 cbhp 不进
+cbiG 不打 不拘
 cbi: 不摇
 cbi< 不振
 cbiA 不扬
 cbiC 不接
-cbiG 不打 不拘
 cbiT 不看
 cbiW 不拒
 cbiw 不提
@@ -63102,13 +63115,13 @@ cbv, 不难
 cbvC 旧味难寻
 cbvb 不吝
 cbvz 不对
-cbw 不只是
 cbw. 不易
+cbwx 不晃
+cbwr 不日
+cbw 不只是
 cbwC 不是 不只是 不韪
 cbwH 不明
 cbwc 不畅
-cbwr 不日
-cbwx 不晃
 cbwy 不暇
 cbwz 不时
 cbxL 不稳
@@ -63126,9 +63139,9 @@ cbzR 不错
 cbzX 不来
 cbzp 不过
 cbzu 不无
-cb！ 竹叶青
-cb！H 竹叶青
-cb！v 不予
+cb! 竹叶青
+cb!H 竹叶青
+cb!v 不予
 cc 还不错
 cc/v 筹笔驿
 cc>N 筒箭毒
@@ -63259,7 +63272,7 @@ ceuf 不在话下
 ceuk 不见长安见尘雾
 cevL 面有难色
 cewN 不才明主弃
-ce！< 不见泰山
+ce!< 不见泰山
 cf 歪 第一次
 cf,P 歪理
 cf. 不一致
@@ -63756,7 +63769,7 @@ couS 策论
 coxf 不相上下
 coyf 策励
 coyv 策反
-co！z 否极泰来
+co!z 否极泰来
 cp 箬 还有 还
 cp?/ 齐藤壮马
 cp?S 还将
@@ -63779,7 +63792,7 @@ cpZF 还好
 cpaL 还俗
 cpaU 还贷
 cpar 还价
-cpa！ 还债
+cpa! 还债
 cpb 箬
 cpbI 还嘴
 cpbW 还叫
@@ -63802,7 +63815,7 @@ cpkB 还需
 cpnT 还没
 cpnY 简薇洛
 cpnb 还本
-cpn！ 还清
+cpn! 还清
 cpoT 还想
 cpqy 还用
 cprN 还会 还款
@@ -63813,7 +63826,7 @@ cpuH 还望
 cpuX 还说
 cpuc 不苟言笑
 cpux 还让
-cpu！ 还请
+cpu! 还请
 cpvz 还对
 cpwC 还是
 cpwe 还早
@@ -63860,8 +63873,8 @@ cqyT 齐眉
 cqz 箸
 cqzX 齐来
 cqzi 还向金城明主看
-cq！f 齐奏
-cq！x 齐秦
+cq!f 齐奏
+cq!x 齐秦
 cr 篓 不舒服
 cr, 筌
 cr/ 簖
@@ -63931,7 +63944,7 @@ ctWv 不要紧
 ctXg 笑道
 ctYF 笑出
 ctau 不要信
-cta！ 笑傲
+cta! 笑傲
 ctct 笑笑
 ctda 不乏其例
 ctdr 不乏其人
@@ -64020,7 +64033,7 @@ cupY 竹节
 cuu 不认识
 cuub 不认识
 cuw/ 不识时务
-cu！< 不识泰山
+cu!< 不识泰山
 cv 面对面
 cv,j 面对现实
 cv.O 符文碎片
@@ -64037,7 +64050,7 @@ cvvS 不对劲
 cw 旧 不明白
 cw,R 旧时王谢堂前燕
 cw/y 旧业
-cw:！ 旧情
+cw:! 旧情
 cw?i 旧衣
 cwAA 旧书
 cwAi 旧爱
@@ -64141,7 +64154,7 @@ cxRw 不可终日
 cxS? 不可名状
 cxSg 不可多得
 cxUE 不可或缺
-cxU！ 不利因素
+cxU! 不利因素
 cxWA 不可避免
 cxWi 不可收拾
 cxXM 不可逆转
@@ -64271,26 +64284,26 @@ czw 簪
 czwC 不过是
 czz 不锈钢
 czzF 不锈钢
-cz！: 面无表情
-c！ 筹 筹备
-c！,o 筹集
-c！./ 筹码
-c！/D 筹备
-c！<X 筹办
-c！EG 筹资
-c！G 箦
-c！H 箐
-c！Rq 筹组
-c！UW 筹划
-c！aR 筹借
-c！cT 筹算
-c！iR 筹措
-c！id 筹拍
-c！lg 筹建
-c！qO 不予考虑
-c！rN 筹款
-c！uo 筹谋
-c！z 筹
+cz!: 面无表情
+c! 筹 筹备
+c!,o 筹集
+c!./ 筹码
+c!/D 筹备
+c!<X 筹办
+c!EG 筹资
+c!G 箦
+c!H 箐
+c!Rq 筹组
+c!UW 筹划
+c!aR 筹借
+c!cT 筹算
+c!iR 筹措
+c!id 筹拍
+c!lg 筹建
+c!qO 不予考虑
+c!rN 筹款
+c!uo 筹谋
+c!z 筹
 d 三 的
 d' 基本
 d, 皇 皇帝
@@ -64442,7 +64455,7 @@ d;Ku 越狱
 d;MA 越轨
 d;NA 越礼
 d;PS 越弱
-d;P！ 越野
+d;P! 越野
 d;QS 越差
 d;RX 越共
 d;Rs 越级
@@ -64509,7 +64522,7 @@ d<o 基辛格
 d<oH 三峡楼台淹日月
 d<oY 基辛格
 d<p 邀
-d<u！ 邀请
+d<u! 邀请
 d<vw 白方文
 d<wi 三峡星河影动摇
 d>dH 超预期
@@ -64767,7 +64780,7 @@ dLoK 三角梅
 dLoy 三角板
 dLp 超负荷
 dLpa 超负荷
-dLp！ 趋之若鹜
+dLp! 趋之若鹜
 dLqb 趋向
 dLr< 趋势
 dLwz 趋时
@@ -65096,8 +65109,8 @@ dWtr 兜翻
 dWz, 白璧无瑕
 dWzE 兜销
 dWzI 其乐无穷
-dW！a 兜鍪
-dW！！ 其乐融融
+dW!a 兜鍪
+dW!! 其乐融融
 dX 夹 夹杂
 dX/J 夹克
 dX:x 夹心
@@ -65358,7 +65371,7 @@ dbpk 白蔹
 dbpm 白鹳
 dbpr 白茶
 dbps 白芨 白蒿
-dbp！ 白茅
+dbp! 白茅
 dbqg 白骨
 dbqr 三吴都会
 dbqu 期中考试
@@ -65391,7 +65404,7 @@ dbzF 白铜 卑鄙无耻
 dbzI 其味无穷
 dbzj 白金
 dbzt 白铁 白口铁
-db！u 白契
+db!u 白契
 dc 迫不及待
 dc? 三等奖
 dc?S 三等奖
@@ -65708,7 +65721,7 @@ dny, 基本原理
 dnyG 基本原则
 dnz. 三水锰矿
 dnzJ 三清铃座
-dn！y 基本矛盾
+dn!y 基本矛盾
 do 三权分立
 doBX 三杯通大道
 doF 白木耳
@@ -65741,7 +65754,7 @@ dpc 迫
 dpdH 三苯基膦
 dpfe 迫于
 dpfn 三菜一汤
-dpj！ 迫害
+dpj! 迫害
 dpp 白花花
 dppa 白花花 斯蒂芬
 dpq 白莲教
@@ -65749,7 +65762,7 @@ dpqF 白莲教
 dpsG 白敬亭
 dptu 迫切
 dpzB 皂苷钠
-dq 其 其实 其他 其中
+dq 其 其中 其他 其实
 dqAn 三教九流
 dqDG 白老町
 dqEc 其次
@@ -65774,7 +65787,7 @@ dqjh 其它
 dqq 趄
 dqr 白骨精
 dqrx 其余
-dqr！ 白骨精
+dqr! 白骨精
 dqwz 其时
 dqxf 其上
 dqyf 其后
@@ -65792,7 +65805,7 @@ dra 白热化
 drag 趁便
 drah 白热化
 drar 邀人傅脂粉
-dra！ 三个代表
+dra! 三个代表
 drb. 泉声咽危石
 drcI 斯人不可闻
 drfb 白执事
@@ -66118,13 +66131,13 @@ dxrz 其利断金
 dxv, 赴难
 dxwr 赴日
 dy 皈 白居易
-dy,F 白昼王子
 dyCM 赵励军
-dyI 走后门
-dyIm 走后门
-dyIu 三顾频烦天下计
-dyRR 基层组织
+dy,F 白昼王子
 dyTv 三层套鸡
+dyI 走后门
+dyIu 三顾频烦天下计
+dyIm 走后门
+dyRR 基层组织
 dyTx 基尼奇
 dyWl 皇后区
 dyYH 三局两胜
@@ -66381,7 +66394,7 @@ e<xX 协税
 e<xb 协和
 e<xx 南山可移
 e<zz 协鑫
-e<！f 协奏
+e<!f 协奏
 e>FR 卖春联
 e>Zz 默契交锋
 e>io 默契搭档
@@ -66447,7 +66460,7 @@ eAwz 十九时
 eAxE 十九秒
 eAxg 卖光
 eAzf 卖钱
-eA！w 卖春
+eA!w 卖春
 eB 雄 有能力
 eB, 雄
 eB/ 黢
@@ -66668,7 +66681,7 @@ eH:b 郁悒
 eH:e 郁愤
 eH:f 有恒
 eH:x 有心
-eH:！ 有情
+eH:! 有情
 eH;A 有成
 eH;f 有感
 eH<f 有方
@@ -66692,7 +66705,7 @@ eHIS 有空
 eHIh 有些
 eHJZ 有底
 eHJb 有喜
-eHJ！ 有序
+eHJ! 有序
 eHKl 有劳
 eHKr 左朕年
 eHLT 有色
@@ -66748,7 +66761,7 @@ eHh? 有顷
 eHhm 黑脂麻
 eHib 有损
 eHjQ 有家
-eHj！ 有害
+eHj! 有害
 eHkv 有雨
 eHlf 有病
 eHn; 有益
@@ -66773,7 +66786,7 @@ eHtd 有失
 eHu, 有谁
 eHuH 有望
 eHub 有误
-eHu！ 有请
+eHu! 有请
 eHv, 有难
 eHvS 有劲
 eHvU 有戏
@@ -66787,7 +66800,7 @@ eHzR 有错
 eHzf 有钱
 eHzp 有过
 eHzu 有无
-eH！N 有毒
+eH!N 有毒
 eI 有些人
 eI,F 有空再
 eI:c 有问必答
@@ -66832,7 +66845,7 @@ eKK 黑猩猩
 eKKf 灰蒙蒙 黑蒙蒙
 eKKw 黑猩猩
 eKNg 十年动乱
-eKN！ 默祷
+eKN! 默祷
 eKOp 默片
 eKWl 左营区
 eKZw 十年如一日
@@ -66852,7 +66865,7 @@ eKuP 默记
 eKue 默读
 eKur 默认
 eKy/ 默剧
-eK！u 默契
+eK!u 默契
 eL 博 博士
 eL/g 博古
 eL:o 博彩
@@ -66863,8 +66876,8 @@ eLAi 博爱
 eLEH 博肖
 eLEx 见尔当何秋
 eLFv 博取
-eLGU 十觞亦不醉
 eLGp 博弈
+eLGU 十觞亦不醉
 eLMF 博学
 eLO, 博主
 eLP, 博雅
@@ -66898,8 +66911,8 @@ eLub 博识
 eLvw 博文
 eLz 博
 eLzy 有色金属 黑色金属
-eL！ 黑色素
-eL！R 黑色素
+eL! 黑色素
+eL!R 黑色素
 eM 有轨电车
 eM?M 南辕北辙
 eMRY 十连卷
@@ -67072,7 +67085,7 @@ eT:W 真快
 eT:d 真怕
 eT:o 真彩
 eT:x 真心
-eT:！ 真情
+eT:! 真情
 eT</ 颠峰
 eT? 颠
 eTAA 真书
@@ -67131,7 +67144,7 @@ eTo 真相
 eToL 真核
 eToT 真想 真相
 eToq 真机
-eTo！ 真棒
+eTo! 真棒
 eTp< 颠茄
 eTpU 真菌
 eTrN 真会
@@ -67267,7 +67280,7 @@ eYZQ 南阳市
 eYfF 有两下子
 eYjy 南陵寓使迟
 eYqB 南陵县
-eY！A 有限责任公司
+eY!A 有限责任公司
 eZ 有效性
 eZ:G 有效性
 eZLd 有妇之夫
@@ -67373,7 +67386,7 @@ ebvu 有口难言
 ebxS 右移
 ebz: 有口无心
 ebzl 右键
-ec 存 存在
+ec 存在 存
 ec,P 在理
 ec/y 在业
 ec:D 存留
@@ -67398,7 +67411,7 @@ ecJZ 存底
 ecJm 在座
 ecN 见面礼
 ecNA 见面礼
-ecP！ 在野
+ecP! 在野
 ecQT 存着
 ecQh 存户
 ecR. 在约
@@ -67413,6 +67426,7 @@ ecSx 在外
 ecT 真面目
 ecTm 真面目
 ecV 在
+ecf 存于
 ecVA 在场
 ecVa 十面埋伏
 ecVu 存入
@@ -67533,7 +67547,7 @@ eecu 默默不语
 eedZ 存在的黄昏
 eee 黑黝黝
 eeen 黯黯见临洮
-eee！ 黑黝黝
+eee! 黑黝黝
 eefP 左右开弓
 eefU 黩武
 eefe 存在于
@@ -67714,8 +67728,8 @@ ehzb 黑锅
 ehzf 黑钱
 ehzj 黑金
 ehzl 黑键
-eh！Y 黑帮
-eh！d 黑豆
+eh!Y 黑帮
+eh!d 黑豆
 ei 黑手党
 ei>H 见手青
 eiLw 存护之影
@@ -67981,7 +67995,7 @@ eszd 十锦
 et 才 才是
 et.W 才到
 et:v 才怪
-et:！ 才情
+et:! 才情
 et<l 才力
 et?g 才干
 etAF 才敢
@@ -68068,7 +68082,7 @@ euqB 南召县 友谊县
 euqz 见证者 协调者
 euwI 协议映射
 ev 友 友好
-ev:！ 友情
+ev:! 友情
 evAi 友爱
 evCM 友军
 evEJ 友元
@@ -68086,7 +68100,7 @@ evuj 友谊
 evwH 友盟
 evxf 在这种情况下
 evy 友
-ev！Y 友邦
+ev!Y 友邦
 ew 有时候
 ewND 有时五峯气
 ewNu 十六五
@@ -68113,7 +68127,7 @@ ewx? 有暗香盈袖
 ewxE 十六秒
 ex 乡 有利于
 ex/a 有利条件
-ex:！ 乡情
+ex:! 乡情
 ex<X 乡办
 exB 有可能
 exBH 有可能 才可能
@@ -68127,7 +68141,7 @@ exIw 乡间
 exLj 右上角 左上角
 exMJ 乡党
 exPl 乡里
-exP！ 乡野
+exP! 乡野
 exRw 乡绅
 exSy 乡音
 exVt 乡土
@@ -68185,11 +68199,11 @@ ezx 郁金香
 ezxw 郁金香
 ezxx 有钱哥哥
 ezzU 有来无回
-e！ 黝 协奏曲
-e！< 黝
-e！Fq 协奏曲
-e！eS 黝黯
-e！eh 黝黑
+e! 黝 协奏曲
+e!< 黝
+e!Fq 协奏曲
+e!eS 黝黯
+e!eh 黝黑
 f 一 与 一些
 f' 一样
 f, 开玩笑
@@ -68366,7 +68380,7 @@ f/u 副处长
 f/uN 恶语
 f/uc 副处长
 f/uw 晋谒 万古长明
-f/u！ 万古长青
+f/u! 万古长青
 f/w 晋
 f/xD 亚科
 f/xb 亚种
@@ -68378,10 +68392,11 @@ f/zF 亚铜
 f/zj 亚金
 f/zt 亚铁
 f/zw 亚锡
-f/！N 恶毒
-f7 一直
+f/!N 恶毒
+f7 一下
 f8 一起
-f9 政治
+f9 一直
+f0 政治
 f: 饮 饮食
 f:,f 开心球
 f:/m 饮马
@@ -68470,7 +68485,7 @@ f;j: 严密
 f;jS 严实
 f;jh 严寒
 f;jz 严守
-f;j！ 灭害
+f;j! 灭害
 f;kO 严令
 f;kP 严重
 f;kb 严命
@@ -68717,7 +68732,7 @@ fCxB 互私
 fCxW 互利
 fCyL 正颜厉色
 fCye 互质
-fC！Y 互帮
+fC!Y 互帮
 fD 画 画面
 fD:m 画卯
 fD<b 画架 画加
@@ -68815,7 +68830,7 @@ fDyR 画展
 fDyT 画眉
 fDyX 画屏
 fDye 画质
-fD！i 天气预报
+fD!i 天气预报
 fE 馕 一次性
 fE:G 一次性
 fE;l 丙二烯
@@ -68854,7 +68869,7 @@ fEuc 副省长
 fEvE 一次又一次
 fF 曹 互联网
 fF.W 遭到
-fF/！ 遭逢
+fF/! 遭逢
 fF:: 天网恢恢
 fF>p 馓子豆花
 fFAv 遭受
@@ -69038,7 +69053,7 @@ fIRN 正统
 fIRP 政纪
 fIRn 天空纪游
 fIRv 正经
-fIR！ 政绩
+fIR! 政绩
 fIS? 正项
 fISb 正名
 fISf 正巧
@@ -69071,10 +69086,10 @@ fIbc 正中
 fIbk 开窗口
 fIbl 正史
 fIbm 正品
+fIco 政策
 fIcB 一窍不通
 fIce 百闻不如一见
 fIcm 正面
-fIco 政策
 fIdD 一问三不知
 fIde 正规
 fIe< 政协 开门见山
@@ -69103,7 +69118,7 @@ fIjN 正宗
 fIjY 政客
 fIjb 正宫
 fIjw 政审
-fIj！ 正割
+fIj! 正割
 fIkO 政令
 fIkR 万紫千红
 fIlF 正凶
@@ -69210,7 +69225,7 @@ fKK; 恶狠狠
 fKKq 天狼狩猎者
 fKLZ 百年之好
 fKLy 百年之后
-fKL！ 一年之计在于春
+fKL! 一年之计在于春
 fKNq 天狼运算者
 fKOA 一劳永逸
 fKOx 一年四季
@@ -69248,8 +69263,8 @@ fKw 天狼星
 fKwG 天狼星
 fKy 万年历
 fKy< 万年历
-fK！ 万年青
-fK！H 万年青
+fK! 万年青
+fK!H 万年青
 fL 馅 馅饼
 fL/F 天之骄子
 fL;; 一触即炸
@@ -69344,7 +69359,7 @@ fOqB 武义县
 fOqF 天主教
 fOrK 画虎类犬
 fOuH 与虎谋皮
-fO！P 互为表里
+fO!P 互为表里
 fP 馍 开幕式
 fP.I 事已至此
 fPL< 一己之力
@@ -69672,15 +69687,15 @@ fTwf 天量
 fTwr 天日
 fTwu 天目影打刀
 fTwz 天时
-fTw！ 天晴
+fTw! 天晴
 fTx? 天秤
 fTxf 天上 天卡
 fTxg 天光
 fTxw 正大光明
 fTyf 天后
 fTzj 吞金
-fT！H 天青
-fT！d 蚕豆
+fT!H 天青
+fT!d 蚕豆
 fU 武 武器
 fU/D 武备
 fU; 盏
@@ -69941,7 +69956,7 @@ fYwz 顿时
 fZ 饺 饺子
 fZ.W 曹妃甸区
 fZ: 一夜情
-fZ:！ 一夜情
+fZ:! 一夜情
 fZ;R 副交感神经
 fZ;g 一如既往
 fZ<X 蚀夜幽兰
@@ -69999,7 +70014,7 @@ faXA 百货公司
 faYJ 事件队列
 faZ 百分率
 faZn 一贫如洗
-faZ！ 百分率
+faZ! 百分率
 faa 一代代
 faaU 一代代
 faah 一体化
@@ -70044,7 +70059,7 @@ fb/p 逼近
 fb/x 副处
 fb/y 事业 副业
 fb:r 一鸣惊人
-fb:！ 事情
+fb:! 事情
 fb;j 恶唑烷
 fb>J 一品豆腐
 fb?S 副将
@@ -70093,7 +70108,7 @@ fbXb 副总
 fbYF 逼出
 fbYT 一叶障目
 fbYv 事发
-fbY！ 事隔
+fbY! 事隔
 fbZQ 晋中市
 fbZZ 逼婚
 fba< 画中仙
@@ -70103,7 +70118,7 @@ fbam 事件
 fban 事体
 fbar 副价
 fbay 事假
-fba！ 逼债
+fba! 逼债
 fbbL 天啦噜
 fbbj 一口咬定
 fbbm 副品
@@ -70385,7 +70400,7 @@ ffz; 一事无成
 ffz? 于事无补
 ffzg 天下无敌
 ffzm 天下无双
-ff！a 刑事责任
+ff!a 刑事责任
 fg 一往无前
 fg:n 一往情深
 fg;s 下自成蹊
@@ -70546,7 +70561,7 @@ fici 百折不挠 副手简报
 ficm 一面
 ficq 一齐
 ficy 百看不厌
-fic！ 一筹
+fic! 一筹
 fidP 一起
 fidb 一白
 fids 一三
@@ -70751,7 +70766,7 @@ fmVu 天造地设
 fmXT 亚特兰大
 fmXd 亚特兰蒂斯
 fmYm 一物降一物
-fmb！ 食物中毒
+fmb! 食物中毒
 fmeC 万物有灵
 fmnF 武器池子
 fmnz 武器池
@@ -70764,7 +70779,7 @@ fn 求 救援
 fn.E 救砖
 fn/X 救兵
 fn/u 一派胡言
-fn:！ 求情
+fn:! 求情
 fn; 一溜烟
 fn;S 一举成名
 fn;U 一溜烟
@@ -70980,7 +70995,7 @@ fowG 天权星
 fowr 末日
 foyf 末后
 foyy 末尾
-fo！q 互相帮助
+fo!q 互相帮助
 fp 开 开始
 fp,W 开班
 fp,c 开环
@@ -71050,7 +71065,7 @@ fpKd 形貌
 fpKf 开蒙
 fpLH 百花鱼肚
 fpLu 开解
-fpL！ 百花争艳
+fpL! 百花争艳
 fpMF 开学
 fpMc 开车
 fpMz 开封
@@ -71067,11 +71082,11 @@ fpQ< 开房 刑房
 fpQT 开着
 fpQb 开启
 fpQh 开户
+fpRg 开关
 fpRD 开花结果
 fpRQ 开编
 fpRY 开卷
 fpRf 开线
-fpRg 开关
 fpRj 开绽
 fpST 开头
 fpSb 刑名
@@ -71157,7 +71172,7 @@ fpiy 开掘
 fpjL 形容
 fpjh 开赛
 fpjw 开审
-fpj！ 开豁
+fpj! 开豁
 fpk; 开盒
 fplg 开建
 fpmN 开禁
@@ -71222,7 +71237,7 @@ fpzb 开锅
 fpzj 开金
 fpzp 开过
 fpzq 开锄
-fp！w 开春
+fp!w 开春
 fq 饥 饥饿
 fq.; 食用碱
 fqHA 饥肠
@@ -71250,8 +71265,8 @@ fqu 副县长
 fquc 副县长
 fqwm 饥民
 fqz; 饷银
-fq！ 万用表
-fq！? 万用表
+fq! 万用表
+fq!? 万用表
 fr 一个人
 fr: 开创性
 fr:G 开创性
@@ -71306,7 +71321,7 @@ fru 副会长
 fruc 副会长
 frvJ 一个劲儿
 frwd 下个星期
-fr！/ 求全责备
+fr!/ 求全责备
 fs 食 食物
 fs/< 开足马力
 fs:G 食性
@@ -71359,7 +71374,7 @@ fswf 食量
 fsx 一路上
 fsxb 食积
 fsxf 一路上
-fs！R 食素
+fs!R 食素
 ft 饿 一系列
 ftF 一辈子
 ftFi 一辈子 下辈子
@@ -71630,7 +71645,7 @@ fxLz 下载
 fxMc 下车
 fxNw 下神
 fxPZ 下弦
-fxP！ 下野
+fxP! 下野
 fxQ< 下房
 fxQw 天秀启明
 fxRA 下世
@@ -71764,15 +71779,15 @@ fxxb 下种
 fxyB 下届
 fxyN 下层
 fxyt 下属
-fxy！ 下厨
+fxy! 下厨
 fxz 一秒钟
 fxzL 下铺
 fxzX 下来
 fxzb 下锅 一秒钟
 fxzp 下过
-fx！? 下表
-fx！N 下毒
-fx！Y 丐帮
+fx!? 下表
+fx!N 下毒
+fx!Y 丐帮
 fy 饭 饭店
 fy.j 饭碗
 fy/d 亚历克斯
@@ -71848,11 +71863,11 @@ fzqC 形销骨立
 fzw/ 一无是处
 fzxF 一无可取
 fzxz 一寸光阴一寸金
-f！ 互帮互助
-f！ca 百毒不侵
-f！fq 互帮互助
-f！re 一表人才
-f！zP 万寿无疆
+f! 互帮互助
+f!ca 百毒不侵
+f!fq 互帮互助
+f!re 一表人才
+f!zP 万寿无疆
 g 很 更 很多
 g' 自己
 g, 徵 自尊心
@@ -71870,7 +71885,7 @@ g,tR 循环系统
 g,w 徵
 g,yf 循环展开
 g. 徇 得到了
-g.:！ 徇情
+g.:! 徇情
 g.<F 乱石岗
 g.II 乱石穿空
 g.kw 待到重阳日
@@ -71890,7 +71905,7 @@ g/rJ 甜冬糖
 g/rs 德克士
 g/u 行驶证
 g/uf 行驶证
-g/！K 待业青年
+g/!K 待业青年
 g: 息 息肉
 g:,K 自怜碧玉亲教舞
 g:?n 微乳状液
@@ -72008,7 +72023,7 @@ gA/X 乱兵
 gAFi 乱子
 gAHR 乱腾
 gAIb 乱窜
-gAJ！ 乱序
+gAJ! 乱序
 gAKb 乱营
 gAKc 乱臣
 gAME 乱转
@@ -72261,7 +72276,7 @@ gKdH 更年期
 gKjp 鼻翼宽
 gKm/ 臭骂
 gKod 臭棋
-gKo！ 臭椿
+gKo! 臭椿
 gKq 臭
 gKqB 得荣县
 gKzS 徒劳无功
@@ -72441,7 +72456,7 @@ gSuf 得意忘形
 gSwp 臭名昭著
 gT 役 刮目相看
 gTDk 役龄
-gTZ！ 役畜
+gTZ! 役畜
 gTag 役使
 gTog 刮目相待
 gToi 刮目相看
@@ -72552,7 +72567,7 @@ ga,q 敌酋
 ga: 自信心
 ga:D 敌忾
 ga:x 自信心
-ga:！ 敌情
+ga:! 敌情
 ga;L 敌焰
 ga<f 敌方
 ga<x 微分方程
@@ -72579,7 +72594,7 @@ gaiC 敌探
 gaif 德化段
 gaio 敌手
 gajE 敌寇
-gaj！ 敌害
+gaj! 敌害
 gamV 敌特
 gaom 御伽木
 gaoq 敌机
@@ -72681,7 +72696,7 @@ geaz 自有分寸
 gedS 徒有其名
 geda 圪垯
 gedq 更有甚者
-ged！ 徒有其表
+ged! 徒有其表
 gef/ 德亚
 gefI 德政
 gegT 自卖自夸
@@ -72862,7 +72877,7 @@ giIh 自此
 giIs 自身
 giJf 自残
 giJj 德拉吉
-giJ！ 自序
+giJ! 自序
 giKb 自营
 giL? 自裁
 giLG 自负
@@ -72907,9 +72922,9 @@ giac 自修
 giag 自便
 gian 自体
 giau 自信
-gia！ 自傲
+gia! 自傲
 gibA 自嘲
-gic！ 自筹
+gic! 自筹
 gid: 自欺
 gidb 自白
 gidk 自卑
@@ -72995,10 +73010,10 @@ giyf 自励
 giyx 自习
 gizE 自销
 gizX 自来
-gi！< 自幼
-gi！G 自责
-gi！i 自奉
-gi！k 自矜
+gi!< 自幼
+gi!G 自责
+gi!i 自奉
+gi!k 自矜
 gj 更容易
 gjIb 待字闺中
 gjO 自定义
@@ -73121,11 +73136,11 @@ gooI 甜橙
 gooe 徐楠楠
 gop: 甜菜
 goqB 德格县
-go！y 自相矛盾
+go!y 自相矛盾
 gp 适 适合
 gp,r 徐艺珍
 gp.; 甜菜碱
-gp/！ 适逢
+gp/! 适逢
 gpDk 适龄
 gpEC 适当
 gpJR 适度
@@ -73202,7 +73217,7 @@ gqgq 微微
 gqgx 微行
 gqhX 微商
 gqj 微
-gql！ 刮骨疗毒
+gql! 刮骨疗毒
 gqn 自助游
 gqn< 自助游
 gqnH 微波
@@ -73307,8 +73322,8 @@ gtqg 彻骨
 gtrR 自我介绍
 gtu 彻
 gtzD 自我无界
-gt！, 自我表现
-gt！y 敌我矛盾
+gt!, 自我表现
+gt!y 敌我矛盾
 gu 亍 甜言蜜语
 gu:; 徐长卿
 gu>H 徐长青
@@ -73366,7 +73381,7 @@ gwEJ 更远
 gwEc 更次
 gwEt 更少
 gwEx 更小
-gwE！ 微量元素
+gwE! 微量元素
 gwGs 更生
 gwHG 得胜
 gwIC 更阑
@@ -73462,7 +73477,7 @@ gx 行 行业
 gx/Q 行骗
 gx/b 行驶
 gx/y 行业
-gx:！ 行情
+gx:! 行情
 gx<K 行旅
 gx?K 行状
 gx?S 行将
@@ -73563,11 +73578,11 @@ gxxb 行程
 gxxx 行歌
 gxyo 更上层楼 微光原核
 gxzE 行销
-gx！Y 行帮
+gx!Y 行帮
 gy 循 循环
 gy,c 循环
 gy>r 行尽青溪不见人
-gyJ！ 循序
+gyJ! 循序
 gyR, 御厨络绎送八珍
 gyT 循
 gyaJ 循例
@@ -73599,10 +73614,10 @@ gzwf 丈量
 gzxf 徕卡
 gzxm 搆陷
 gzzt 衔铁
-g！ 臭豆腐
-g！HH 鼻青脸肿
-g！Ja 臭豆腐
-g！TH 鼻青眼肿
+g! 臭豆腐
+g!HH 鼻青脸肿
+g!Ja 臭豆腐
+g!TH 鼻青眼肿
 h 以 比 比较
 h' 进行
 h, 帝王将相
@@ -73732,7 +73747,7 @@ h<ve 旁观
 h<xg 比旋光
 h<xz 麻辣香锅
 h<yY 旁顾
-h<！a 旁骛
+h<!a 旁骛
 h>Ub 爷青回
 h>Wl 麻豆区
 h? 顷 顷刻
@@ -73803,7 +73818,7 @@ hCxf 带上
 hCzX 带来
 hCzf 带钱
 hCzp 带过
-hC！N 带毒
+hC!N 带毒
 hD 疑 疑问
 hD/X 疑兵
 hD/y 肄业
@@ -73883,7 +73898,7 @@ hGv, 魔难
 hGws 魔影
 hGww 魔晶
 hGxb 魔种
-hG！A 魔幻
+hG!A 魔幻
 hH 井然有序
 hHBY 颖脱而出
 hHap 磨皮保留细节
@@ -73905,8 +73920,8 @@ hJ,d 毕嘉琪
 hJ/o 进度条
 hJLB 井底之蛙
 hJip 釜底抽薪
-hJ！ 进度表
-hJ！? 进度表
+hJ! 进度表
+hJ!? 进度表
 hK 以貌取人
 hKFr 以貌取人
 hKX 比翼鸟
@@ -74020,7 +74035,7 @@ hX/< 商务
 hX/f 商丘
 hX/y 商业
 hX:G 商贸
-hX:！ 商情
+hX:! 商情
 hX<K 商旅
 hXAF 商鞅
 hXAH 商朝
@@ -74226,7 +74241,7 @@ hhYv 皆发
 hhZF 比好
 hhZZ 爸爸妈妈 爷爷奶奶
 hhZb 比如
-hhZ！ 比率
+hhZ! 比率
 hha/ 比做
 hhaA 比值
 hhaH 比作
@@ -74284,7 +74299,7 @@ hi<l 摩擦力
 hi<y 摩崖
 hiAF 魔抗鞋子
 hiBr 摩拉肉
-hiI！ 摩登
+hiI! 摩登
 hiLE 摩尔
 hiMc 摩托车
 hiOi 摩托罗拉
@@ -74398,7 +74413,7 @@ hnnc 以泪洗面
 hnqB 麻江县 商河县 商水县
 hnuR 井泽诗织
 hnxx 摩洛哥
-hn！J 麻婆豆腐
+hn!J 麻婆豆腐
 ho 魔术师
 ho;z 磨杵成针
 hoPe 魔甘草
@@ -74483,9 +74498,9 @@ hpuC 进谏
 hpuy 进言
 hpxb 进程
 hpxw 进香
+hpyR 进展
 hpy. 进屋
 hpyO 进尺
-hpyR 进展
 hpyc 进厂
 hpzX 进来
 hpzr 旁若无人
@@ -74608,9 +74623,9 @@ hzUS 釜式
 hzec 进销存
 hzj 釜
 h~ 以及
-h！ 以柔克刚
-h！/F 以柔克刚
-h！S！ 以毒攻毒
+h! 以柔克刚
+h!/F 以柔克刚
+h!S! 以毒攻毒
 i 把 看 推荐
 i' 技术
 i, 推 推广
@@ -74899,7 +74914,7 @@ i/yO 折尺
 i/yd 誓愿
 i/yh 拍马屁
 i/yv 折返
-i/！z 折寿
+i/!z 折寿
 i: 抓 抓住
 i:.H 抓破
 i:.P 抓包
@@ -75071,7 +75086,7 @@ i<nG 揣测
 i<nX 振兴
 i<o 接力棒
 i<oT 揣想
-i<o！ 接力棒
+i<o! 接力棒
 i<ud 振刀
 i<zk 振铃
 i>Ud 抗静电
@@ -75249,7 +75264,7 @@ iAyU 擀毡
 iAyf 扬厉
 iAze 扎针
 iAzp 抛锚
-iA！v 授予
+iA!v 授予
 iB 抽 抽取
 iB,x 抽象
 iB.H 捅破
@@ -75319,7 +75334,7 @@ iBiZ 抽搐
 iBih 挨批
 iBio 抬手
 iBip 抽搭
-iBi！ 挨揍
+iBi! 挨揍
 iBj< 挨宰
 iBm/ 挨骂
 iBmJ 抽选
@@ -75368,7 +75383,7 @@ iC;h 接火
 iC<X 接办
 iC<b 拉架 接驾
 iC<l 接力 拉力
-iC<！ 探幽
+iC<! 探幽
 iC>w 探春
 iC?S 撞毁
 iC?X 拉平 扫平
@@ -75401,7 +75416,7 @@ iCIO 拉闸
 iCIb 探问
 iCIm 拉门
 iCIz 扫射
-iCI！ 拉登
+iCI! 拉登
 iCJW 撞裂
 iCJZ 探底
 iCJh 撞死
@@ -75524,7 +75539,7 @@ iCnc 接济
 iCnk 接洽
 iCnp 拉满
 iCnt 挥洒
-iCn！ 扫清
+iCn! 扫清
 iCo 探
 iCo, 接榫
 iCo/ 探析
@@ -75583,7 +75598,7 @@ iCzS 拉镜
 iCze 撞针 探针
 iCzp 接过 扫过
 iCzy 拉锯
-iC！N 扫毒
+iC!N 扫毒
 iD 抖 抖音
 iD,f 扎气球 抓气球
 iD/l 抖落
@@ -75665,8 +75680,8 @@ iErr 投资人
 iEsY 挡路
 iEt 抄
 iEzg 投资银行
-iE！? 抄表
-iE！a 推卸责任
+iE!? 抄表
+iE!a 推卸责任
 iF 摄 摄影
 iF,P 摄理
 iF,f 击球
@@ -75931,9 +75946,9 @@ iGze 打针
 iGzk 打铃
 iGzp 打过
 iGzt 打铁
-iG！ 抗生素
-iG！R 抗生素
-iG！w 打春
+iG! 抗生素
+iG!R 抗生素
+iG!w 打春
 iH 披 披露
 iH. 掏腰包
 iH.P 掏腰包
@@ -76103,7 +76118,7 @@ iJwf 掂量
 iJyR 扩展
 iJzE 扩销
 iJzR 挑错
-iJ！p 挑逗
+iJ!p 挑逗
 iK 捞 拖延
 iK, 擢
 iK.W 拖到
@@ -76209,7 +76224,7 @@ iLam 换件
 iLcT 换算 掐算
 iLcV 挥之不去
 iLcW 护色剂
-iLd！ 托尔斯泰
+iLd! 托尔斯泰
 iLf 捕
 iLfl 换妻
 iLfp 挣开
@@ -76358,7 +76373,7 @@ iMzE 挂锁
 iMzJ 挂镰
 iMzb 挂钟
 iMzq 挂锄
-iM！? 挂表
+iM!? 挂表
 iN 挺 挺好
 iN,< 扫福瑞
 iN/X 撤兵
@@ -76526,7 +76541,7 @@ iPiP 摸摸 拂拂
 iPiS 打野技巧
 iPiU 拂拭 打野抢龙
 iPit 摸排
-iPn！ 摸清
+iPn! 摸清
 iPoO 撰述
 iPpq 撰著
 iPqB 托里县
@@ -76551,7 +76566,7 @@ iQ<y 护岸
 iQ?h 搓背
 iQBm 择善而从
 iQBz 擦肩而过
-iQD！ 护短
+iQD! 护短
 iQFe 护耳
 iQFi 摇扇子
 iQH 掮
@@ -76631,7 +76646,7 @@ iRIm 拱门
 iRLp 披红戴花
 iROA 措置
 iRPl 提纳里
-iRP！ 撒野
+iRP! 撒野
 iRRu 拱券
 iRS: 措意
 iRTd 措大
@@ -76684,7 +76699,7 @@ iRxb 撒种
 iRyJ 扩散反应
 iRyn 撒尿
 iRzo 拔丝金枣
-iR！k 提纲挈领
+iR!k 提纲挈领
 iS 扛 手工艺
 iS/ 手工业
 iS/X 排头兵
@@ -76883,7 +76898,7 @@ iTnP 看涨
 iTnU 把酒
 iTnV 看法
 iTnu 挑大梁
-iTn！ 看清
+iTn! 看清
 iToE 投档
 iToN 投标
 iToP 掩模
@@ -76930,10 +76945,10 @@ iTzR 看错
 iTzS 护目镜
 iTzX 看来 看锐
 iTzp 看过
-iT！? 看表
-iT！H 看青
-iT！N 投毒
-iT！u 投契
+iT!? 看表
+iT!H 看青
+iT!N 投毒
+iT!u 投契
 iU 找 找到
 iU.W 找到
 iU.o 找碴
@@ -76955,7 +76970,7 @@ iUO 掴
 iUQF 找遍
 iURL 捆缚
 iURX 拢共
-iUR！ 捆绑
+iUR! 捆绑
 iUS 拭
 iUS, 找准
 iUST 挠头
@@ -77157,7 +77172,7 @@ iXOy 拼版
 iXQT 拦着
 iXRm 拼缀
 iXSy 拼音
-iXS！ 拼凑
+iXS! 拼凑
 iXU/ 拼图
 iXUJ 打道回府
 iXVB 拦劫
@@ -77319,7 +77334,7 @@ iYtd 报失
 iYti 扬州鹅
 iYue 报读
 iYug 报话
-iYu！ 报请
+iYu! 报请
 iYv 报
 iYvr 擢发难数
 iYvw 报文
@@ -77331,7 +77346,7 @@ iYz 看出来
 iYzE 报销
 iYzR 报错
 iYzX 看出来 摇出来
-iY！? 报表
+iY!? 报表
 iZ 抗 擅长
 iZ.H 摔破
 iZ.Z 摔碎
@@ -77372,7 +77387,7 @@ iZaK 摔伤
 iZaM 抵偿
 iZaO 抵住
 iZan 抗体
-iZa！ 抵债
+iZa! 抵债
 iZcq 拉姆齐
 iZe 摔
 iZf 擅
@@ -77425,7 +77440,7 @@ iZxX 抗税
 iZxf 抗上
 iZyd 抗原
 iZzE 抵销
-iZ！N 抗毒
+iZ!N 抗毒
 i` 问题
 ia 扮 操作系统
 ia./ 操作码
@@ -77478,7 +77493,7 @@ iavU 扮戏
 iaz 拊
 iazp 拼什锦合菜
 iazx 操作过程
-ia！H 扮靓
+ia!H 扮靓
 ib 损 操作
 ib,, 操琴
 ib,y 损耗
@@ -77564,7 +77579,7 @@ ibiV 操持
 ibik 捌拾
 ibjO 接口定义
 ibjz 操守
-ibj！ 损害
+ibj! 损害
 ibk 扣
 iblo 扣杀
 ibmK 拨号器
@@ -77636,7 +77651,7 @@ icmU 投笔从戎
 icn 看不清
 icnm 搞不清楚 看不清楚
 icnp 挤满
-icn！ 看不清
+icn! 看不清
 ico 擀面杖
 icog 擀面杖
 icq 挤
@@ -77783,7 +77798,7 @@ ifH. 抹胸
 ifHY 拜服
 ifHk 抹脸
 ifI 捷
-ifI！ 拜登
+ifI! 拜登
 ifJP 拉开序幕
 ifKr 拜年
 ifL? 推食解衣
@@ -77842,15 +77857,15 @@ ifue 拜读
 ifuf 陈燊
 ifur 拜认
 ifuw 拜谒
-ifu！ 拜请
+ifu! 拜请
 ifwH 拜盟
 ifwQ 段曦
 ifzE 段锁
 ifzX 接下来
 ifzZ 抢救无效
 ifzj 拜金
-if！ 拜
-if！z 拜寿
+if! 拜
+if!z 拜寿
 ig 括 排行榜
 ig;r 打得火热
 igBz 扑鼻而来
@@ -78004,7 +78019,7 @@ ihxs 拟稿
 ihzE 批销
 ihze 指针
 ihzg 招商银行
-ih！G 指责
+ih!G 指责
 ii 抵抗力
 ii. 手提包
 ii.P 手提包
@@ -78046,7 +78061,7 @@ iiXQ 携手并肩
 iiYG 打扫卫生
 iiZ 换手率
 iiZI 挑拨离间
-iiZ！ 换手率
+iiZ! 换手率
 iia 扫描仪
 iiaC 扭折位
 iiaO 扫描仪
@@ -78095,7 +78110,7 @@ iioU 扫描模式
 iioq 拖拉机
 iiou 拱手相让
 iiov 指挥权
-iio！ 指挥棒
+iio! 指挥棒
 iipf 指挥若定失萧曹
 iipj 指挥若定
 iips 手把芙蓉朝玉京
@@ -78296,8 +78311,8 @@ ila 撇
 ilb 捃
 ilbI 撇嘴
 ilfp 撇开
-il！ 抗病毒
-il！N 抗病毒
+il! 抗病毒
+il!N 抗病毒
 im 攒 挫折
 im,o 攒集
 im:G 控制性
@@ -78567,7 +78582,7 @@ ioxs 手稿
 iozM 手链
 iozO 手镯 手锣
 iozq 手铐
-io！? 手表
+io!? 手表
 ip 搭 描述
 ip,P 搭理
 ip,W 搭班
@@ -78635,8 +78650,8 @@ ipx? 搭乘
 ipxb 击节称叹
 ipxf 搭上
 ipzj 描金
-ip！ 抗菌素
-ip！R 抗菌素
+ip! 抗菌素
+ip!R 抗菌素
 iq 拥 拥有
 iq, 手风琴
 iq,, 手风琴
@@ -78666,7 +78681,7 @@ iqiT 打几把
 iqic 拥挤
 iqie 挫骨扬灰
 iqiw 捕风捉影
-iqi！ 扶老携幼
+iqi! 扶老携幼
 iqjh 拥塞
 iqnE 接风洗尘
 iqqB 扶风县
@@ -78683,7 +78698,7 @@ irFT 掩人耳目
 irG. 抢购
 irGU 擒贼
 irPb 段志强
-irP！ 拾人牙慧
+irP! 拾人牙慧
 irQT 抢着 搂着
 irR 据介绍
 irRL 拴缚
@@ -78835,7 +78850,7 @@ itJW 排列
 itJZ 托底
 itJe 托儿
 itJh 托庇
-itJ！ 排序
+itJ! 排序
 itLE 拉斐尔
 itLu 排解
 itNf 托福
@@ -78932,8 +78947,8 @@ ityh 托尼
 ityn 排尿
 ityy 排尾
 itzR 排错
-it！< 托幼
-it！N 排毒
+it!< 托幼
+it!N 排毒
 iu 招 招聘
 iu,o 招集
 iu.a 招致
@@ -79080,7 +79095,7 @@ iw?g 提干
 iwC 提
 iwCo 提亲
 iwCp 提速
-iwD！ 揭短
+iwD! 揭短
 iwEC 担当
 iwFb 提职
 iwFi 提子 担子 撮子 抿子
@@ -79102,8 +79117,8 @@ iwRF 担纲 提纲
 iwRf 提纯
 iwRs 提级
 iwSb 提名 担名
-iwUL 抗日战争
 iwUw 提醒
+iwUL 抗日战争
 iwV 捏
 iwVp 提塔
 iwW 摄影师
@@ -79111,8 +79126,8 @@ iwWf 摄影师
 iwWv 捏紧
 iwXH 提前
 iwXw 提单
-iwY< 提防
 iwYF 提出
+iwY< 提防
 iwYf 捍卫
 iwYv 揭发
 iwZh 提交
@@ -79176,7 +79191,7 @@ iwu 揭
 iwuA 提词 提讯
 iwuF 提调
 iwuO 提议
-iwu！ 提请
+iwu! 提请
 iwv 撮
 iwwU 揭晓
 iwwe 提早
@@ -79185,7 +79200,7 @@ iwxb 捏积
 iwxf 提上 提督
 iwxg 指日可待
 iwzp 提过
-iw！u 提挈
+iw!u 提挈
 ix 掉 掉了
 ix.P 掉包
 ix.W 掉到
@@ -79355,34 +79370,34 @@ izu 抚
 izuW 扎赉诺尔区
 izyN 抚慰
 izzz 手无寸铁
-i！ 捧 抒情
-i！.Z 揉碎
-i！:c 抒怀
-i！:！ 抒情
-i！< 拗
-i！Cf 抒写
-i！HK 捧腹
-i！Lj 捧角
-i！QT 捧着
-i！Rn 拉帮结派
-i！T 揍
-i！VA 捧场
-i！Yv 抒发
-i！Yz 打预防针
-i！bk 拗口
-i！dP 捧起
-i！dz 捧走
-i！i 捧
-i！iQ 揉搓
-i！iw 揉捏
-i！i！ 揉揉
-i！lo 捧杀
-i！o 揉
-i！oc 捧杯
-i！v 抒
-i！vS 拗劲
-i！！ 抗毒素
-i！！R 抗毒素
+i! 捧 抒情
+i!.Z 揉碎
+i!:c 抒怀
+i!:! 抒情
+i!< 拗
+i!Cf 抒写
+i!HK 捧腹
+i!Lj 捧角
+i!QT 捧着
+i!Rn 拉帮结派
+i!T 揍
+i!VA 捧场
+i!Yv 抒发
+i!Yz 打预防针
+i!bk 拗口
+i!dP 捧起
+i!dz 捧走
+i!i 捧
+i!iQ 揉搓
+i!iw 揉捏
+i!i! 揉揉
+i!lo 捧杀
+i!o 揉
+i!oc 捧杯
+i!v 抒
+i!vS 拗劲
+i!! 抗毒素
+i!!R 抗毒素
 j 它 家 实现
 j' 安全
 j, 宝 宝宝
@@ -79436,7 +79451,7 @@ j,vX 宝鸡
 j,zB 富集铀
 j,zF 宝钢
 j,zv 宝钗
-j,！f 宝丰
+j,!f 宝丰
 j. 室 室内
 j.;j 乙硼烷
 j.Bn 室内
@@ -79549,7 +79564,7 @@ j:ns 寄情水
 j:oA 密植
 j:oF 蜜枣
 j:oJ 蜜桃
-j:o！ 蜜橘
+j:o! 蜜橘
 j:pK 蜜莓
 j:q 甯
 j:rJ 蜜糖
@@ -79564,7 +79579,7 @@ j:uu 密诏
 j:vw 密文
 j:zH 密钥
 j; 灾 灾害
-j;:！ 灾情
+j;:! 灾情
 j;Df 寒灯思旧事
 j;Gv 灾变
 j;JF 灾殃
@@ -79578,7 +79593,7 @@ j;bb 灾患
 j;dU 乙烯基醚
 j;dV 乙烯基
 j;h 灾
-j;j！ 灾害
+j;j! 灾害
 j;pu 灾荒
 j;v, 灾难
 j;wG 灾星
@@ -79598,7 +79613,7 @@ j<c 宸
 j<c: 宠辱不惊
 j<fr 家族灭迹人
 j<jY 宰客
-j<j！ 宰割
+j<j! 宰割
 j<lo 宰杀
 j<mQ 宰制
 j<oT 宰相
@@ -79678,7 +79693,7 @@ jC,P 定理
 jC.; 定碱
 jC:G 定性 完整性
 jC:o 完整性检查
-jC:！ 定情
+jC:! 定情
 jC<F 定岗
 jC<l 定力
 jCBH 定能
@@ -79694,8 +79709,8 @@ jCIs 安立身
 jCJR 完整度
 jCNA 定礼
 jCNw 定神
-jCO< 定为
 jCOl 定义
+jCO< 定为
 jCOt 定罪
 jCPZ 定弦
 jCQh 定户
@@ -79706,7 +79721,7 @@ jCS, 定准
 jCSb 定名
 jCT? 定鼎
 jCTz 定夺
-jCT！ 定睛
+jCT! 定睛
 jCU; 定点
 jCUS 定式
 jCVI 定址
@@ -79737,13 +79752,14 @@ jCmQ 定制
 jCnK 定海
 jCoN 定标
 jCoY 定格
-jCqB 安新县
 jCqY 定都
+jCqB 安新县
 jCqb 定向
 jCr< 定势
 jCrN 定会
 jCrZ 定数
 jCs 定
+jC: 完整性
 jCtZ 定要
 jCu? 定评
 jCuN 定语
@@ -79900,7 +79916,7 @@ jGvY 家贼难防
 jGwr 宁日
 jGxk 宁可
 jGyd 宁愿
-jG！H 宁静
+jG!H 宁静
 jH 豁然开朗
 jHIB 豁然贯通
 jHXO 寒月公主
@@ -79968,7 +79984,7 @@ jKyF 官复原职
 jL 容 容易
 jL/O 容斥
 jL:D 容留
-jL:！ 容情
+jL:! 容情
 jLCy 容颜
 jLET 额角尖
 jLIi 容止
@@ -79983,7 +79999,7 @@ jLUb 额角圆
 jLfR 安危与共
 jLg 容
 jLmK 容器
-jLp！ 安之若素
+jLp! 安之若素
 jLqB 容县
 jLrr 容人
 jLry 宋之馨
@@ -80106,7 +80122,7 @@ jQWa 搴帷览物华
 jQX> 家慈
 jQXg 家道
 jQZv 家奴
-jQZ！ 家畜
+jQZ! 家畜
 jQa/ 完美体验
 jQa; 家伙
 jQaE 家传
@@ -80172,7 +80188,7 @@ jS/l 实落
 jS/x 实处
 jS/y 实业
 jS:x 实心
-jS:！ 实情
+jS:! 实情
 jS;f 实感
 jS<K 实施
 jS<l 实力
@@ -80192,7 +80208,7 @@ jSMF 实学
 jSO< 实为
 jSPX 实弹
 jSRf 实线
-jSR！ 实绩
+jSR! 实绩
 jSSb 实况 实名
 jST 实
 jSTp 实达
@@ -80260,7 +80276,7 @@ jT/, 宽大处理
 jT/T 家大业大
 jT/o 守具兵机
 jT:c 寄怀
-jT:！ 寄情
+jT:! 寄情
 jT<a 寄放
 jTE 寮
 jTGs 寄生
@@ -80303,7 +80319,7 @@ jTx 寄
 jTy/ 寄居
 jTzR 寄错
 jTzX 寄来
-jT！v 寄予
+jT!v 寄予
 jU 宠 宠物
 jU<z 宠辱
 jUAi 宠爱
@@ -80324,7 +80340,7 @@ jUau 宠信
 jUbH 乙酰唑胺
 jUdV 乙酰基
 jUjU 乙酸乙酯 乙酰乙酸乙酯
-jUj！ 定国安邦
+jUj! 定国安邦
 jUl 宠
 jUm. 宠物
 jUnP 宠溺
@@ -80463,7 +80479,7 @@ jZ/J 安克
 jZ:Z 安妥
 jZ:g 安恬
 jZ:x 安心
-jZ:！ 案情
+jZ:! 案情
 jZ;H 安燃
 jZ<a 安放
 jZ?X 安平
@@ -80525,8 +80541,8 @@ jZec 安在
 jZex 安乡
 jZfY 安顿
 jZfe 安于
-jZg: 安息
 jZgR 安徽
+jZg: 安息
 jZgp 安适
 jZiC 安努拉
 jZiZ 安抵
@@ -80577,10 +80593,10 @@ jZyN 安慰
 jZyR 安厝
 jZzE 完好无缺
 jZzi 完好无损
-jZ！< 安如泰山
-jZ！H 安静
-jZ！Y 安邦
-jZ！n 安泰
+jZ!< 安如泰山
+jZ!H 安静
+jZ!Y 安邦
+jZ!n 安泰
 j` 密码
 ja 宿 宿舍
 ja,f 定位球
@@ -80947,7 +80963,7 @@ jhxg 寒光
 jhya 寒雁
 jhyf 赛后
 jhym 寒毛
-jh！G 塞责
+jh!G 塞责
 ji 乙 乙肝
 ji,m 宝拉珍选
 ji.N 乙硫
@@ -81049,7 +81065,7 @@ jjxC 宗室秘法录
 jjxr 寥寥可数
 jjxx 安安稳稳
 jjzq 寥寥无几
-jj！！ 安安静静
+jj!! 安安静静
 jk 宿命论
 jk>R 寡霉素
 jkJe 赛飞儿
@@ -81275,7 +81291,7 @@ jqxJ 实用程序
 jqy/ 宜居
 jqyemwxn 久野美咲
 jqzv 定风铎
-jq！w 宜春
+jq!w 宜春
 jr 安全性
 jr:G 安全性
 jr:K 完全恢复
@@ -81445,7 +81461,7 @@ jwuA 审讯
 jwuG 审订
 jwuO 审议
 jwue 审计 审读
-jwu！ 宴请
+jwu! 宴请
 jwwC 审题
 jwxs 审稿
 jx 寂 寂寞
@@ -81468,7 +81484,7 @@ jxrN 家委会
 jxrT 安卓类
 jxv 寂
 jxye 伽倻
-jx！H 寂静
+jx!H 寂静
 jy 实习生
 jy: 实质性
 jy:G 实质性
@@ -81526,51 +81542,51 @@ jzr< 守势
 jzuH 守望
 jzwg 寒来暑往
 jzwz 守时
-j！ 害 害怕
-j！.E 宁静致远
-j！/x 害处
-j！:d 害怕
-j！AJ 豁免
-j！Ai 割爱
-j！Bc 害虫
-j！Br 割肉
-j！Fi 豁子
-j！HK 豁然
-j！Hb 害臊
-j！JR 割席
-j！JW 割裂
-j！Jb 害喜
-j！Jh 害死
-j！L 豁
-j！NA 割礼
-j！Np 割弃
-j！Pe 割草
-j！QA 害羞
-j！Rf 割线
-j！T; 害眼
-j！Tp 豁达
-j！Vz 割地
-j！W 割
-j！YF 豁出
-j！Yr 割除
-j！aK 割伤
-j！b 害
-j！bI 豁嘴
-j！bk 豁口
-j！fp 割开
-j！fx 割下
-j！gw 害得
-j！iC 割接
-j！iy 割据
-j！jU 安邦定国
-j！lf 害病
-j！rA 割断
-j！rg 割舍
-j！rr 害人
-j！sq 豁亮
-j！ux 割让
-j！x: 割稻
-j！yu 寄予厚望
+j! 害 害怕
+j!.E 宁静致远
+j!/x 害处
+j!:d 害怕
+j!AJ 豁免
+j!Ai 割爱
+j!Bc 害虫
+j!Br 割肉
+j!Fi 豁子
+j!HK 豁然
+j!Hb 害臊
+j!JR 割席
+j!JW 割裂
+j!Jb 害喜
+j!Jh 害死
+j!L 豁
+j!NA 割礼
+j!Np 割弃
+j!Pe 割草
+j!QA 害羞
+j!Rf 割线
+j!T; 害眼
+j!Tp 豁达
+j!Vz 割地
+j!W 割
+j!YF 豁出
+j!Yr 割除
+j!aK 割伤
+j!b 害
+j!bI 豁嘴
+j!bk 豁口
+j!fp 割开
+j!fx 割下
+j!gw 害得
+j!iC 割接
+j!iy 割据
+j!jU 安邦定国
+j!lf 害病
+j!rA 割断
+j!rg 割舍
+j!rr 害人
+j!sq 豁亮
+j!ux 割让
+j!x: 割稻
+j!yu 寄予厚望
 k 合 重 重要
 k' 需要
 k, 霍 霍尔
@@ -81606,7 +81622,7 @@ k.Fi 雹子
 k.P 雹
 k.Sl 拿破仑
 k.Z 重码率
-k.Z！ 重码率
+k.Z! 重码率
 k.aU 邻硫代
 k.j; 雹灾
 k.uO 重破刃
@@ -81697,7 +81713,7 @@ k<:C 震悚
 k<:F 震慑
 k<:O 剑旗爵
 k<:s 震惊
-k<:！ 震情
+k<:! 震情
 k<;f 震感
 k<CM 千岩军
 k<Fe 震耳
@@ -81819,7 +81835,7 @@ kCKO 雪狼
 kCLS 雪鹤之章
 kCMc 雪车
 kCOp 雪片
-kCP！ 雪野
+kCP! 雪野
 kCQN 重新启动
 kCR< 雪纺
 kCRU 雪绒
@@ -81869,7 +81885,7 @@ kCxW 雪梨
 kCyd 雪原
 kCyf 雪后
 kCzJ 千寻铁锁沉江底
-kC！H 雪青
+kC!H 雪青
 kD 雷 雷达
 kD;h 雷火
 kD<K 雷族
@@ -82060,7 +82076,7 @@ kKqz 剑舞者
 kKsl 霉了
 kKv 翕
 kKvK 今年欢笑复明年
-kK！R 霉素
+kK!R 霉素
 kL 千载难逢
 kL,u 千载琵琶作胡语
 kL:a 合久必分
@@ -82107,7 +82123,7 @@ kO.W 领到
 kO/X 领兵
 kO/p 邻近
 kO:N 领悟
-kO:！ 领情
+kO:! 领情
 kO<K 令旗
 kO>f 领奏
 kO? 领
@@ -82136,8 +82152,8 @@ kOO; 令郎
 kOOd 令牌
 kOOj 邻甲
 kOOt 领罪
-kOPl 邻里
 kOPz 领导
+kOPl 邻里
 kOQO 领养
 kOQT 领着
 kOQj 领巾
@@ -82200,7 +82216,7 @@ kOy/ 邻居
 kOym 翎毛
 kOyt 领属
 kOz. 领钩
-kO！Y 邻邦
+kO!Y 邻邦
 kP 重点
 kP,F 领导班子
 kP,e 重现
@@ -82214,7 +82230,7 @@ kP/f 重岳
 kP/l 重落
 kP/m 千里马
 kP/r 雷弹丘丘人
-kP/！ 重逢
+kP/! 重逢
 kP:o 重彩
 kP:x 重心
 kP;. 重炮
@@ -82384,7 +82400,7 @@ kPze 重镇
 kPzf 重钙
 kPzj 重金
 kPzk 重锤
-kP！G 重责
+kP!G 重责
 kQ 千差万别
 kQCY 千帆竞发
 kQN< 重启动
@@ -82518,7 +82534,7 @@ kaqw 瓦伊凡联盟
 kaxS 零位移
 kb 含 含有
 kb:; 含恨
-kb:！ 含情
+kb:! 含情
 kb>j 雨中春树万人家
 kb? 颔
 kbBj 贪吃蛇
@@ -82551,7 +82567,7 @@ kbY 命 酃
 kbZ 命中率
 kbZC 命妇
 kbZv 含怒
-kbZ！ 命中率
+kbZ! 命中率
 kba< 雷鸣仙
 kbb 重口味
 kbbU 含咽
@@ -82764,7 +82780,7 @@ kfye 剑与盾
 kfzX 飞来
 kfzp 飞过
 kfzt 飞镖
-kf！< 重于泰山
+kf!< 重于泰山
 kg 飞行员
 kgCC 飞行冠军
 kgJh 需循序渐进
@@ -82849,7 +82865,7 @@ khwz 合时
 khxL 合称
 khxq 合租
 khzj 合金
-kh！f 合奏
+kh!f 合奏
 ki 拿 拿到
 ki.W 拿到
 ki;G 雪打灯
@@ -82929,7 +82945,7 @@ kjwr 今日
 kjx; 今秋
 kjxw 今宵剩把银釭照
 kjyf 今后
-kj！w 今春
+kj!w 今春
 kk 零 零售
 kk,L 零玖
 kk,b 零售
@@ -83121,7 +83137,7 @@ koVA 飞机场
 koY/ 霜降
 koYM 千机阵
 koZ 合格率
-koZ！ 合格率
+koZ! 合格率
 koah 霜华
 kobe 霜叶
 kodH 霜期
@@ -83129,7 +83145,7 @@ kodW 飞檐走壁
 kofT 霜天
 koff 千树万树梨花开
 kofo 千村万落生荆杞
-koj！ 霜害
+koj! 霜害
 komV 霜牡
 komh 霜牝
 koo/ 雷樱枝条
@@ -83215,7 +83231,7 @@ kpyz 千花昼如锦
 kpz 零花钱
 kpz. 垂钓
 kpzf 零花钱
-kp！H 垂青
+kp!H 垂青
 kq 千 千万
 kq/J 千克
 kq/g 千古
@@ -83350,7 +83366,7 @@ kunb 合订本
 kupcty 苦炮鲀
 kuu 霭
 kv 雨 雨天
-kv:！ 雨情
+kv:! 雨情
 kv?i 雨衣
 kvAM 雨鞋
 kvAa 雨靴
@@ -83476,7 +83492,7 @@ kyom 雳木
 kyqg 雷厉风行
 kyv 霞
 kyxg 霞光
-ky！c 雨后春笋
+ky!c 雨后春笋
 kz 重金属
 kz<s 雷铁山
 kz<x 雷锁辛
@@ -83621,7 +83637,7 @@ lBgw 痛得
 lBiF 痛击
 lBiG 痛打
 lBj 病虫害
-lBj！ 病虫害
+lBj! 病虫害
 lBlL 痛疚
 lBlQ 痛痒
 lBmC 痛楚
@@ -83651,7 +83667,7 @@ lD 疾 疾病
 lD/b 疾驶
 lD/z 疾驰
 lD:x 痴心
-lD:！ 痴情
+lD:! 痴情
 lDAA 疾书
 lDAi 痴爱
 lDCp 疾速
@@ -83829,7 +83845,7 @@ lSKq 群攻狙
 lSe 瘴
 lSlf 瘴疠 癔病 癔症
 lT 疫 疫苗
-lT:！ 疫情
+lT:! 疫情
 lTP 痍
 lTT 凶巴巴
 lTTb 凶巴巴
@@ -83869,12 +83885,12 @@ lWjG 肃宁
 lWkG 肃贪
 lWl; 瘢痕
 lWlo 肃杀
-lWn！ 肃清
+lWn! 肃清
 lWqF 建瓯风干的鸭子
 lWxd 肃穆
 lWyv 肃反
 lWyx 癖习
-lW！H 肃静
+lW!H 肃静
 lX 瘅
 lX;j 疾首蹙额
 lXe 瘅
@@ -83892,7 +83908,7 @@ lZU, 建交国
 lZe 瘁
 lZqB 建始县
 lZrs 尹女士
-lZ！ 痃
+lZ! 痃
 la 憋 弊端
 la: 憋
 la<p 鳖边
@@ -83913,7 +83929,7 @@ laec 憋在
 laej 瞥见
 lafI 弊政
 lagu 蝲蛄
-laj！ 弊害
+laj! 弊害
 lal 症候群
 lalf 弊病
 lalt 症候群
@@ -83978,7 +83994,7 @@ lf 病 症状
 lf,P 病理
 lf,x 病象
 lf/a 病故
-lf:！ 病情
+lf:! 病情
 lf;V 病灶
 lf;p 病退
 lf?K 症状 病状
@@ -84024,7 +84040,7 @@ lfi/ 病逝
 lfjL 病容
 lfjQ 病家
 lfjZ 病案
-lfj！ 病害
+lfj! 病害
 lfkH 病愈
 lfkP 病重
 lflB 病痛
@@ -84042,17 +84058,17 @@ lfu 疠
 lfxb 病程
 lfy< 病历
 lfyd 病原
-lf！N 病毒
-lg 建立 瘪
+lf!N 病毒
+lg 瘪 建立
 lg/Y 建邺
 lg/y 建业
 lg/z 君自故乡来
 lg:Q 痛彻心扉
 lg;A 建成
 lg>? 建表
+lgCl 建立
 lgCM 建军
 lgCU 建站
-lgCl 建立
 lgEJ 建元
 lgFl 建网
 lgJM 建库
@@ -84093,8 +84109,8 @@ lgov 建树
 lgqY 建都
 lgrY 建仓
 lgtV 建德非吾土
-lguO 建议
 lguT 建设
+lguO 建议
 lguy 建言
 lgvw 建文
 lgxZ 建委
@@ -84191,7 +84207,7 @@ loST 杀头
 loUp 杀戒
 loVu 杀入
 loW 刹
-loX！ 病树前头万木春
+loX! 病树前头万木春
 loYF 杀出
 loaK 杀伤
 loaU 杀伐
@@ -84204,7 +84220,7 @@ logw 杀得
 lohp 杀进
 loio 杀手
 loix 杀掉
-loj！ 杀害
+loj! 杀害
 lokv 希格雯
 lole 萝艻
 lolt 弑君
@@ -84223,8 +84239,8 @@ lovX 杀鸡
 lowz 刹时
 loxg 杀光
 loyO 杀尽
-lo！H 杀青
-lo！N 杀毒
+lo!H 杀青
+lo!N 杀毒
 lp 瘩 群英会
 lpPo 群孽异核
 lpcT 痛苦面具
@@ -84307,7 +84323,7 @@ lt 君 群体
 lt,o 群集
 lt,w 君王 郡王
 lt/l 群落
-lt:！ 群情
+lt:! 群情
 lt</ 群峰
 lt<s 群山
 lt>H 群青
@@ -84419,11 +84435,11 @@ lyan 病原体
 lyv 瘕
 lzlo 喽啰
 lzvi 蝼螲
-l！ 痘 痘痘
-l！: 瘛
-l！;n 病毒感染
-l！d 痘
-l！l！ 痘痘
+l! 痘 痘痘
+l!: 瘛
+l!;n 病毒感染
+l!d 痘
+l!l! 痘痘
 m 从 特 特别
 m' 选择
 m, 物理学
@@ -84618,7 +84634,7 @@ mFwG 双子星
 mFxf 双网卡 物联卡
 mG 牲 牲畜
 mGBN 牛鬼蛇神
-mGZ！ 牲畜
+mGZ! 牲畜
 mGa 先生们
 mGaI 先生们
 mGbk 牲口
@@ -84722,9 +84738,9 @@ mJfp 选型
 mJgi 选自
 mJgw 先得
 mJgx 先行
+mJhp 先进
 mJhJ 特殊商店
 mJhQ 先帝
-mJhp 先进
 mJi/ 先哲
 mJiA 赞扬
 mJiT 先把 先看
@@ -84773,7 +84789,7 @@ mJxx 赞歌
 mJyf 先后
 mJz/ 先锋
 mJzX 先来
-mJ！x 先秦
+mJ!x 先秦
 mK 器 器官
 mK;m 器皿
 mKC; 哭灵
@@ -84830,7 +84846,7 @@ mMY/ 从轻发落
 mMaC 双学位
 mMm 双轨制
 mMmQ 双轨制
-mMy！ 先斩后奏
+mMy! 先斩后奏
 mN 禁 禁止
 mN;U 禁烟
 mN<a 禁放
@@ -84879,7 +84895,7 @@ mNs 禁
 mNsB 牛运亨通
 mNy/ 先礼后兵
 mNzU 禁锢
-mN！N 禁毒
+mN!N 禁毒
 mO 制片厂
 mO<Z 双鸭山市
 mOAA 告罪书
@@ -84945,7 +84961,7 @@ mQuG 制订
 mQuV 赞美诗
 mQxb 制程
 mQzf 制钱
-mQ！? 制表
+mQ!? 制表
 mR 造纸厂
 mR,O 林红玉
 mR:G 双线性
@@ -84999,7 +85015,7 @@ mSx 梦
 mSxf 选项卡
 mSyK 梦魇
 mSye 物攻盾
-mS！A 梦幻
+mS!A 梦幻
 mT 犄 双眼皮
 mTEd 梦奇顽趣
 mTHp 双眼皮
@@ -85052,10 +85068,10 @@ mVGJ 坐赃
 mVGs 林培生
 mVHB 坐胎
 mVIh 特此
+mVJt 特殊
 mVJR 坐席
 mVJV 坐庄
 mVJo 坐床
-mVJt 特殊
 mVLC 特急
 mVLT 特色
 mVMV 坐堂
@@ -85223,9 +85239,9 @@ may 物价局
 mayA 物价局
 maze 牛华镇
 mazx 造化钟神秀
-ma！ 鄂伦春
-ma！< 鄂伦春族
-ma！w 鄂伦春
+ma! 鄂伦春
+ma!< 鄂伦春族
+ma!w 鄂伦春
 mb 靠 告诉
 mb.H 告破
 mb/p 靠近
@@ -85421,7 +85437,7 @@ meii 从左拾遗移华州掾
 melh 梦见君王觉后疑
 meo 哭丧棒
 meom 梦见木
-meo！ 哭丧棒
+meo! 哭丧棒
 mf 丛 丛林
 mf,o 丛集
 mf: 先天性
@@ -85681,7 +85697,7 @@ mnit 牛排
 mnjT 坐法宫中朝四夷
 mnjY 牛客
 mnlt 牛群
-mnl！ 牛痘
+mnl! 牛痘
 mnme 牛犊
 mnn 选举法
 mnnV 选举法
@@ -85914,7 +85930,7 @@ mtRN 双系统
 mtad 从我做起
 mtmG 牺牲
 mtqB 林西县
-mtw！ 物阜民丰
+mtw! 物阜民丰
 mtx 牺
 mu 特长生
 muEi 从长远看
@@ -85985,9 +86001,9 @@ mzne 从来没有
 mzpO 先锋芯片
 mzpR 先锋芯片组
 mzy. 先来后到
-m！ 双丰收
-m！Wa 双丰收
-m！nw 梦幻泡影
+m! 双丰收
+m!Wa 双丰收
+m!nw 梦幻泡影
 n 本 没 游戏
 n' 没有
 n, 汪 淮南
@@ -86203,7 +86219,7 @@ n:WE 淫乐
 n:X< 湖心岛
 n:YF 浮出 溜出
 n:ZC 淫妇
-n:Z！ 水乳交融
+n:Z! 水乳交融
 n:a: 满怀信心
 n:ah 浮华
 n:bG 浮员
@@ -86267,7 +86283,7 @@ n:yS 深情厚意
 n:yn 泌尿
 n:yq 浮屠
 n:yu 深情厚谊
-n:！L 浮艳
+n:!L 浮艳
 n; 益 益于
 n;,; 流火焦灼
 n;.L 油焖石鳞
@@ -86431,7 +86447,7 @@ n<z 溽
 n<z. 游钧
 n<z< 法力无边
 n<ze 涂山镇
-n<！H 淤青
+n<!H 淤青
 n>,E 清玩
 n>;E 清炒
 n>?h 清北
@@ -86510,7 +86526,7 @@ n?nV 激将法
 n?nZ 汗液
 n?ns 汗水 滚水
 n?nw 汗漫
-n?n！ 汗渍
+n?n! 汗渍
 n?o 洗衣机
 n?oX 滚梯
 n?om 滚木
@@ -86526,10 +86542,10 @@ n?uu 清平调词
 n?v 溲
 n?yX 滚屏
 n?ym 汗毛
-n?！H 汗青
-n?！i 浓妆艳抹
+n?!H 汗青
+n?!i 浓妆艳抹
 nA 汤 潮流
-nA:！ 汛情
+nA:! 汛情
 nA; 烫
 nA;A 染成
 nA<b 汤加
@@ -86614,7 +86630,7 @@ nAy/ 潮剧
 nAzb 汤锅
 nAze 沐爱镇
 nAzj 烫金
-nA！N 染毒
+nA!N 染毒
 nB 油 治疗
 nB,P 治理
 nB,e 涌现
@@ -86737,7 +86753,7 @@ nBno 油漆
 nBnq 油滑
 nBns 油水 治水
 nBny 渗漏 油泥
-nBn！ 油渍
+nBn! 油渍
 nBo/ 渗析
 nBoB 油桶
 nBoF 油桐
@@ -86780,7 +86796,7 @@ nByc 油厂
 nBye 油质
 nBzX 涌来
 nBzb 油锅 淡而无味
-nB！/ 油麦
+nB!/ 油麦
 nC 深 深度
 nC,h 深耕
 nC,m 浑噩
@@ -86791,7 +86807,7 @@ nC/x 深处
 nC: 漱
 nC:d 深怕
 nC:x 深悼
-nC:！ 深情 浓情
+nC:! 深情 浓情
 nC;U 浓烟
 nC;f 深感 沈威
 nC<e 深巅
@@ -86924,7 +86940,7 @@ nCnt 深漂
 nCnw 浸湿
 nCnx 浑河
 nCnz 深池
-nCn！ 浸渍
+nCn! 浸渍
 nCo 深
 nCoT 浓相
 nCox 浑朴
@@ -86965,9 +86981,9 @@ nCyT 浓眉
 nCyw 浓厚 深厚 浑厚
 nCz 浔
 nCzS 潘立铭
-nC！? 深表
-nC！H 沉静
-nC！L 浓艳
+nC!? 深表
+nC!H 沉静
+nC!L 浓艳
 nD 汽 汽车
 nD.P 汽包
 nD.n 洗氨泵
@@ -87131,7 +87147,7 @@ nEnv 沙滩
 nEnw 消渴 消泯
 nEnx 沙河
 nEny 污泥 沙漏
-nEn！ 污渍
+nEn! 污渍
 nEos 消极
 nEpK 濯尘芙蓉
 nEpO 污蔑
@@ -87161,8 +87177,8 @@ nEye 消遁
 nEzU 沙钻
 nEzb 沙锅
 nEzj 沙金 消金
-nE！B 消融
-nE！N 消毒
+nE!B 消融
+nE!N 消毒
 nF 洞 洞察
 nF. 注册码
 nF./ 注册码
@@ -87211,8 +87227,8 @@ nFtr 洞悉
 nFvX 溜子鸡
 nFwU 洞晓
 nFwl 本周六
-nF！ 澧 注册表
-nF！? 注册表
+nF! 澧 注册表
+nF!? 注册表
 nG 测 测试
 nG/k 测验
 nG/l 溅落
@@ -87335,7 +87351,7 @@ nHnf 潸然泪下
 nHnu 油腔滑调
 nHnx 池月渐东上
 nHny 波源
-nHn！ 波涛
+nHn! 波涛
 nHp 波
 nHr: 满腔热忱 满腔热情
 nHrZ 波数
@@ -87410,7 +87426,7 @@ nInr 澜沧
 nIns 涉水
 nInv 润泽
 nInw 润湿
-nIn！ 澄清
+nIn! 澄清
 nIoY 润格
 nIpi 澳门葡挞
 nIqB 涉县
@@ -87426,8 +87442,8 @@ nIw 涧 没问题
 nIwC 没问题
 nIwH 澄明 浑身是胆
 nIxk 波登可
-nI！ 澄
-nI！N 涉毒
+nI! 澄
+nI!N 涉毒
 nJ 洁 澎湃
 nJ; 濂
 nJ;h 渡火
@@ -87617,7 +87633,7 @@ nKnr 海涂
 nKns 海水
 nKnv 海滩
 nKny 海派
-nKn！ 海涛
+nKn! 海涛
 nKod 海棉
 nKox 海椒
 nKp: 海菜
@@ -87794,7 +87810,7 @@ nMxD 本学科
 nMxF 淡季
 nMy 淡
 nMzi 澜赏金猎手
-nM！H 淡青
+nM!H 淡青
 nN 流 流程
 nN.W 流到
 nN/A 流荡
@@ -87922,7 +87938,7 @@ nNzB 浓云金蟾
 nNzj 鸿运金
 nNzn 滑动过渡
 nNzp 流过
-nN！N 流毒
+nN!N 流毒
 nO 注 注意
 nO, 注
 nO,, 浪琴
@@ -87976,8 +87992,8 @@ nOj 波罗蜜
 nOj: 波罗蜜
 nOjC 注定
 nOjG 派罗宁
-nOk; 滤盒
 nOkP 注重
+nOk; 滤盒
 nOmK 滤器
 nOn 泳
 nOn. 滤泡
@@ -87991,7 +88007,7 @@ nOno 滤渣
 nOns 注水
 nOnw 浪漫
 nOnz 泳池
-nOn！ 浪涛 滤清
+nOn! 浪涛 滤清
 nOom 浪木
 nOot 浪桥
 nOp: 滤芯
@@ -88224,7 +88240,7 @@ nRzb 洪钟
 nRzj 滞纳金
 nRzm 举世无双
 nRzn 涉世未深
-nR！Y 洪帮
+nR!Y 洪帮
 nS 江 江苏
 nS,J 江珧
 nS. 注意到
@@ -88333,7 +88349,7 @@ nSye 法攻盾
 nSym 鸿毛
 nSzO 清净无为
 nSzn 沽名钓誉
-nS！H 江青
+nS!H 江青
 nT 泪 澳大利亚
 nT, 濉
 nT,t 泪珠
@@ -88526,7 +88542,7 @@ nUgd 酒徒
 nUio 沾手
 nUjQ 酒家
 nUjw 酒宴 治国安民
-nUj！ 治国安邦
+nUj! 治国安邦
 nUkO 酒令
 nUl 泷
 nUlY 酒瘾
@@ -88561,7 +88577,7 @@ nUrT 酒类
 nUrZ 浮点数
 nUrf 酒糟
 nUrr 法国人
-nUr！ 酒精
+nUr! 酒精
 nUuH 酒望
 nUul 酒肆
 nUvS 酒劲
@@ -88576,8 +88592,8 @@ nUz 沾
 nUzX 涨回来
 nUzb 酒钟
 nUzf 酒钱
-nUz！ 浇铸
-nU！L 满园春色
+nUz! 浇铸
+nU!L 满园春色
 nV 法 法国
 nV,P 法理
 nV,w 法王
@@ -88695,7 +88711,7 @@ nW,c 渊环
 nW,o 汇集
 nW.W 汇到
 nW:X 海航快递
-nW:！ 滥情
+nW:! 滥情
 nW; 滥
 nW;A 汇成
 nW;w 江船火独明
@@ -88721,7 +88737,7 @@ nWXg 渠道
 nWYF 汇出
 nWZQ 汇市
 nWZh 滥交
-nWZ！ 汇率
+nWZ! 汇率
 nWaU 滥伐
 nWah 海鸥何事更相疑
 nWar 汇价
@@ -88763,7 +88779,7 @@ nWuF 滥调
 nWwF 汇映
 nWwm 汇民
 nWyR 汇展
-nW！f 汇丰
+nW!f 汇丰
 nX 举 兴趣
 nX.a 兴致
 nX/N 法兰克福
@@ -88811,7 +88827,7 @@ nXa 本单位
 nXaC 本单位
 nXaJ 举例
 nXac 兴修
-nXa！ 举债
+nXa! 举债
 nXb 兴
 nXbv 兴叹
 nXbz 滋味 兴味
@@ -88862,7 +88878,7 @@ nXw, 兴旺
 nXxL 誉称
 nXxf 泡普卡
 nXxx 兴哥
-nX！ 滋
+nX! 滋
 nY 洛 派出所
 nY/J 洛克
 nY:w 泼悍
@@ -88989,7 +89005,7 @@ nZww 液晶
 nZx 汴
 nZyV 液压
 nZze 淬针
-nZ！ 泫
+nZ! 泫
 na 汾 没什么
 na,c 溴代环
 na,f 水仙球
@@ -89263,8 +89279,8 @@ ncpF 溶剂萃取
 ncq 济
 ncxn 深不可测
 ncy 滗
-nc！q 满面春风
-nc！r 法不责众
+nc!q 满面春风
+nc!r 法不责众
 nd 潜 激烈
 nd, 湟 汉白玉
 nd,O 汉白玉
@@ -89274,7 +89290,7 @@ nd/ 澌
 nd/A 激荡
 nd:e 激愤
 nd:x 潜心
-nd:！ 激情
+nd:! 激情
 nd<l 潜力
 nd<u 激辩
 nd?S 激将
@@ -89365,7 +89381,7 @@ ndy/ 激剧 潜居
 ndye 潜质
 ndyf 激励
 ndze 清泉镇
-nd！R 激素
+nd!R 激素
 ne 汁 没有人
 ne/K 江南逢李龟年
 ne:t 没有必要
@@ -89512,7 +89528,7 @@ nfrp 淡饭粗茶
 nfta 漫天要价
 nfuM 浅谈
 nfuX 浅说
-nfu！ 溢于言表
+nfu! 溢于言表
 nfw 漕
 nfw. 浅易
 nfw/ 浅显
@@ -89631,7 +89647,7 @@ ngxF 流行歌曲
 ngyI 法律顾问
 ngzf 活钱
 ngzp 活过
-ng！a 法律责任
+ng!a 法律责任
 nh 滴 滴滴
 nh/ 滴
 nh/l 滴落
@@ -89710,7 +89726,7 @@ niuW 水手长重艇
 niuq 本报记者
 nix 法拉利
 nixW 法拉利
-ni！ 湃
+ni! 湃
 nj 演 演员
 nj./ 水密码
 nj:G 溶性
@@ -89803,7 +89819,7 @@ njvU 演戏
 njwH 兴安盟
 njye 溶质
 njyx 演习
-nj！f 演奏
+nj!f 演奏
 nk 渝 混合物
 nk, 滚雪球
 nk,f 滚雪球
@@ -89846,7 +89862,7 @@ nknA 濡染
 nknO 混合泳
 nknZ 混合液
 nknw 濡湿
-nkn！ 潋滟
+nkn! 潋滟
 nko 滑雪板
 nkoq 沐雨栉风
 nkot 灞桥
@@ -89949,7 +89965,7 @@ nmnZ 淋漓
 nmnb 洗澡
 nmnm 浩浩 淋淋 潸潸
 nmnw 淋湿
-nmn！ 洗清
+nmn! 洗清
 nmp: 洗菜
 nmrD 深林人不知
 nmtr 淋釉
@@ -90443,7 +90459,7 @@ npno 潇湘 海蒂汤姆森
 npnp 满满 水萨满 潇潇
 npns 灌水 潇水
 npnt 潇洒
-npn！ 满清
+npn! 满清
 npoL 清蒸桂鱼
 npoO 湛蓝机甲
 npom 灌木
@@ -90551,7 +90567,7 @@ nqqz 兴风者
 nqrS 流风余韵
 nqra 滑粉
 nqrx 沿途
-nqr！ 滑精
+nqr! 滑精
 nqsY 沿路
 nqw. 沮遏
 nqwH 清风明月
@@ -90574,7 +90590,7 @@ nrLB 淡糟鲜竹蛏
 nrLL 水精之盘行素鳞
 nrLT 涂色
 nrLx 渔人之利
-nrL！ 清热解毒
+nrL! 清热解毒
 nrN 浍
 nrOp 涂片
 nrPX 涂鸦
@@ -90627,7 +90643,7 @@ ns:G 水性
 ns:J 兴高采烈
 ns:o 水彩
 ns:v 水怪
-ns:！ 水情
+ns:! 水情
 ns;U 水烟
 ns;f 水感
 ns;h 水火
@@ -90742,7 +90758,7 @@ nshj 水井
 nsio 水手
 nsj 汲
 nsj; 水灾
-nsj！ 水害
+nsj! 水害
 nsk/ 水雾
 nskD 水雷
 nskh 水合
@@ -90750,7 +90766,7 @@ nskn 水剑
 nsl. 水疱
 nsls 水疗
 nslt 水群
-nsl！ 水痘
+nsl! 水痘
 nsmn 水牛
 nsn. 水泡 水沟
 nsnC 水深
@@ -90772,7 +90788,7 @@ nsnu 水浒
 nsnw 水温
 nsny 水泥 水源
 nsnz 水池
-nsn！ 水渍
+nsn! 水渍
 nsoA 水杨
 nsoB 水桶
 nsoI 水榭 水杉
@@ -90819,7 +90835,7 @@ nsyw 淳厚
 nsz; 水银
 nszU 水钻
 nszx 水锈
-ns！? 水表
+ns!? 水表
 nt 沃 漂亮
 nt/A 漂荡
 nt/U 沸血骑士团
@@ -90847,7 +90863,7 @@ ntLj 柒角
 ntLu 泣血之刃
 ntN 漂
 ntN< 漂动
-ntP！ 沃野
+ntP! 沃野
 ntQT 泛着
 ntRC 泛绿
 ntRS 泛红
@@ -91074,7 +91090,7 @@ nw/X 沈显兵
 nw/Y 温驯
 nw/a 温故
 nw:G 清晰性
-nw:！ 温情
+nw:! 温情
 nw; 温
 nw;A 混成
 nw;t 混炼
@@ -91134,7 +91150,7 @@ nwY? 温顺
 nwYT 兴旺发达
 nwYY 温州
 nwZj 温婉
-nwZ！ 温暖如春
+nwZ! 温暖如春
 nwbX 沈晓鸣
 nwbq 混响
 nwcf 酒星不在天
@@ -91238,7 +91254,7 @@ nwyX 液晶屏
 nwyw 温厚
 nwyx 温习
 nwzj 湿铵
-nw！o 温柔
+nw!o 温柔
 nx 河 河南
 nx,U 池上碧苔三四点
 nx,j 清辉玉臂寒
@@ -91275,7 +91291,7 @@ nxJ 源程序
 nxJR 沙利度
 nxJe 淮上喜会梁川故友
 nxJo 河床
-nxJ！ 源程序
+nxJ! 源程序
 nxKP 河狸
 nxL< 沉稳之力
 nxLE 淖尔 泽穆尔
@@ -91370,7 +91386,7 @@ nxxW 油光可鉴
 nxxf 河上 沈叔叔
 nxy 泸
 nxze 水光针
-nx！H 淑静
+nx!H 淑静
 ny 源 源于
 ny. 渥 水刷石
 ny./ 源码
@@ -91494,7 +91510,7 @@ nyxg 漏光
 nyzX 派来
 nyza 洗尽铅华
 nyzj 泥金
-ny！H 沥青
+ny!H 沥青
 nz 池 池塘
 nz,, 浑金璞玉
 nz; 水银灯
@@ -91530,121 +91546,121 @@ nzvR 渡过难关
 nzx 滑铁卢
 nzxy 滑铁卢
 nzy 池
-n！ 清 清楚
-n！,P 清理
-n！:q 清欠
-n！:x 清心
-n！;f 清炖
-n！;h 清火
-n！;p 清退
-n！<！ 清幽
-n！?X 清平
-n！?u 清初
-n！AH 清朝
-n！Ap 清逸
-n！B: 深表遗憾
-n！C; 清灵
-n！CM 清军
-n！Co 清新
-n！EJ 清远
-n！Fc 清册
-n！G 渍
-n！Gu 清账
-n！H 清
-n！HL 清脆
-n！IS 清空
-n！Io 清闲
-n！JX 清廉
-n！K, 清莹
-n！Nf 清福
-n！Ng 清廷
-n！O/ 清虚
-n！O; 清朗
-n！P, 清雅
-n！Rd 清缴
-n！Rf 清纯
-n！S; 清减
-n！SJ 清冽
-n！SL 清净
-n！Sk 清冷
-n！Ss 清凉
-n！Sy 清音
-n！T 滟
-n！Tl 清爽
-n！U; 清点
-n！Us 清醇
-n！Uw 清醒
-n！VA 清场
-n！W; 清盘
-n！Xg 清道
-n！Xw 清单
-n！YD 清剿
-n！YS 清障
-n！Yr 清除
-n！Za 清夜
-n！aG 清贫
-n！aM 清偿
-n！aU 清代
-n！ah 清华
-n！bw 清唱
-n！c 消毒剂
-n！cT 清算
-n！cW 消毒剂
-n！cp 清还
-n！d; 清越
-n！db 清白
-n！de 清规
-n！dn 清泉
-n！eT 清真
-n！f 沣
-n！fH 清丽
-n！fI 清正
-n！fo 清末
-n！iC 清扫
-n！jY 清客
-n！jh 清寒
-n！jm 清官
-n！jx 清寂
-n！kk 清零
-n！l? 清瘦
-n！lM 清癯
-n！mC 清楚
-n！nA 清汤
-n！nJ 清洁
-n！nM 清淡
-n！nN 清澈
-n！nX 清誉
-n！nm 清洗
-n！ns 清水
-n！oQ 清样
-n！ow 清查
-n！p 油麦菜
-n！p/ 清苦
-n！p: 油麦菜
-n！pA 清蒸
-n！pr 清茶
-n！ql 清风
-n！r; 清热
-n！rY 清仓
-n！sg 清高
-n！sq 清亮
-n！sy 温柔敦厚
-n！uM 清谈
-n！uO 清议
-n！v: 清欢
-n！w< 清晨
-n！wH 清明
-n！we 清早
-n！wo 清晰
-n！ws 清影
-n！x 溱
-n！x; 清秋
-n！xT 清秀
-n！xw 清香
-n！yd 清原
-n！z 涛
-n！zg 汇丰银行
-n！！H 清静
+n! 清 清楚
+n!,P 清理
+n!:q 清欠
+n!:x 清心
+n!;f 清炖
+n!;h 清火
+n!;p 清退
+n!<! 清幽
+n!?X 清平
+n!?u 清初
+n!AH 清朝
+n!Ap 清逸
+n!B: 深表遗憾
+n!C; 清灵
+n!CM 清军
+n!Co 清新
+n!EJ 清远
+n!Fc 清册
+n!G 渍
+n!Gu 清账
+n!H 清
+n!HL 清脆
+n!IS 清空
+n!Io 清闲
+n!JX 清廉
+n!K, 清莹
+n!Nf 清福
+n!Ng 清廷
+n!O/ 清虚
+n!O; 清朗
+n!P, 清雅
+n!Rd 清缴
+n!Rf 清纯
+n!S; 清减
+n!SJ 清冽
+n!SL 清净
+n!Sk 清冷
+n!Ss 清凉
+n!Sy 清音
+n!T 滟
+n!Tl 清爽
+n!U; 清点
+n!Us 清醇
+n!Uw 清醒
+n!VA 清场
+n!W; 清盘
+n!Xg 清道
+n!Xw 清单
+n!YD 清剿
+n!YS 清障
+n!Yr 清除
+n!Za 清夜
+n!aG 清贫
+n!aM 清偿
+n!aU 清代
+n!ah 清华
+n!bw 清唱
+n!c 消毒剂
+n!cT 清算
+n!cW 消毒剂
+n!cp 清还
+n!d; 清越
+n!db 清白
+n!de 清规
+n!dn 清泉
+n!eT 清真
+n!f 沣
+n!fH 清丽
+n!fI 清正
+n!fo 清末
+n!iC 清扫
+n!jY 清客
+n!jh 清寒
+n!jm 清官
+n!jx 清寂
+n!kk 清零
+n!l? 清瘦
+n!lM 清癯
+n!mC 清楚
+n!nA 清汤
+n!nJ 清洁
+n!nM 清淡
+n!nN 清澈
+n!nX 清誉
+n!nm 清洗
+n!ns 清水
+n!oQ 清样
+n!ow 清查
+n!p 油麦菜
+n!p/ 清苦
+n!p: 油麦菜
+n!pA 清蒸
+n!pr 清茶
+n!ql 清风
+n!r; 清热
+n!rY 清仓
+n!sg 清高
+n!sq 清亮
+n!sy 温柔敦厚
+n!uM 清谈
+n!uO 清议
+n!v: 清欢
+n!w< 清晨
+n!wH 清明
+n!we 清早
+n!wo 清晰
+n!ws 清影
+n!x 溱
+n!x; 清秋
+n!xT 清秀
+n!xw 清香
+n!yd 清原
+n!z 涛
+n!zg 汇丰银行
+n!!H 清静
 o 想 李 根据
 o' 相信
 o' 相信
@@ -91802,7 +91818,7 @@ o:pM 榴莲
 o:pl 李心艾
 o:yT 柳眉
 o:zl 极性键
-o:！H 柳青
+o:!H 柳青
 o; 根 根本
 o;/J 杰克
 o;/o 枝条
@@ -91838,7 +91854,7 @@ o;Xc 枝丫
 o;YF 杰出
 o;Yr 根除
 o;ZA 杰娜
-o;Z！ 概率
+o;Z! 概率
 o;aH 杰作
 o;bG 朴成勋
 o;be 枝叶
@@ -91895,11 +91911,11 @@ o<Wl 横山区 邯山区 松山区 桃山区 相山区
 o<Xd 梓兰
 o<b 枷
 o<f 枋
-o<i！ 横加指责
+o<i! 横加指责
 o<n 李岚清
 o<nV 想办法
 o<nZ 朴架泫
-o<n！ 李岚清
+o<n! 李岚清
 o<oU 框架构图
 o<om 桤木
 o<qB 横峰县
@@ -92234,7 +92250,7 @@ oFxf 李叔
 oFzS 李铭
 oFze 刺针
 oFzw 李未
-oF！H 刺青
+oF!H 刺青
 oG 樱 樱花
 oG,O 槐琥
 oG<b 樱唇
@@ -92311,7 +92327,7 @@ oIr 某些人
 oIrr 某些人
 oIs 杉
 oIz 榭
-oI！ 橙
+oI! 橙
 oJ 桃 桃花
 oJ,R 杜嘉班纳
 oJ:x 桃心
@@ -92385,7 +92401,7 @@ oKqB 柘荣县
 oKtx 梅西
 oKv 栩
 oKxw 梅香
-oK！N 梅毒
+oK!N 梅毒
 oL 核 核心
 oL.X 核磁
 oL/< 柯尔克孜族
@@ -92447,7 +92463,7 @@ oLue 核计
 oLvz 核对
 oLw 橹
 oLzE 核销
-oL！I 树欲静而风不止
+oL!I 树欲静而风不止
 oM 桂 桂林
 oM/? 李软萍
 oM?X 桂平
@@ -92802,7 +92818,7 @@ oT/J 相克
 oT/m 相马
 oT/p 相近
 oT/x 相处
-oT/！ 相逢
+oT/! 相逢
 oT: 想
 oT:E 相悖
 oT:R 相惜
@@ -92872,11 +92888,11 @@ oTXB 相公
 oTYF 想出
 oTYe 相随
 oTYr 相除
-oTY！ 相隔
+oTY! 相隔
 oTZF 想好 相好
 oTZh 相交
 oTZl 相离
-oTZ！ 相率
+oTZ! 相率
 oTa 木乃伊
 oTa, 想像 相像
 oTa/ 想做
@@ -92976,8 +92992,8 @@ oTz 李大钊
 oTzW 李大钊
 oTzX 想来
 oTzp 想过
-oT！B 相融
-oT！Y 相帮
+oT!B 相融
+oT!Y 相帮
 oU 械 标点符号
 oU>? 样式表
 oUAw 李国旭
@@ -93063,7 +93079,7 @@ oVvm 杜桑
 oVxW 杜梨
 oVz, 棱锥
 oVzS 棱镜
-oV！Y 杜邦
+oV!Y 杜邦
 oW 框 框架
 oW, 框
 oW,t 柳贤珠
@@ -93138,7 +93154,7 @@ oXPz 松弛
 oXR: 松缓
 oXRH 松散
 oXRs 梯级
-oXR！ 松绑
+oXR! 松绑
 oXTl 松爽
 oXTm 栏目
 oXVV 松墙
@@ -93164,7 +93180,7 @@ oXml 松林
 oXnB 松油
 oXnS 松江
 oXnn 格兰法洛
-oXn！ 松涛
+oXn! 松涛
 oXo; 松枝
 oXo? 栏杆
 oXoW 栏柜
@@ -93844,7 +93860,7 @@ ol:T 攀爬
 ol<. 攀岩
 olCo 攀亲
 olEt 甘肃省
-olI！ 攀登
+olI! 攀登
 olMo 棣棠
 olOI 李建彪
 olOl 李建义
@@ -93970,7 +93986,7 @@ omom 森森
 omot 木桥
 omow 木棍
 omoy 木板 木樨
-omo！ 木棒
+omo! 木棒
 ompM 木莲
 ompO 木薯
 ompU 木菌
@@ -94076,7 +94092,7 @@ oo 某 某些
 oo, 橄榄球
 oo,f 橄榄球
 oo/x 某处
-oo/！ 枯木逢春
+oo/! 枯木逢春
 oo:C 木材采集站
 oo;a 李榕烨
 oo<H 杨柳岸晓风残月
@@ -94164,7 +94180,7 @@ oonu 李栋梁
 ooo; 柳杨杰
 oooQ 某样
 oooo 某某
-ooo！ 柑橘
+ooo! 柑橘
 oop 攀枝花
 oopB 橡木苔
 oopY 植树节
@@ -94281,7 +94297,7 @@ oqWf 机师
 oqWl 梅县区
 oqWr 机舱
 oqY/ 机降
-oqZ！ 机率
+oqZ! 机率
 oqaC 机位
 oqac 机修
 oqam 机件
@@ -94314,7 +94330,7 @@ oqom 枫木
 oqoq 栲栳
 oqor 机枪
 oqov 枫树
-oqo！ 机杼
+oqo! 机杼
 oqp: 机芯
 oqpG 机警
 oqrN 机会
@@ -94632,7 +94648,7 @@ ovqq 权且
 ovr< 权势
 ovrZ 权数
 ovrr 树人
-ovr！ 树精
+ovr! 树精
 ovsg 相对路径
 ovsq 李文亮
 ovtZ 权要
@@ -94653,7 +94669,7 @@ ovz 树
 ovzM 树链
 ovzf 权钱
 ovzu 相对来说
-ov！G 权责
+ov!G 权责
 ow 查 查看
 ow, 李时珍
 ow,P 查理
@@ -94718,13 +94734,13 @@ owml 柯晓林
 ownC 李晴潼
 ownT 杳渺
 owny 查漏
-own！ 查清
+own! 查清
 owo 标题栏
 owoE 查档
 owoL 查核
 owoX 标题栏
 owok 查检
-owo！ 棍棒
+owo! 棍棒
 owpF 杨畅英
 owpK 查获
 owpo 柳暗花明又一村
@@ -94748,7 +94764,7 @@ owxb 杨晓和
 owzL 查铺
 owzp 查过
 owzu 查无
-ow！? 查表
+ow!? 查表
 ox 柯 朴素
 ox.E 朴硝
 ox.s 朴石
@@ -94815,7 +94831,7 @@ oxy 栌
 oxye 朴质
 oxyw 朴厚
 oxzz 板上钉钉
-ox！R 朴素
+ox!R 朴素
 oy 板 板块
 oy.E 板砖
 oy/ 椐
@@ -94831,7 +94847,7 @@ oyAA 板书
 oyFi 板子 栀子 橛子
 oyH 榍
 oyIt 橱窗
-oyI！ 板凳
+oyI! 板凳
 oyJ 核反应
 oyJ; 板鼓
 oyJV 核反应堆
@@ -94930,29 +94946,29 @@ ozwm 村民
 ozxZ 村委
 ozxf 村上
 ozze 村镇
-o！ 棒 棒球
-o！,f 棒球
-o！,x 椿象
-o！.g 梆硬
-o！: 懋
-o！Fi 橘子 棒子
-o！LT 橘色
-o！RS 橘红
-o！Rh 橘黄
-o！Sn 棒冰
-o！T 楔
-o！Y 梆
-o！b 橘
-o！bw 棒喝
-o！fp 楔形
-o！i 棒
-o！iG 棒打
-o！oo 橘柑
-o！ot 棒槌
-o！pK 榛莽
-o！v 杼
-o！w 椿
-o！x 榛
+o! 棒 棒球
+o!,f 棒球
+o!,x 椿象
+o!.g 梆硬
+o!: 懋
+o!Fi 橘子 棒子
+o!LT 橘色
+o!RS 橘红
+o!Rh 橘黄
+o!Sn 棒冰
+o!T 楔
+o!Y 梆
+o!b 橘
+o!bw 棒喝
+o!fp 楔形
+o!i 棒
+o!iG 棒打
+o!oo 橘柑
+o!ot 棒槌
+o!pK 榛莽
+o!v 杼
+o!w 椿
+o!x 榛
 p 花 菜 英语
 p, 藕 藕粉
 p,:s 艾琳觅芳踪
@@ -95024,7 +95040,7 @@ p//R 苍茫古木连穷巷
 p//x 苦处
 p/:Z 苦恼
 p/:x 苦心
-p/:！ 苦情
+p/:! 苦情
 p/<C 苦辣
 p/<K 苦旅
 p/<g 苦瓜
@@ -95039,7 +95055,7 @@ p/D: 苦思
 p/DE 花落知多少
 p/DR 苦累
 p/Do 苦果
-p/D！ 苦短
+p/D! 苦短
 p/EF 蓬勃
 p/Fi 莨荡子
 p/G: 苦恋
@@ -95170,7 +95186,7 @@ p:x 芯
 p:zB 苛性钠
 p:zO 苛性钾
 p:zj 菜金
-p:！d 菜豆
+p:!d 菜豆
 p; 藏 藏族
 p;.W 藏到
 p;;A 茂盛
@@ -95227,8 +95243,8 @@ p;xB 藏私
 p;xw 藏香
 p;y< 藏历
 p;z/ 藏锋
-p;！H 藏青
-p;！u 藏獒
+p;!H 藏青
+p;!u 藏獒
 p< 苏 苏联
 p<,F 苏珊
 p<. 花岗石
@@ -95559,8 +95575,8 @@ pFyf 茨冈尼亚
 pFym 茸毛
 pFzc 英寸
 pFzh 英镑
-pF！ 英联邦
-pF！Y 英联邦
+pF! 英联邦
+pF!Y 英联邦
 pG 警 警察
 pG,F 蔡贝珊
 pG/< 警务
@@ -95656,14 +95672,14 @@ pGuN 敬语 警语
 pGuU 警诫
 pGuY 警训
 pGuc 警长
-pGu！ 敬请
+pGu! 敬请
 pGwm 警民
 pGxL 敬称
 pGxb 警种
 pGxf 敬上 警督
 pGyA 警局
 pGzb 警钟
-pG！i 敬奉
+pG!i 敬奉
 pH 藤 藤本
 pH/o 藤条
 pH;q 蔚然成风
@@ -96132,7 +96148,7 @@ pUxb 菌种
 pUxw 茴香
 pUz 苫
 pUzc 花团锦簇
-pU！R 菌素
+pU!R 菌素
 pV 菱 蔷薇
 pV,W 花地玛堂区
 pV/ 菱
@@ -96185,7 +96201,7 @@ pWY 茚
 pWYr 蓝队
 pWb 薜
 pWcy 蓝笔
-pWc！ 蓝筹
+pWc! 蓝筹
 pWdb 蓝白
 pWdx 莱欧斯利
 pWeh 蓝黑
@@ -96214,7 +96230,7 @@ pWyX 蓝屏
 pWye 蓝盾
 pWzF 蓝铜
 pWzt 蓝铁
-pW！H 蓝靛
+pW!H 蓝靛
 pX 蒴 蕲春
 pX/ 蕲
 pX/C 菜鸟驿站
@@ -96239,7 +96255,7 @@ pXpt 苯并菲
 pXxf 芙兰卡
 pXzl 菜单键
 pXzw 苦道来不易
-pX！w 蕲春
+pX!w 蕲春
 pY 节 节目
 pY;i 节支
 pY;o 节煤
@@ -96319,7 +96335,7 @@ pYxZ 茂陵秋雨病相如
 pYy 萨
 pYyJ 蒸发反应
 pYyf 节后
-pY！f 节奏
+pY!f 节奏
 pZ 菇 菜市场
 pZ, 蕹
 pZ.W 薅到
@@ -97236,8 +97252,8 @@ pryh 菲米尼
 przS 茶镜
 przf 茶钱
 przx 茶锈
-pr！H 茶青
-pr！N 荼毒
+pr!H 茶青
+pr!N 荼毒
 ps 蒿
 psFi 蒿子
 psG 葶
@@ -97271,10 +97287,10 @@ ptVH 苏东坡
 ptW 荞
 ptYS 孽障
 ptZq 菲姐
-ptZ！ 孽畜
+ptZ! 孽畜
 ptaO 菲仪
 ptae 菲佐
-pta！ 孽债
+pta! 孽债
 ptbj 菲啶
 pte 蕈
 ptf 菲
@@ -97320,7 +97336,7 @@ puLE 菲谢尔
 puOA 荒置
 puPL 蓄谋已久
 puPe 荒草 芒草
-puP！ 荒野
+puP! 荒野
 puRa 荒谬绝伦
 puSs 荒凉
 puSu 花言巧语
@@ -97444,8 +97460,8 @@ pxu? 苛评
 pxuI 萎谢
 pxv 菽
 pxwn 萝卜时蔬汤
-px！G 苛责
-px！p 萝卜青菜
+px!G 苛责
+px!p 萝卜青菜
 py 蔚 蔚蓝
 py: 蕨
 py;a 薪尽火传
@@ -97502,24 +97518,24 @@ pzx< 芜秽
 pzxW 花钿委地无人收
 pzxf 莱卡
 pzzF 莱钢
-p！ 获得
-p！ 获得
-p！<s 茅山
-p！? 蓣
-p！Bb 茅台
-p！H 菁
-p！JQ 茅庐
-p！Pe 茅草
-p！Q< 茅房
-p！T 葜
-p！VZ 茅坑
-p！m 茅
-p！oH 茅棚
-p！rg 茅舍
-p！x 蓁
-p！y. 茅屋
-p！yG 茅厕
-p！ye 茅盾
+p! 获得
+p! 获得
+p!<s 茅山
+p!? 蓣
+p!Bb 茅台
+p!H 菁
+p!JQ 茅庐
+p!Pe 茅草
+p!Q< 茅房
+p!T 葜
+p!VZ 茅坑
+p!m 茅
+p!oH 茅棚
+p!rg 茅舍
+p!x 蓁
+p!y. 茅屋
+p!yG 茅厕
+p!ye 茅盾
 q 用 都 用户
 q' 都是
 q, 雎 雎鸠
@@ -97628,7 +97644,7 @@ q? 老干部
 q?Cb 老干部
 q?Ug 且将团扇共徘徊
 q?gx 老将行
-q?n！ 风平浪静
+q?n! 风平浪静
 qA 甩 甩开
 qA;v 老韩煸鸡
 qACU 甩站
@@ -97897,7 +97913,7 @@ qNCI 教育部门
 qNCb 教育部
 qND 教育界
 qNDr 教育界
-qNG！ 风云变幻
+qNG! 风云变幻
 qNIG 风云突变
 qNLu 风神之诗
 qNM 教育学
@@ -98241,7 +98257,7 @@ qfRF 考纲
 qfRP 考纪
 qfRY 考卷
 qfRs 考级
-qfR！ 考绩
+qfR! 考绩
 qfT 老一套
 qfTu 老一套
 qfU; 考点
@@ -98418,6 +98434,8 @@ qhad 老伯
 qhah 老化
 qhax 老仆
 qhb 老
+qhx 老哥
+qhT 老态
 qhbJ 老兄
 qhbk 老哈
 qhcm 老面
@@ -98485,8 +98503,8 @@ qhxx 老歌 老哥
 qhy 耄
 qhzL 老铺
 qhzt 老铁
-qh！< 老幼
-qh！? 老表
+qh!< 老幼
+qh!? 老表
 qi 老掉牙
 qiMo 甩手掌柜
 qiPy 老掉牙
@@ -98539,7 +98557,7 @@ qjX 髌
 qjXg 几首 几道
 qjY 髂 考察队
 qjYr 考察队
-qjZ！ 几率
+qjZ! 几率
 qjaC 几位 几倍
 qjaU 几代
 qjaa 几份
@@ -98618,7 +98636,7 @@ ql.a 风致
 ql/Y 风范
 ql/v 风骚
 ql:o 风采
-ql:！ 风情
+ql:! 风情
 ql;G 风灯
 ql;U 风烟
 ql;h 风火
@@ -98770,8 +98788,8 @@ qnZj 夙兴夜寐
 qnaP 风流儒雅
 qnaW 风流儒雅亦吾师
 qnaa 风流倜傥
-qneF 风流才子
 qneH 都没有
+qneF 风流才子
 qnfI 风流天下闻
 qnkn 风涡剑
 qnkzqu 硚口区
@@ -98955,7 +98973,7 @@ qy/X 用兵
 qy/x 用处
 qy:o 用尽心机
 qy:x 用心
-qy:！ 用情
+qy:! 用情
 qy;h 用火
 qy;o 用煤
 qy<l 用力
@@ -99039,11 +99057,11 @@ qz 者 老来得子
 qzPe 风铃草
 qzgF 老来得子
 qzom 悬铃木
-q！ 老豆腐
-q！;p 煮豆燃萁
-q！Ja 老豆腐
-q！w 老寿星
-q！wG 老寿星
+q! 老豆腐
+q!;p 煮豆燃萁
+q!Ja 老豆腐
+q!w 老寿星
+q!wG 老寿星
 r 人 会 个人
 r' 数据
 r, 全 全球
@@ -99078,9 +99096,9 @@ r,HK 全然
 r,Hp 全皮
 r,Is 全身
 r,Jk 全歼
+r,Kr 全年
 r,K. 全豹
 r,Kd 全貌
-r,Kr 全年
 r,Lj 全角
 r,MJ 全党
 r,Np 全运
@@ -99164,7 +99182,7 @@ r,zF 全钢
 r,zR 全错
 r,ze 全镇
 r,zu 全无
-r,！G 全责
+r,!G 全责
 r. 精确度
 r.;f 精致感
 r.BX 热泵通道
@@ -99267,7 +99285,7 @@ r; 热 热情
 r;/D 热备
 r;:C 热忱
 r;:x 热心
-r;:！ 热情
+r;:! 热情
 r;;E 热炒
 r;;H 热爆炸 热炸
 r;;h 热火
@@ -99670,7 +99688,7 @@ rJns 糖水
 rJpo 糖苷
 rJqB 余庆县
 rJrT 糖类
-rJr！ 糖精
+rJr! 糖精
 rJsj 糖及
 rJue 粘度计
 rJxh 糠秕
@@ -99679,7 +99697,7 @@ rJyc 糖厂
 rJyd 糖原
 rJyn 糖尿
 rJzk 糖锤
-rJ！d 糖豆
+rJ!d 糖豆
 rKcM 余独不觉
 rKf; 热猝灭
 rL 人之常情
@@ -99978,7 +99996,7 @@ rTTm 类目
 rTU/ 类图
 rTVw 舒巴坦
 rTah 类似
-rTa！ 人大代表
+rTa! 人大代表
 rTb 粑
 rTb< 类别
 rTc< 类簇
@@ -100095,7 +100113,7 @@ rXqg 伞骨
 rXrT 糍粑
 rXry 人前人后
 rXwC 人道是
-rX！ 糍
+rX! 糍
 rY 创 创新
 rY/y 创业
 rY:d 仓惶
@@ -100191,7 +100209,7 @@ rZTm 数目
 rZU; 数点
 rZVp 数塔
 rZXD 禽兽
-rZZ！ 禽畜
+rZZ! 禽畜
 rZa 数
 rZaA 数值
 rZaC 数位 数倍
@@ -100236,7 +100254,7 @@ rZxE 数秒
 rZxb 数种
 rZzf 数钱
 rZzj 娄金
-rZ！? 数表
+rZ!? 数表
 r` 人民
 ra 粉 粉丝
 ra.E 粉砂
@@ -100374,7 +100392,7 @@ rcjZ 个案
 rclu 全面建设
 rcmJ 全不选
 rcn 数不清
-rcn！ 数不清
+rcn! 数不清
 rcop 人面桃花
 rcr 会不会
 rcrN 会不会
@@ -100519,7 +100537,7 @@ rgxJ 执行程序
 rgxW 舍利
 rgxo 声律种核
 rgyR 舒展
-rg！ 舒
+rg! 舒
 rh 热带雨林
 rhJV 断井残垣
 rhRl 人比黄花瘦
@@ -100759,7 +100777,7 @@ roWl 余杭区
 roZf 人机交互
 roa 人格化
 roah 人格化
-roa！ 全权代表
+roa! 全权代表
 roco 挼搓
 roib 人机接口
 roif 米村拌饭
@@ -100824,7 +100842,7 @@ rpub 迷误
 rpwn 众擎易举
 rpxf 迷上
 rpyA 迷局
-rp！A 迷幻
+rp!A 迷幻
 rq 粗 粗糙
 rq,/ 会向瑶台月下逢
 rq,R 人老珠黄
@@ -100836,12 +100854,12 @@ rqBq 粗通
 rqCN 粗疏
 rqDY 粗略
 rqDq 粗气
-rqD！ 粗短
+rqD! 粗短
 rqEt 粗劣
 rqK, 粗狂
 rqKJ 粗犷
 rqLw 粗鲁
-rqP！ 粗野
+rqP! 粗野
 rqR< 粗纺
 rqRD 粗细
 rqRE 粗纱
@@ -100849,7 +100867,7 @@ rqSg 粗工
 rqTd 粗大
 rqVx 粗盐
 rqYf 粗陋
-rqZ！ 粗率
+rqZ! 粗率
 rqa/ 粗估
 rqaL 粗俗
 rqan 粗体
@@ -100887,7 +100905,7 @@ rr/m 人马
 rr:G 人性
 rr:w 声声慢
 rr:x 人心
-rr:！ 人情
+rr:! 人情
 rr;U 人烟
 rr;V 众志成城
 rr<K 人族
@@ -100969,7 +100987,7 @@ rrc: 执迷不悟
 rrcm 人面
 rrdf 人夫
 rret 人才
-rre！ 人人有责
+rre! 人人有责
 rrfb 人事
 rrfp 人形
 rrgL 人人得而诛之 人人自危
@@ -101006,7 +101024,7 @@ rrrZ 人数
 rrrr 人人 迷迷糊糊
 rrrs 人士
 rrry 人声
-rrr！ 人精
+rrr! 人精
 rruJ 个人识别度
 rruf 人证
 rruo 个人计算机
@@ -101022,7 +101040,7 @@ rrxn 个人利益
 rry/ 人居
 rrye 人质
 rrzB 糖精钠
-rr！z 人寿
+rr!z 人寿
 rs 士 士兵
 rs/T 人高马大
 rs/X 士兵
@@ -101110,7 +101128,7 @@ rwXN 人民公社
 rwYN 人民出版社
 rwaJ 人民代表大会制度
 rwar 人民代表大会
-rwa！ 人民代表
+rwa! 人民代表
 rwdx 数易其稿
 rwfJ 人民政府
 rwiH 众星捧月
@@ -101165,7 +101183,7 @@ rxVH 斜坡
 rxVp 斜塔
 rxVz 余地
 rxYw 斜阳
-rxZ！ 斜率
+rxZ! 斜率
 rxb< 叙别
 rxbc 途中
 rxbz 余味
@@ -101212,7 +101230,7 @@ rxx? 余剩
 rxxC 余辉
 rxxb 途程
 rxxg 余光
-rx！N 余毒
+rx!N 余毒
 ry 声 声音
 ry. 磬
 ry./ 声码
@@ -101318,14 +101336,14 @@ rzfI 执政
 rzfU 余铖武
 rzfb 执事
 rzgx 执行
-rzi！ 执拗
+rzi! 执拗
 rzjr 人无完人
 rzk: 执念
 rzl 人来疯
 rzlq 人来疯
 rznV 执法
 rzny 执泥
-rzo！ 执棒
+rzo! 执棒
 rzpq 执著
 rzq. 精锻用魔矿
 rzqF 执教
@@ -101336,75 +101354,75 @@ rzx 全过程
 rzxB 热锅上的蚂蚁
 rzxZ 执委
 rzxb 全过程
-r！ 精 精神
-r！.L 精确
-r！.W 精到
-r！.a 精致
-r！/X 精兵
-r！:o 精彩
-r！:v 精怪
-r！:w 精悍
-r！:x 精心
-r！;t 精炼
-r！<l 精力
-r！?g 精干
-r！?r 精装 精壮
-r！Ao 糅杂
-r！Bc 精虫
-r！Bq 精通
-r！C; 精灵
-r！Dq 精气
-r！EC 精当
-r！Em 精囊
-r！Fi 精子
-r！H 精
-r！JR 精度
-r！K！ 人寿年丰
-r！Nw 精神
-r！O; 精良
-r！QT 精美
-r！R< 精纺
-r！RD 精细
-r！Rt 精练
-r！S, 精准
-r！S; 精减
-r！Sf 精巧
-r！Sg 精工
-r！Tx 精奇
-r！Vx 精盐
-r！Wb 精辟
-r！YD 精巢
-r！ZE 精妙
-r！a< 精仿
-r！aY 人寿保险
-r！ac 精修
-r！ah 精华
-r！bc 精忠
-r！bm 精品
-r！cI 精简
-r！cT 精算
-r！f: 精馏
-r！fU 精武
-r！gq 精微
-r！hp 精进
-r！j: 精密
-r！kh 糅合
-r！mJ 精选
-r！mQ 精制
-r！nB 精油
-r！nC 精深
-r！nZ 精液
-r！nd 精湛
-r！o 糅
-r！pF 精英
-r！qe 精髓
-r！rZ 精粹
-r！tZ 精要
-r！u; 精诚
-r！ue 精读
-r！wH 精明
-r！xg 精光
-r！zX 精锐
+r! 精 精神
+r!.L 精确
+r!.W 精到
+r!.a 精致
+r!/X 精兵
+r!:o 精彩
+r!:v 精怪
+r!:w 精悍
+r!:x 精心
+r!;t 精炼
+r!<l 精力
+r!?g 精干
+r!?r 精装 精壮
+r!Ao 糅杂
+r!Bc 精虫
+r!Bq 精通
+r!C; 精灵
+r!Dq 精气
+r!EC 精当
+r!Em 精囊
+r!Fi 精子
+r!H 精
+r!JR 精度
+r!K! 人寿年丰
+r!Nw 精神
+r!O; 精良
+r!QT 精美
+r!R< 精纺
+r!RD 精细
+r!Rt 精练
+r!S, 精准
+r!S; 精减
+r!Sf 精巧
+r!Sg 精工
+r!Tx 精奇
+r!Vx 精盐
+r!Wb 精辟
+r!YD 精巢
+r!ZE 精妙
+r!a< 精仿
+r!aY 人寿保险
+r!ac 精修
+r!ah 精华
+r!bc 精忠
+r!bm 精品
+r!cI 精简
+r!cT 精算
+r!f: 精馏
+r!fU 精武
+r!gq 精微
+r!hp 精进
+r!j: 精密
+r!kh 糅合
+r!mJ 精选
+r!mQ 精制
+r!nB 精油
+r!nC 精深
+r!nZ 精液
+r!nd 精湛
+r!o 糅
+r!pF 精英
+r!qe 精髓
+r!rZ 精粹
+r!tZ 精要
+r!u; 精诚
+r!ue 精读
+r!wH 精明
+r!xg 精光
+r!zX 精锐
 s 了 就 了解
 s' 就是
 s, 蹲 足球队
@@ -101476,7 +101494,7 @@ s.xg 跑光
 s.yv 跑反
 s.zX 跑来
 s.zp 跑过
-s.！? 跑表
+s.!? 跑表
 s/ 蹼
 s/;G 跑马灯
 s/;n 豪荡感激
@@ -101713,7 +101731,7 @@ sEx 京
 sExk 就可
 sEy/ 京剧
 sEzX 就来
-sE！！ 京畿
+sE!! 京畿
 sF 郭 享受
 sF; 熟
 sF;d 敦煌
@@ -101835,7 +101853,7 @@ sIjV 高阁客竟去
 sIqg 趾骨
 sIss 熟门熟路
 sItp 蹿升
-sI！ 蹬
+sI! 蹬
 sJ 跳 跳舞
 sJ,W 跳班
 sJ.W 跳到
@@ -101944,7 +101962,7 @@ sP 跽 高强度
 sP: 跽
 sPJR 高强度
 sQ 豪 豪华
-sQ:！ 豪情
+sQ:! 豪情
 sQ<K 豪族
 sQ<a 豪放
 sQ?r 豪壮
@@ -102133,7 +102151,7 @@ sYzi 毫发无损
 sYzp 路过
 sZ 跤 高效率
 sZTS 高姓大名
-sZZ！ 高效率
+sZZ! 高效率
 sZh 跤
 sZiM 了如指掌
 sZuX 躁怒谛普
@@ -102180,7 +102198,7 @@ sc:: 毫不留情
 sc;s 高不成低不就
 scFL 毫不逊色
 scIs 跻身
-scK！ 毫不犹豫
+scK! 毫不犹豫
 scMo 高等学校
 scNi 毫不动摇
 scNm 高等动物
@@ -102333,7 +102351,7 @@ sgaZ 高低
 sgaf 高分 高俅
 sgao 路径分析
 sgar 高价
-sga！ 高傲
+sga! 高傲
 sgb; 高喊
 sgbc 高中
 sgbt 高呼
@@ -102379,7 +102397,7 @@ sgnX 高兴 高举
 sgnu 高粱
 sgnw 高温
 sgny 高源
-sgn！ 高清
+sgn! 高清
 sgoC 高枕
 sgoE 高档
 sgoZ 高校
@@ -102430,7 +102448,7 @@ sgzU 高铟
 sgzj 高金
 sgzp 高过
 sgzt 高铁
-sg！z 高寿
+sg!z 高寿
 sh 蹄 蹄筋
 shFS 高帝子孙尽隆准
 shFi 蹄子
@@ -102542,8 +102560,8 @@ snwN 高清晰度电视
 snxf 踏上
 snxx 踏歌
 snzp 踏过
-sn！H 踏青
-sn！w 踏春
+sn!H 踏青
+sn!w 踏春
 so 高楼大厦
 soBK 高枕而卧
 soDx 高桥智秋
@@ -102782,7 +102800,7 @@ sxNV 路透社
 sxU; 高光点
 sxXD 踏光兽
 sxZ 高利率
-sxZ！ 高利率
+sxZ! 高利率
 sxa 高利贷
 sxaU 高利贷
 sxe 踔
@@ -102851,11 +102869,11 @@ szwj 高铭暄
 szyO 毫无顾虑
 szyP 毫无顾忌
 s~ 孙琬倩
-s！ 蹂 高素质
-s！o 蹂
-s！sp 蹂躏 踌躇
-s！ye 高素质
-s！z 踌
+s! 蹂 高素质
+s!o 蹂
+s!sp 蹂躏 踌躇
+s!ye 高素质
+s!z 踌
 t 我 要 非常
 t' 我们
 t, 西班牙
@@ -102874,7 +102892,7 @@ t/; 失落感
 t/;f 失落感
 t/<p 非处方药
 t/Xd 贾马兰
-t/Z！ 失业率
+t/Z! 失业率
 t/aY 失业保险
 t/fT 七欣天
 t/oo 失落樱桃
@@ -102889,7 +102907,7 @@ t::N 悲恸
 t::e 悲愤
 t::r 悲怆
 t::x 悲悼
-t::！ 悲情
+t::! 悲情
 t:;x 悲戚
 t:<x 悲辛
 t:>I 我心素已闲
@@ -102960,7 +102978,7 @@ t;Wf 血印
 t;Xd 血兰
 t;Y< 血防
 t;aA 血仇
-t;a！ 血债
+t;a! 血债
 t;bk 血口
 t;cj 血管
 t;fp 血型
@@ -102984,7 +103002,7 @@ t;nb 血本
 t;nd 血泊
 t;nm 血洗
 t;ns 血水
-t;n！ 血清
+t;n! 血清
 t;oI 血橙
 t;oQ 血样
 t;ok 血检
@@ -103258,7 +103276,7 @@ tMVj 升堂入室
 tMYF 辈出
 tMZ 非常好
 tMZF 非常好
-tMZ！ 升学率
+tMZ! 升学率
 tMaf 辈分
 tMc 辈
 tMd 非常的
@@ -103339,7 +103357,7 @@ tNxS 飘移
 tNxw 飘香
 tNzX 飘来
 tNzp 飘过
-tN！o 飘柔
+tN!o 飘柔
 tO 睾 睾丸
 tOAO 睾丸
 tOLB 我为鱼肉
@@ -103356,7 +103374,7 @@ tPnW 七里河区
 tPtu 东张西望
 tQ 币 覆盖率
 tQZQ 币市
-tQZ！ 覆盖率
+tQZ! 覆盖率
 tQaA 币值
 tQc 覆盖面
 tQcm 覆盖面
@@ -103585,7 +103603,7 @@ tZid 要挟
 tZij 要按
 tZjZ 要案
 tZjh 要塞
-tZj！ 要害
+tZj! 要害
 tZkO 要领
 tZkb 要命
 tZn 要
@@ -103601,7 +103619,7 @@ tZux 要让
 tZvz 要对
 tZwC 要是
 tZzf 要钱
-tZ！R 要素
+tZ!R 要素
 t` 我们
 ta 我们的
 taDD 血债累累
@@ -103672,7 +103690,7 @@ tdHV 失脚
 tdIr 失闪
 tdIs 失身
 tdIt 失窃
-tdJ！ 失序
+tdJ! 失序
 tdLT 失色
 tdLi 失之
 tdMF 失学
@@ -103845,7 +103863,7 @@ tgf; 覆灭
 tgnT 覆没
 tgoz 西街村
 tgtu 东征西讨
-tgt！ 我行我素
+tgt! 我行我素
 tgue 螣蛇
 tguw 覆亡
 th 非比寻常
@@ -103861,7 +103879,7 @@ tiEt 我省
 tiH? 鹅肝
 tiHp 我擀皮
 tiIh 我些
-tiK！ 我猜
+tiK! 我猜
 tiON 翻手为云
 tiOh 裴擒虎
 tiOk 覆手为雨
@@ -103969,7 +103987,7 @@ tmVs 我从去年辞帝京
 tmYD 追剿
 tmYe 追随
 tmaM 追偿
-tma！ 追债
+tma! 追债
 tmbhbuww 天棓步危
 tmbz 悲从中来
 tmd? 追赶
@@ -103981,7 +103999,7 @@ tmiA 追授
 tmiF 追击
 tmiL 追捕
 tmik 失物招领
-tmi！ 追捧
+tmi! 追捧
 tmjG 阜宁
 tmk: 追念
 tmlo 追杀
@@ -104085,7 +104103,7 @@ tpEu 番茄小说
 tpFb 升职
 tpHR 升腾
 tpIS 升空
-tpJ！ 升序
+tpJ! 升序
 tpMF 升学
 tpO< 升为
 tpPr 番薯粥
@@ -104299,7 +104317,7 @@ trye 釉质
 tryh 悉尼
 trym 翻毛
 trzp 翻过
-tr！Y 番邦
+tr!Y 番邦
 ts 翻了一番
 tsVz 西高地
 tsdn 失踪的孤鸿
@@ -104375,7 +104393,7 @@ tugu 七言律诗
 tuiL 切换
 tuix 切掉
 tujS 切实
-tuj！ 切割
+tuj! 切割
 tukh 切合
 tumK 翻译器
 tunQ 西望洋
@@ -104509,7 +104527,7 @@ txxZ 西魏
 txxf 西卡
 txy< 西历
 txyo 西厢
-tx！H 西青
+tx!H 西青
 ty 血压计
 tyTk 鹅毛大雪
 tyZz 悉尼妹
@@ -104547,7 +104565,7 @@ tzy: 非金属性
 tzyt 非金属
 tzzy 我来也
 u 让 说 设计
-u' 语言
+u' 谢谢
 u, 谁 谁能
 u,:d 谁怕
 u,; 谯
@@ -104581,7 +104599,7 @@ u.J 说到底
 u.JZ 说到底
 u.W; 询盘
 u.Z 误码率
-u.Z！ 误码率
+u.Z! 误码率
 u.a. 说到做到
 u.ar 询价
 u.mK 译码器
@@ -104620,7 +104638,7 @@ u/yd 诉愿
 u: 忘 忘记
 u::G 忘性
 u::c 忘怀
-u::！ 忘情
+u::! 忘情
 u:; 谧
 u:< 记忆力
 u:<l 记忆力
@@ -104785,7 +104803,7 @@ uAII 词频
 uAIb 讯问
 uAJM 词库
 uAJY 证书废除
-uAJ！ 词序
+uAJ! 词序
 uANC 诏书五道出将军
 uANy 词云
 uAOd 词牌
@@ -104811,7 +104829,7 @@ uAfp 词形
 uAg: 讯息
 uAiw 词提
 uAjS 讯实
-uAj！ 谗害
+uAj! 谗害
 uAkA 词霸
 uAkO 词令
 uAmI 许书彬
@@ -104832,8 +104850,8 @@ uAug 词话
 uAuy 谗言
 uAyy 词尾
 uAz/ 词锋
-uA！? 词表
-uA！R 词素
+uA!? 词表
+uA!R 词素
 uB 讷 谴责
 uB:X 长通快递
 uB>x 谁能春独愁
@@ -104851,7 +104869,7 @@ uBuB 讷讷
 uBue 诵读
 uBvG 忍能对面为盗贼
 uBza 言而无信
-uB！G 谴责
+uB!G 谴责
 uC 诞 诞生
 uC,o 记录集
 uC.S 读写磁头
@@ -104920,7 +104938,7 @@ uDxb 课程
 uDxf 课上
 uDxw 课桌
 uDyf 课后
-uD！? 课表
+uD!? 课表
 uE 诮 望远镜
 uE:g 谨小慎微
 uEGs 谢远生
@@ -104944,7 +104962,7 @@ uF.S 调匀
 uF.W 调到
 uF.f 调研
 uF/x 调处
-uF:！ 调情
+uF:! 调情
 uF;U 望子成龙
 uF</ 调峰
 uF?g 调干
@@ -104961,7 +104979,7 @@ uFII 调频
 uFIX 调阅
 uFJ 调
 uFJR 调度
-uFJ！ 调序
+uFJ! 调序
 uFLT 调色
 uFLu 调解
 uFME 调转
@@ -105017,10 +105035,10 @@ uFnU 调酒
 uFnj 调演
 uFnw 调温
 uFny 调派
+uFow 调查
 uFoE 调档
 uFoT 调相
 uFoZ 调校
-uFow 调查
 uFpY 调节
 uFpe 调茬
 uFqB 长子县
@@ -105165,7 +105183,7 @@ uJRu 调度券
 uJj 诘 髻
 uJv, 诘难
 uJzz 谭睿鑫
-uJ！G 诘责
+uJ!G 诘责
 uK 许 许多
 uK, 诳
 uK;f 许威
@@ -105257,7 +105275,7 @@ uLuX 该说
 uLuZ 谵妄
 uLue 诡计
 uLuy 诤言
-uLu！ 诡谲
+uLu! 诡谲
 uLx: 诡秘
 uLxL 诡称
 uLzm 言之无物
@@ -105266,7 +105284,7 @@ uM.. 谈磊
 uM.W 谈到
 uM:Z 谈妥
 uM:x 谈心
-uM:！ 谈情
+uM:! 谈情
 uMEG 谈资
 uMJ 谠
 uMXi 谈判
@@ -105294,7 +105312,7 @@ uNCp 语速
 uNDq 语气
 uNF: 语聊
 uNGj 语句
-uNJ！ 语序
+uNJ! 语序
 uNK 讲礼貌
 uNKd 讲礼貌
 uNOl 语义
@@ -105323,7 +105341,7 @@ uNuy 语言
 uNvw 语文
 uNxZ 语委
 uNxb 语种
-uN！R 语素
+uN!R 语素
 uO 议 议员
 uO/S 忍冬
 uO: 忍
@@ -105368,9 +105386,9 @@ uOwC 议题
 uOxb 议程 议和
 uOzE 议销
 uP 记 记者
+uP:j 记忆
 uP:; 记恨
 uP:G 记性
-uP:j 记忆
 uPCn 记录
 uPFv 记取
 uPGu 记账
@@ -105421,7 +105439,7 @@ uPzR 记错
 uPzp 记过
 uQ 详 详细
 uQ/D 详备
-uQ:！ 详情
+uQ:! 详情
 uQ<b 详加
 uQ?j 亡羊补牢
 uQF 谝
@@ -105455,7 +105473,7 @@ uRZQ 证券交易所
 uRZV 证券市场
 uRZw 证券交易
 uReJ 谱线黑度
-uRe！ 训练有素
+uRe! 训练有素
 uRfa 长绳百尺拽碑倒
 uRiY 谍报
 uRj. 训练室
@@ -105721,7 +105739,7 @@ uX, 讲道理
 uX,P 讲道理 说理
 uX.H 说破
 uX.W 说到
-uX:！ 说情
+uX:! 说情
 uX; 谦
 uX;A 说成
 uX<f 迢递嵩高下
@@ -105776,7 +105794,7 @@ uXjZ 讼案
 uXje 谢公宿处今尚在
 uXkh 说合
 uXnV 说法
-uXn！ 说清
+uXn! 说清
 uXow 讼棍
 uXqF 说教
 uXry 说声
@@ -105799,7 +105817,7 @@ uXxx 谦哥
 uXzR 说错
 uXzX 说来
 uXzp 说过
-uX！? 谱表
+uX!? 谱表
 uY 训 训练
 uY/O 训斥
 uY/o 训条
@@ -105992,7 +106010,7 @@ uc/W 长驱
 uc/o 长条
 uc/x 长处
 uc:G 长性
-uc:！ 长情
+uc:! 长情
 uc;A 长成
 uc<T 长崎
 uc<b 试管架
@@ -106006,7 +106024,7 @@ ucB? 言不由衷
 ucBS 长虹
 ucBc 长虫
 ucCo 长亲
-ucD！ 长短
+ucD! 长短
 ucEJ 长远
 ucEu 长篇小说
 ucFE 长孙
@@ -106021,7 +106039,7 @@ ucIS 长空
 ucIh 长此
 ucIm 长门
 ucIw 谈笑间
-ucI！ 长凳
+ucI! 长凳
 ucJ; 长鼓
 ucJO 长廊
 ucJR 长度
@@ -106117,7 +106135,7 @@ ucng 长活
 ucnm 说不清楚
 ucnp 长满
 ucnx 长河
-ucn！ 说不清
+ucn! 说不清
 uco, 计算机管理
 uco/ 计算机专业
 uco? 长杆
@@ -106172,10 +106190,10 @@ uczE 长销
 uczM 长链
 uczV 说不过去
 uczd 谈笑无还期
-uc！H 长青
-uc！m 长矛
-uc！w 长春
-uc！z 长寿
+uc!H 长青
+uc!m 长矛
+uc!w 长春
+uc!z 长寿
 ud 刀 诺基亚
 ud/X 刀兵
 ud< 长白山
@@ -106217,7 +106235,7 @@ udvO 刀叉
 udxg 刀光
 udz/ 刀锋
 udze 长泉镇
-ue 读 计划
+ue 计划 读
 ue.H 读破
 ue.R 读碟
 ue.W 读到
@@ -106368,7 +106386,7 @@ uh,P 讲理
 uh.W 讲到
 uh/ 谪
 uh/g 讲古
-uh:！ 讲情
+uh:! 讲情
 uh< 谤
 uh>b 望帝春心托杜鹃
 uhBb 讲台
@@ -106570,7 +106588,7 @@ uofb 谋事 妄想食味
 uofn 谋求
 uojS 妄想实况
 uojz 长相守
-uoj！ 谋害
+uoj! 谋害
 uokA 刀枪剑戟
 uolo 谋杀
 uomn 妄想特派
@@ -106710,7 +106728,7 @@ urnB 诊治
 urnM 长途汽车
 urnO 诠注
 urnV 计数法
-urn！ 认清
+urn! 认清
 urof 诊断模型
 urok 诊检
 urow 诊查
@@ -106953,7 +106971,7 @@ uy 言 言论
 uy, 讲习班
 uy,W 讲习班
 uy:f 说尽心中无限事
-uy:！ 言情
+uy:! 言情
 uy; 读后感
 uy;f 读后感
 uy?K 言状
@@ -107007,7 +107025,7 @@ uzZX 讨嫌
 uzaE 讨俏 语无伦次
 uzaU 讨伐
 uzar 讨价
-uza！ 讨债
+uza! 讨债
 uzbK 讨吃
 uzc 讨
 uzcp 讨还
@@ -107028,54 +107046,54 @@ uzxu 忍无可忍
 uzyK 讨厌
 uzz/ 刀锋铁骑
 uzzf 讨钱
-u！ 请 请问
-u！.I 请勿
-u！.W 请到
-u！?S 请将
-u！CX 请柬
-u！H 请
-u！Ib 请问
-u！MG 请赏
-u！Ns 请示
-u！Ot 请罪
-u！QU 请帖
-u！RG 请缨
-u！Rk 请给
-u！S< 请功
-u！UU 请战
-u！Ub 请回
-u！Y/ 请降
-u！aL 请您
-u！ag 请便
-u！ay 请假
-u！b 谲
-u！b/ 请听
-u！fe 请于
-u！fn 请求
-u！hp 请进
-u！hr 请以
-u！iT 请看 请把
-u！ij 请按
-u！it 请托
-u！jY 请客
-u！jZ 请安
-u！kb 请命
-u！mV 请坐
-u！qF 请教
-u！qb 请向
-u！qy 请用
-u！rr 请人
-u！uH 谲诈
-u！yd 请愿
-u！zX 请来
-u！！v 请予
+u! 请 请问
+u!.I 请勿
+u!.W 请到
+u!?S 请将
+u!CX 请柬
+u!H 请
+u!Ib 请问
+u!MG 请赏
+u!Ns 请示
+u!Ot 请罪
+u!QU 请帖
+u!RG 请缨
+u!Rk 请给
+u!S< 请功
+u!UU 请战
+u!Ub 请回
+u!Y/ 请降
+u!aL 请您
+u!ag 请便
+u!ay 请假
+u!b 谲
+u!b/ 请听
+u!fe 请于
+u!fn 请求
+u!hp 请进
+u!hr 请以
+u!iT 请看 请把
+u!ij 请按
+u!it 请托
+u!jY 请客
+u!jZ 请安
+u!kb 请命
+u!mV 请坐
+u!qF 请教
+u!qb 请向
+u!qy 请用
+u!rr 请人
+u!uH 谲诈
+u!yd 请愿
+u!zX 请来
+u!!v 请予
 v 对 这
 v' 这个
 v, 难 难以
 v,,f 刘玉球
 v,,m 邓琳琳 刘琳琳
 v,/x 难处
-v,/！ 难逢
+v,/! 难逢
 v,:e 难觅
 v,:p 难懂
 v,:v 难怪
@@ -107144,7 +107162,7 @@ v,w. 难易
 v,wC 难题
 v,wm 难民
 v,zp 难过
-v,！u 难熬
+v,!u 难熬
 v..r 对硫磷
 v.aU 叠包袋
 v/ 欢欣鼓舞
@@ -107367,7 +107385,7 @@ vMfU 刘学武
 vMjQ 文学家
 vO 叉 叉烧
 vO: 难为情
-vO:！ 难为情
+vO:! 难为情
 vO;U 叉烧
 vOA: 圣主朝朝暮暮情
 vOB 蚤
@@ -107491,7 +107509,7 @@ vUns 戏水
 vUor 戏楼
 vUqg 戏骨
 vUrp 戏迷
-vUr！ 戏精
+vUr! 戏精
 vUsY 戏路
 vUtN 戏票
 vUtR 对战系统
@@ -107584,7 +107602,7 @@ vWws 刘景
 vWxT 刘秀
 vWxW 欢迎光临
 vWyw 刘厚
-vW！Y 刘邦
+vW!Y 刘邦
 vX 鸡 鸡蛋
 vX,f 鸡球
 vX:a 鸡爪
@@ -107624,7 +107642,7 @@ vXnH 鸡婆
 vXp: 文公菜
 vXqg 鸡骨
 vXrg 鸡舍
-vXr！ 鸡精
+vXr! 鸡精
 vXt; 鸡血
 vXti 文翁翻教授
 vXtx 鸡西
@@ -107828,8 +107846,8 @@ vht: 难以释怀
 vhu: 难以忘怀
 vhuA 难以忍受
 vhub 难以言喻
-vhu！ 难以言表
-vh！r 难以预料
+vhu! 难以言表
+vh!r 难以预料
 vi 对抗性
 vi:G 对抗性
 viAK 刘振乾
@@ -107972,7 +107990,7 @@ vpfb 这事
 vpfx 这下
 vpkx 斋藤千和
 vpoQ 这样
-vpo！ 艰苦朴素
+vpo! 艰苦朴素
 vppw 刘萌萌
 vpr/ 艰苦创业
 vprN 这会
@@ -108172,9 +108190,9 @@ vwx: 文秘
 vwxD 文科
 vwxs 文稿
 vwyT 文眉
-vw！G 文责
-vw！H 文静
-vw！u 文契
+vw!G 文责
+vw!H 文静
+vw!u 文契
 vx 又可以
 vx:G 对称性
 vx<v 难上加难
@@ -108246,9 +108264,9 @@ vz,x 对象
 vz.: 对砍
 vz.B 对勾
 vz: 怼
+vz<f 对方
 vz</ 刘金峰
 vz<V 对峙
-vz<f 对方
 vz<p 对边
 vz<y 对岸
 vz?m 对襟
@@ -108320,11 +108338,11 @@ vzft 文过饰非
 vzgV 对待
 vzga 对敌
 vzhh 对比
+vziZ 对抗
 vzi/ 对折
 vziC 对接
 vziG 对打
 vziL 对换
-vziZ 对抗
 vzio 对手
 vziq 对拷
 vzjQ 对家
@@ -108353,8 +108371,8 @@ vzxx 对歌
 vzyA 对局
 vzye 对质
 vzzR 对错
-vz！? 对表
-v！ 这样
+vz!? 对表
+v! 这样
 w 日 是 时候
 w' 时间
 w, 旺 旺盛
@@ -108490,7 +108508,7 @@ w/gw 显得
 w/iA 显扬
 w/iO 显摆
 w/j 昕
-w/j！ 显豁
+w/j! 显豁
 w/ks 显露
 w/n/ 星落湖
 w/pk 时欣蕾
@@ -108532,7 +108550,7 @@ w:w: 暖暖 时快时慢
 w:xb 暖和
 w:y> 暖厨
 w:z/ 暖锋
-w:！w 暖春
+w:!w 暖春
 w; 晟 易燃易爆
 w;; 暖烘烘
 w;;R 暖烘烘
@@ -108587,7 +108605,7 @@ w>qB 景泰县 民丰县
 w>xb 晴和
 w? 旱 晶状体
 w?,x 旱象
-w?:！ 旱情
+w?:! 旱情
 w?;U 旱烟
 w?Dt 旱田
 w?FJ 时装周
@@ -108663,7 +108681,7 @@ wAx: 晚稻
 wAx; 晚秋
 wAxf 晚上
 wAzb 晚钟
-wA！w 晚春
+wA!w 晚春
 wB 兖 显而易见
 wB:X 申通快递
 wBJ 兖
@@ -108703,8 +108721,8 @@ wCa. 晕倒
 wCb/ 是吗
 wCbP 是呀
 wCbY 是啊
-wCca 六军不发无奈何
 wCcb 是否
+wCca 六军不发无奈何
 wCck 题签
 wCcu 六亲不认
 wCd. 是的
@@ -108785,7 +108803,7 @@ wFCZ 量子产率
 wFCo 最新 最亲
 wFCp 最速
 wFDR 最累
-wFD！ 最短
+wFD! 最短
 wFEJ 最远
 wFEt 最少
 wFEx 最小
@@ -108797,10 +108815,10 @@ wFM: 最软
 wFMQ 最常
 wFMv 最轻
 wFO< 最为
+wFPl 日子里
 wFP 日子里
 wFPS 最弱 量子弱
 wFPb 最强
-wFPl 日子里
 wFQS 最差
 wFQT 最美
 wFR/ 最终
@@ -108838,7 +108856,7 @@ wFmJ 最先
 wFnC 最深
 wFnn 量子涟漪
 wFoT 最想
-wFo！ 最棒
+wFo! 最棒
 wFr, 最全
 wFr; 最热
 wFrZ 量子数
@@ -108856,7 +108874,7 @@ wFwu 映照
 wFxx 影子哥
 wFyO 最迟
 wFyf 最后
-wF！H 最靓
+wF!H 最靓
 wG 星 星期
 wG,, 晶生玲珑
 wG,f 星球
@@ -109008,7 +109026,7 @@ wHnN 明澈
 wHnW 明渠
 wHnq 明月清风
 wHnt 日月潭
-wHn！ 明清
+wHn! 明清
 wHoa 明月楼高休独倚
 wHog 明杖
 wHor 明枪
@@ -109047,9 +109065,9 @@ wHzS 明镜
 wHzX 明锐
 wHzw 明月来相照
 wHzx 日月无光
-wH！L 明艳
-wH！Y 盟邦
-wH！！ 明慧
+wH!L 明艳
+wH!Y 盟邦
+wH!! 明慧
 wI 暌 时间表
 wI: 时间性
 wI:G 时间性
@@ -109067,7 +109085,7 @@ wIQ 时间差
 wIQS 时间差
 wIT 暌
 wIU/ 时空图 星空图
-wIY！ 暌隔
+wIY! 暌隔
 wIZl 暌离
 wIb< 暌别
 wIfP 晴空万里
@@ -109085,7 +109103,7 @@ wIvM 民间文学
 wIwa 早些时候 晚些时候
 wIyM 星空毯
 wIzX 星穹铁道
-wI！? 时间表
+wI!? 时间表
 wJ 旷 最喜欢
 wJ/A 旷荡
 wJ/g 旷古
@@ -109094,7 +109112,7 @@ wJFb 旷职
 wJJY 旷废
 wJLO 暴烈之甲
 wJPG 旷费
-wJP！ 旷野
+wJP! 旷野
 wJRA 旷世
 wJS 晁
 wJSg 旷工
@@ -109157,7 +109175,7 @@ wLnq 时之海风
 wLuF 暖色调
 wLwD 明争暗斗
 wLyV 时之愿境
-wL！? 时刻表
+wL!? 时刻表
 wM 日常生活
 wMGn 日常生活
 wMSa 日常工作
@@ -109370,7 +109388,7 @@ wShj 暗井
 wSiC 暗探
 wSih 暗指
 wSj. 暗室
-wSj！ 暗害
+wSj! 暗害
 wSk; 暗盒
 wSkb 暗含
 wSkh 暗合
@@ -109659,7 +109677,7 @@ wcuS 申论
 wcuX 申说
 wcuy 畅言
 wcuz 申讨
-wcu！ 申请
+wcu! 申请
 wcvY 暗箭难防
 wcw 时不时
 wcw, 畅旺
@@ -109743,8 +109761,8 @@ wex: 早稻
 wex; 早秋
 wexE 六十秒
 wexf 早上
-we！w 早春
-we！！ 早慧
+we!w 早春
+we!! 早慧
 wf 量 是一种
 wf,o 明丽珍材
 wf<l 量力
@@ -109799,7 +109817,7 @@ wfxb 是一种 量程
 wfy 民政局
 wfyA 民政局
 wfyG 民政厅
-wf！a 民事责任
+wf!a 民事责任
 wg 曼彻斯特
 wgCS 景行鹤音
 wgYI 影徒随我身
@@ -109897,8 +109915,8 @@ wktZ 最重要
 wktd 最重要的
 wktl 六令追凶
 wkzB 暴露无遗
-wk！ 晴雨表
-wk！? 晴雨表
+wk! 晴雨表
+wk!? 晴雨表
 wl 六 六十
 wl,c 六环
 wl>d 六豆
@@ -109957,7 +109975,7 @@ wm 民 民族
 wm/X 民兵
 wm:e 民愤
 wm:x 民心
-wm:！ 民情
+wm:! 民情
 wm;w 民爆
 wm<K 民族
 wm<X 民办
@@ -110110,7 +110128,7 @@ wr 日 日本
 wr,F 日珥
 wr,W 日班
 wr,v 日斑
-wr.！ 日臻
+wr.! 日臻
 wr/l 日落
 wr:x 日心
 wr<f 日方
@@ -110268,7 +110286,7 @@ wsy/ 影剧
 wsyR 影展
 wsyf 影后
 wszB 影钠
-ws！n 景泰
+ws!n 景泰
 wt 晒 晒干
 wt?g 晒干
 wt?i 晒衣
@@ -110357,8 +110375,8 @@ wuxK 照耀
 wuxb 昭和
 wuyY 照顾
 wuyunppj 无余涅槃
-wu！ 申请表
-wu！? 申请表
+wu! 申请表
+wu!? 申请表
 wv 明文规定
 wv?g 最难将息
 wvKI 时难年荒世业空
@@ -110473,8 +110491,8 @@ wxqB 昌黎县
 wxrM 星移势转
 wxuP 曙光记
 wxwx 晃晃
-wx！ 日程表
-wx！? 日程表
+wx! 日程表
+wx!? 日程表
 wy 曰 最后的
 wyBO 最后通牒
 wyY 影剧院
@@ -110498,7 +110516,7 @@ wz.. 星银矿石
 wz.J 星银矿
 wz.i 时至
 wz/< 时务
-wz/！ 时逢
+wz/! 时逢
 wz:x 昧心
 wz<c 时辰
 wz?/ 时夏
@@ -110513,7 +110531,7 @@ wzHS 时钟脉冲
 wzIS 时空
 wzIw 时间
 wzJM 时库
-wzJ！ 时序
+wzJ! 时序
 wzLQ 时鲜
 wzLW 时刻
 wzMQ 时常
@@ -110533,7 +110551,7 @@ wzWl 时区
 wzWv 时贤
 wzY; 时限
 wzYE 时隙
-wzY！ 时隔
+wzY! 时隔
 wzZh 时效
 wzaL 时俗
 wzaN 时任
@@ -110585,17 +110603,17 @@ wzxg 时光
 wzyA 时局
 wzzb 时钟
 wzze 时针
-w！ 晴 晴天
-w！H 晴
-w！IS 晴空
-w！O; 晴朗
-w！ZF 晴好
-w！fT 晴天
-w！kv 晴雨
-w！p 景泰蓝
-w！pW 景泰蓝
-w！！ 暖融融
-w！！B 暖融融
+w! 晴 晴天
+w!H 晴
+w!IS 晴空
+w!O; 晴朗
+w!ZF 晴好
+w!fT 晴天
+w!kv 晴雨
+w!p 景泰蓝
+w!pW 景泰蓝
+w!! 暖融融
+w!!B 暖融融
 x 。 和
 x' 可以
 x, 稚 上班族
@@ -110863,7 +110881,7 @@ xB: 可能性
 xB:G 可能性
 xB:e 私愤
 xB:x 私心
-xB:！ 私情
+xB:! 私情
 xB?b 私衷
 xB?g 卢能干
 xBBq 私通
@@ -111000,7 +111018,7 @@ xDuc 科长
 xDwO 科曼
 xDxZ 科委
 xDzH 稚气未脱
-xD！A 科幻
+xD!A 科幻
 xE 秒 稍微
 xE;S 积少成多
 xE<b 稍加
@@ -111038,7 +111056,7 @@ xExE 稍稍
 xEyf 稍后
 xEzb 秒钟
 xEze 秒针
-xE！? 秒表
+xE!? 秒表
 xF 季 季度
 xF,T 季琦
 xF/S 季冬
@@ -111077,7 +111095,7 @@ xFxf 季卡 上网卡
 xFxx 秧歌
 xFyf 季后
 xFzf 种子钱
-xF！w 季春
+xF!w 季春
 xG 贞 卡丁车
 xGDQ 叔丁氧
 xGF 私生子
@@ -111105,7 +111123,7 @@ xHUB 乘月醉高台
 xHfR 愁肠百结
 xHrr 香肠人
 xHti 乘胜追击
-xH！p 秋月春花
+xH!p 秋月春花
 xI 上窜下跳
 xI,d 上穷碧落下黄泉
 xI;p 卡闪退
@@ -111320,7 +111338,7 @@ xS 移 移动
 xS.W 移到
 xS.i 移至
 xS:j 称名忆旧容
-xS:！ 移情
+xS:! 移情
 xSCn 移录
 xSHH 季凌鹏
 xSII 移频
@@ -111351,7 +111369,7 @@ xSw. 移易
 xSwm 移民
 xSxf 移上
 xSy/ 移居
-xS！b 秀外慧中
+xS!b 秀外慧中
 xT 秀 透明
 xT/: 稀奇古怪
 xT:G 可达性
@@ -111440,10 +111458,10 @@ xUvX 卤鸡
 xUxU 可圈可点
 xUxw 利国利民
 xUzT 乘龙铭钟鼎
-xU！R 卤素
+xU!R 卤素
 xV 穑 卡塔尔
 xV;< 积土成山
-xVE！ 稀土元素
+xVE! 稀土元素
 xVLE 卡塔尔
 xVUB 稀盐酸
 xVUX 可堪回首
@@ -111472,11 +111490,11 @@ xWR, 利维
 xWSS 利多
 xWUE 梨园
 xWWv 魏坚坚
-xWX！ 利兹
+xWX! 利兹
 xWYc 利川
 xWZF 利好
 xWZQ 利市
-xWZ！ 利率
+xWZ! 利率
 xWaz 利他
 xWb> 利嗪
 xWbI 利嘴
@@ -111488,14 +111506,14 @@ xWfp 梨形
 xWg: 利息
 xWiY 和盘托出
 xWjC 利定
-xWj！ 利害
+xWj! 利害
 xWkn 利剑
 xWla 利弊
 xWm 犁
 xWmK 利器
+xWnI 利润
 xWn; 利益
 xWnE 利沙
-xWnI 利润
 xWnM 利淡
 xWnb 梨涡
 xWnn 移舟泊烟渚
@@ -111536,7 +111554,7 @@ xXTm 税目
 xXWa 税收
 xXXH 税前
 xXXw 税单
-xXZ！ 税率
+xXZ! 税率
 xXdV 税基
 xXjY 税额
 xXmQ 税制
@@ -111603,7 +111621,7 @@ xZrN 委会
 xZub 魏劭
 xZyY 委屈
 xZzp 委过
-xZ！< 稳如泰山
+xZ!< 稳如泰山
 x` 可是
 xa 哥伦比亚
 xa:G 稳健性
@@ -111647,7 +111665,7 @@ xbGb 卜贝
 xbHT 积肥
 xbHY 和服
 xbJR 程度
-xbJ！ 程序
+xbJ! 程序
 xbKl 积劳
 xbKq 种猪
 xbKr 积年
@@ -111679,7 +111697,7 @@ xbY? 和顺
 xbZF 和好
 xbZG 种姓
 xbZj 和婉
-xbZ！ 种畜
+xbZ! 种畜
 xbaE 种仁
 xbaf 积分
 xbau 积储
@@ -111709,7 +111727,7 @@ xbk 和
 xbkC 积雪
 xbla 积弊
 xblt 种群
-xbl！ 种痘
+xbl! 种痘
 xbm. 和物
 xbnR 程洪
 xbnZ 积液
@@ -112175,7 +112193,7 @@ xgxy 稍待秋风凉冷后
 xgyM 上得厅堂
 xgyY 光顾
 xgz, 光锥
-xg！L 光艳
+xg!L 光艳
 xh 禾 可以说
 xh: 可比性
 xh:G 可比性
@@ -112444,7 +112462,7 @@ xnWl 香洲区 秀洲区
 xnZN 卡波姆
 xnZQ 上海市
 xnZT 上海交大
-xnZ！ 利润率
+xnZ! 利润率
 xnah 利益化 魏江华
 xnar 秋水伊人
 xnbo 哥本哈根
@@ -112573,7 +112591,7 @@ xqWl 魏都区
 xqYv 秃发
 xqZ 利用率
 xqZQ 颓市
-xqZ！ 利用率
+xqZ! 利用率
 xqaN 租赁
 xqaO 租住
 xqaR 租借
@@ -112660,7 +112678,7 @@ xsqs 芎藭
 xszK 秋毫无犯
 xt 秩 秩序
 xt.a 和贾至舍人早朝大明宫之作
-xtJ！ 秩序
+xtJ! 秩序
 xtUT 卢西恩
 xtWl 卡西欧
 xtcW 稀释剂
@@ -112788,7 +112806,7 @@ xwoT 桌椅
 xwoW 香榧
 xwoj 香槟
 xwoz 光明村
-xwo！ 香椿
+xwo! 香椿
 xwp, 香蕉
 xwp. 香芍
 xwp/ 香芹
@@ -112804,12 +112822,12 @@ xwpq 卓著
 xwr 香
 xwrD 香料
 xwrN 香会
-xwr！ 香精
+xwr! 香精
 xwub 卓识
 xwwi 光明日报
 xwxf 桌上
 xwyU 透明质酸
-xw！L 香艳
+xw!L 香艳
 xx 歌 歌曲
 xx.s 光卤石
 xx: 歌
@@ -112901,7 +112919,7 @@ xyUn 稳压电源
 xyWl 上层区
 xyWz 愁眉紧锁
 xyX 鸬
-xyX！ 鸬鹚
+xyX! 鸬鹚
 xycG 秋后算账
 xycy 愁眉不展
 xyd/ 穆尼斯
@@ -112927,8 +112945,8 @@ xzQE 魏无羡
 xzTb 卢锅巴
 xzb, 光锥呈现
 xzzp 秋来未著花
-x！ 种豆得豆
-x！g！ 种豆得豆
+x! 种豆得豆
+x!g! 种豆得豆
 y 原 后 历史
 y' 质量
 y, 返璞归真
@@ -112961,7 +112979,7 @@ y//k 厚古薄今
 y//x 居处
 y/:D 居留
 y/:x 居心
-y/:！ 剧情
+y/:! 剧情
 y/? 习近平
 y/?X 习近平
 y/C 后备军
@@ -113013,7 +113031,7 @@ y/x/ 厉兵秣马
 y/xT 剧透
 y/xb 剧种 居积
 y/xf 居上
-y/！N 剧毒
+y/!N 剧毒
 y: 习惯性
 y:,f 属性球
 y::G 习惯性
@@ -113142,7 +113160,7 @@ yCGw 局部变量
 yCOj 刷新主宰
 yCP: 刷新野怪
 yCVJ 局部坏死
-yCZ！ 刷新率
+yCZ! 刷新率
 yCaa 局部优化
 yCah 毛立华
 yCdb 尿蛋白
@@ -113185,7 +113203,7 @@ yFoL 原子核
 yFrT 毛孔粗大
 yFuS 原子论
 yFyw 原子质量
-yFy！ 尽职尽责
+yFy! 尽职尽责
 yFz 原子钟
 yFzb 原子钟
 yG 厅 厕所
@@ -113339,7 +113357,7 @@ yO.W 迟到
 yO/r 盾牌丘丘人
 yO:W 尽快
 yO:x 尽心
-yO:！ 尽情
+yO:! 尽情
 yO;f 迟威
 yO<l 尽力
 yO>R 尺素
@@ -113391,7 +113409,7 @@ yOwf 尽量
 yOyO 迟迟 咫尺
 yOzc 尺寸
 yOzf 迟钝
-yO！G 尽责
+yO!G 尽责
 yP 厘 厘米
 yPLK 迟暮之年
 yPVf 毛里塔尼亚
@@ -113401,7 +113419,7 @@ yPfI 厘正
 yPfd 毛里求斯
 yPjC 厘定
 yPl 厘
-yPn！ 厘清
+yPn! 厘清
 yPrm 厘米
 yPwN 屏幕显示
 yQ 刷 刷新
@@ -113769,7 +113787,7 @@ yatQ 赝币
 yawH 毛伟明
 yaz 反倾销
 yazE 反倾销
-ya！J 尸位素餐
+ya!J 尸位素餐
 yb 历史 历史上
 yb: 历史性
 yb:G 历史性
@@ -113861,8 +113879,8 @@ ydE 原
 ydFb 原职
 ydFi 原子
 ydFt 愿同
-ydGW 原则
 ydGs 原生
+ydGW 原则
 ydHy 盾三月
 ydJe 厮儿
 ydKd 原貌
@@ -113875,7 +113893,7 @@ ydO, 原主
 ydO< 原为
 ydOt 原罪
 ydOy 原版
-ydP！ 原野
+ydP! 原野
 ydQB 尽其所能
 ydQU 原帖
 ydRZ 原纸
@@ -113998,8 +114016,8 @@ yevz 质对
 yewf 质量
 yewg 蠮螉
 yeye 屁颠屁颠
-ye！R 质素
-yf 励 后来
+ye!R 质素
+yf 后来 励
 yf/D 后备
 yf/k 后验
 yf:K 后悔
@@ -114037,7 +114055,7 @@ yfJa 反政府
 yfJe 后儿
 yfJl 后唐
 yfJm 后座
-yfJ！ 后序
+yfJ! 后序
 yfKp 后羿
 yfKr 后年
 yfLT 厉色
@@ -114091,7 +114109,7 @@ yfiN 后撤
 yfio 后手
 yfit 后排
 yfjb 后宫
-yfj！ 厉害
+yfj! 厉害
 yfn/ 后湖
 yfnK 后海
 yfnu 后梁
@@ -114218,7 +114236,7 @@ ymAb 毛布
 ymBc 毛虫
 ymBf 毛虾
 ymBo 毛蚶
-ymB！ 毛蚴
+ymB! 毛蚴
 ymEJ 毛元
 ymET 毛尖
 ymEm 毛囊
@@ -114274,7 +114292,7 @@ ymyU 毛毡
 ymye 反物质
 ymym 毛毛
 ymzf 毛钱
-ym！d 毛豆
+ym!d 毛豆
 yn 尿 毛泽东
 yn;Z 尿炕
 yn?J 尿裤
@@ -114315,7 +114333,7 @@ ynto 毛泽东思想
 ynxT 反渗透
 ynyb 原汁原味
 ynyn 屁滚尿流
-yn！R 尿素
+yn!R 尿素
 yo 厢 原材料
 yoJ 压根儿
 yoJe 压根儿
@@ -114472,7 +114490,7 @@ yvPz 反导
 yvQS 反差
 yvQT 反美
 yvRX 反共
-yvR！ 反绑
+yvR! 反绑
 yvSa 反攻
 yvSb 反冲
 yvSg 返工
@@ -114549,8 +114567,8 @@ yvue 反读
 yvuf 反证
 yvug 反话
 yvuq 反讽
-yvve 反观
 yvvz 反对
+yvve 反观
 yvwF 反映
 yvwr 反日
 yvwu 反照 返照
@@ -114562,7 +114580,7 @@ yvyY 反顾
 yvyv 反反
 yvzE 反锁 返销
 yvzM 反链
-yv！H 返青
+yv!H 返青
 yw 厚 厚度
 yw, 习题集
 yw,o 习题集
@@ -114689,8 +114707,8 @@ yyvv 层层叠叠
 yyxr 历历可数
 yyy 毳
 yyzZ 迟迟钟鼓初长夜
-yy！ 履历表
-yy！? 履历表
+yy! 履历表
+yy!? 履历表
 yz 反过来
 yz:r 雁过留声
 yzAY 后来鞍马何俊巡
@@ -114708,16 +114726,16 @@ yzzX 反过来
 yzzq 后无来者
 yzzu 反过来说
 yzzy 雁过也
-y！ 厨 厨房
-y！Fi 厨子
-y！Q< 厨房
-y！TX 厨具
-y！Wf 厨师
-y！Yf 厨卫
-y！l 尿毒症
-y！lf 尿毒症
-y！pj 厨艺
-y！z 厨
+y! 厨 厨房
+y!Fi 厨子
+y!Q< 厨房
+y!TX 厨具
+y!Wf 厨师
+y!Yf 厨卫
+y!l 尿毒症
+y!lf 尿毒症
+y!pj 厨艺
+y!z 厨
 z 也 来 未来
 z' 也是
 z, 销售额 钰
@@ -114750,8 +114768,8 @@ z,fp 锥形
 z,h 销售商
 z,hX 销售商
 z,i 锥
-z,jQ 钢琴家
 z,jY 销售额
+z,jQ 钢琴家
 z,nM 金玉满堂
 z,pU 链球菌
 z,r 无理数
@@ -114827,7 +114845,7 @@ z/xW 锋利
 z/zU 铁马金戈
 z/zX 锋锐
 z/zh 锋镝
-z/！ 锋
+z/! 锋
 z: 钦 钦佩
 z:. 钟乳石
 z:.s 钟乳石
@@ -114862,9 +114880,9 @@ z:z 锊
 z:zG 铆钉
 z:zO 无忧无虑 无情无义
 z:zj 镏金
+z;.E 银砖
 z; 银 银行
 z;,c 银环
-z;.E 银砖
 z;.J 银矿
 z;/o 银条
 z;; 金灿灿
@@ -115006,7 +115024,7 @@ z?qB 镇平县
 z?v 锼
 z?z 锵
 z?z> 镶铸
-z?！? 银装素裹
+z?!? 银装素裹
 zA 钮 钮扣
 zA; 镳
 zAV 钮
@@ -115292,7 +115310,7 @@ zIvg 寸步难行
 zIw 锏
 zIwQ 金阙晓钟开万户
 zIzy 无穷无尽
-zI！ 镫
+zI! 镫
 zJ 镀 也应该
 zJ; 镰
 zJ?S 金鹰奖
@@ -115418,7 +115436,7 @@ zMx? 链乘
 zMxS 链转移
 zMy 锬
 zMzE 链锁
-zM！? 链表
+zM!? 链表
 zN 铳 无神论
 zNB 铥
 zNJ 铳
@@ -115466,7 +115484,7 @@ zPl 锂
 zPnP 铺张浪费
 zPns 镪水
 zPuO 无异议
-zP！w 寸草春晖
+zP!w 寸草春晖
 zQ 镁 无所谓
 zQD: 无所畏惧
 zQOp 镁片
@@ -115500,7 +115518,7 @@ zR/x 错处
 zR:m 错愕
 zR:v 错怪
 zR:x 错心
-zR:！ 错情
+zR:! 错情
 zR</ 错峰
 zR<n 锦绣山河
 zR>? 金丝豆腐干
@@ -115563,10 +115581,10 @@ zRqy 错用
 zRsl 错了
 zRtX 无关乎
 zRtd 错失
+zRub 错误
 zRuA 错词
 zRuK 错谬
 zRua 错讹
-zRub 错误
 zRur 错认
 zRvm 错叠
 zRw 错
@@ -115891,7 +115909,7 @@ zZq 钪
 zZrs 来女士
 zZud 铰刀
 zZzM 铰链
-zZ！ 铉
+zZ! 铉
 z` 中国
 za 铧 无休止
 za;H 金华火腿
@@ -115923,7 +115941,7 @@ zb.J 铝矿
 zb.j 锅碗
 zb/t 镜中故我
 zb/y 铝业
-zb:！ 钟情
+zb:! 钟情
 zb;Q 锅炉
 zb;V 锅灶
 zbAX 钟馗
@@ -115969,7 +115987,7 @@ zbxk 钟可
 zbzB 铝钠
 zbzO 铝钾
 zbzj 铝铵
-zb！? 钟表
+zb!? 钟表
 zc 寸 也不错
 zc:x 寸心
 zc>J 镜箱豆腐
@@ -115997,7 +116015,7 @@ zcnV 钢筋混凝土
 zcnb 无还本
 zco 金箍棒
 zcoh 寸楷
-zco！ 金箍棒
+zco! 金箍棒
 zcr 也不会
 zcrA 寸断
 zcrN 也不会
@@ -116104,7 +116122,7 @@ zeyO 镇尺
 zeyV 镇压
 zeyv 镇反
 zez/ 针锋
-ze！H 镇静
+ze!H 镇静
 zf 钱 钱包
 zf. 铁饭碗
 zf.P 钱包
@@ -116323,7 +116341,7 @@ zjoX 金松
 zjoc 金杯
 zjoh 金榜
 zjot 金桥
-zjo！ 金橘
+zjo! 金橘
 zjpM 金莲
 zjpU 金茵
 zjpa 金花
@@ -116360,8 +116378,8 @@ zjzf 金钱
 zjzh 金镑
 zjzj 金锭
 zjzt 镔铁
-zj！? 金表
-zj！B 金融
+zj!? 金表
+zj!B 金融
 zk 铃 锤子
 zk,w 锤王
 zk;t 锤炼
@@ -116864,7 +116882,7 @@ ztzb 铁锅
 ztzj 铁铵
 ztzk 铁锤
 ztzx 铁锹 铁锈
-zt！H 铁青
+zt!H 铁青
 zu 无 无法
 zu,P 无理
 zu,y 无瑕
@@ -116885,7 +116903,7 @@ zu:K 无悔
 zu:T 无惧
 zu:v 无怪
 zu:x 无心
-zu:！ 无情
+zu:! 无情
 zu;A 无成
 zu;U 无烟
 zu;i 银鬃炮手
@@ -116919,7 +116937,7 @@ zuIw 无间
 zuJR 无度
 zuJZ 无底
 zuJl 无庸
-zuJ！ 无序
+zuJ! 无序
 zuKo 金言荣
 zuL: 无欲
 zuLK 无妄之羽
@@ -117004,7 +117022,7 @@ zui: 无援
 zuiR 错误扩散
 zuib 无损
 zujG 无宁
-zuj！ 无害
+zuj! 无害
 zukB 无需
 zukP 无重
 zul; 无痕
@@ -117013,9 +117031,9 @@ zum. 无物
 zumb 无告
 zumc 无从
 zums 无双
+zunV 无法
 zun; 无益
 zunT 无泪
-zunV 无法
 zung 无活
 zuns 无水
 zuny 无涯 无派
@@ -117076,7 +117094,7 @@ zuzf 无钱
 zuzq 无铅
 zuzt 无铁
 zuzw 无锡
-zu！N 无毒
+zu!N 无毒
 zv 铎 针对性
 zv.O 铭文碎片
 zv:G 针对性
@@ -117177,7 +117195,7 @@ zwzL 无时无刻
 zwzX 未来
 zwzf 无影无形
 zwzs 无影无踪
-zw！v 未予
+zw!v 未予
 zx 锈 过程中
 zx,g 金科玉律
 zx,v 锈斑
@@ -117221,8 +117239,8 @@ zxtu 无可非议
 zxxU 无利可图
 zxxV 过香积寺
 zxyt 无可厚非 未可厚非
-zx！e 无私奉献
-zx！m 无可奉告
+zx!e 无私奉献
+zx!m 无可奉告
 zy 也 也有
 zy/ 锯
 zy/o 锯条
@@ -117378,27 +117396,27 @@ zzzC 金铲铲
 zzzU 金铲铲之战
 zzze 铆钉镇
 zzzq 铮铮铁骨
-z！ 铸 金融市场
-z！/ 金融业
-z！/y 金融业
-z！D 金融界
-z！Dr 金融界
-z！H 锖
-z！Lo 金融危机
-z！T 锲
-z！ZV 金融市场
-z！am 铸件
-z！c 镇静剂
-z！cW 镇静剂
-z！g 镉
-z！mb 铸造
-z！oo 金融机构
-z！qw 金融风暴
-z！sE 铸就
-z！tQ 铸币
-z！z 铸
-z！zF 铸钢
-z！zt 铸铁
+z! 铸 金融市场
+z!/ 金融业
+z!/y 金融业
+z!D 金融界
+z!Dr 金融界
+z!H 锖
+z!Lo 金融危机
+z!T 锲
+z!ZV 金融市场
+z!am 铸件
+z!c 镇静剂
+z!cW 镇静剂
+z!g 镉
+z!mb 铸造
+z!oo 金融机构
+z!qw 金融风暴
+z!sE 铸就
+z!tQ 铸币
+z!z 铸
+z!zF 铸钢
+z!zt 铸铁
 ~' ”
 ~, ,
 ~. .
@@ -117424,897 +117442,924 @@ z！zt 铸铁
 ~o ·
 ~p ——
 ~s 《
-~t ！
+~t !
 ~x ）
 ~z 、
-！ 帮 表 表示
-！' 帮助
-！' 帮助
-！, 豫 豫剧
-！,fU 表现形式
-！,x 豫
-！,y/ 豫剧
-！. 砉
-！.s 砉
-！/ 麦 预处理
-！/,P 预处理
-！//J 麦克
-！//S 麦冬
-！/<b 麦加
-！/Dt 麦田
-！/Fi 麦子
-！/Hp 麸皮
-！/Op 麦片
-！/Pe 麦草
-！/Wa 麦收
-！/Y 预备队
-！/Y, 麦克阿瑟
-！/Yr 预备队
-！/d 麸
-！/dD 麦克斯韦
-！/g 预备役
-！/gT 预备役
-！/i 麦
-！/kA 麦霸
-！/nO 麦浪
-！/nU 麦酒
-！/pD 麦苗
-！/pP 麦芽
-！/ph 麦蒂
-！/pu 麦芒
-！/q 麦克风
-！/ql 麦克风
-！/ra 麦粉
-！/xJ 麦秸
-！/xf 麦穗
-！/xw 麦香
-！: 静悄悄
-！:/n 春心荡漾
-！::E 静悄悄
-！:an 柔情似水
-！:jS 柔情蜜意
-！; 豉 幻灯片
-！;Op 幻灯片
-！;i 豉
-！< 幼 幼儿
-！<?D 泰山北斗
-！<Bc 幼虫
-！<CP 幼童
-！<Dk 幼龄
-！<Do 幼果
-！<Ex 幼小
-！<Fi 幼子
-！<Je 幼儿
-！<Kr 幼年
-！<Rn 青山绿水
-！<Ul 幼龙
-！<Wf 幼师
-！<Zn 幼女
-！<an 幼体
-！<cq 青山不老
-！<l 幼
-！<ot 幼株
-！<ov 幼树
-！<pD 幼苗
-！<pP 幼芽
-！<qF 幼教
-！<wz 幼时
-！<x, 幼稚
-！<yG 泰山压顶
-！? 预 表 预测
-！?,b 预售
-！?,e 表现
-！?,x 表象
-！?/D 预备
-！?:D 预留
-！?:！ 表情
-！?;f 预感
-！?;i 预支
-！??D 表舅
-！??r 预装
-！?Co 表亲
-！?Db 预知
-！?EA 预亏
-！?Fc 表册
-！?G. 预购
-！?Hp 表皮
-！?JS 预兆
-！?K 青壮年
-！?Kr 青壮年
-！?Nb 预祝
-！?Ns 表示 预示
-！?OA 预置
-！?Pl 表里
-！?R. 预约
-！?Rd 预缴
-！?S< 表功
-！?SW 表决
-！?Se 表彰
-！?Sk 预冷
-！?TO 表态
-！?Tp 表达
-！?VP 预埋
-！?Vt 表土
-！?W; 表盘
-！?Wa 预收
-！?Wc 预览
-！?XP 表弟
-！?Xi 预判
-！?Xw 表单
-！?Y< 预防
-！?Zh 预交
-！?Zq 表姐
-！?Zz 表妹
-！?Z！ 表率
-！?a. 表侄
-！?a/ 预估
-！?az 预付
-！?bJ 表兄
-！?cT 预算
-！?cm 表面
-！?cy 表笔
-！?dH 预期
-！?db 表白
-！?ec 预存
-！?ej 预见
-！?gf 表征
-！?i 表
-！?iA 表扬
-！?iY 预报
-！?j 舂
-！?jC 预定
-！?jF 表字
-！?jZ 预案
-！?jh 预赛
-！?jw 预审
-！?ks 表露
-！?mJ 预先 预选
-！?mQ 预制
-！?mb 预告
-！?nG 预测
-！?nj 表演 预演
-！?oO 表述
-！?oT 预想
-！?oY 表格
-！?ok 预检
-！?pG 预警
-！?qf 预考
-！?r; 预热
-！?rD 预料
-！?sf 丰衣足食
-！?uG 预订
-！?uN 表语
-！?uT 预设
-！?ue 预计
-！?uo 预谋
-！?uy 预言
-！?wH 表明
-！?x/ 春夏秋冬
-！?xD 预科
-！?xx 表哥
-！?y 预
-！?yN 表层
-！?yR 预展
-！?yf 预后
-！?yx 预习
-！?zM 表链
-！?ze 表针
-！A 幻 幻想
-！A,x 幻象
-！A;G 幻灯
-！AC; 幻灵
-！AMe 幻觉
-！ANe 幻视
-！AVS 幻境
-！Aah 幻化
-！Ab/ 幻听
-！Ae 幻
-！Af; 幻灭
-！AoO 幻术
-！AoT 幻想
-！Aws 幻影
-！B 融 融资
-！BB 蟊
-！BBq 融通
-！BEG 融资
-！BF 幺蛾子
-！BFi 幺蛾子
-！BGU 蟊贼
-！BO< 融为
-！BVu 融入
-！Bah 融化
-！Bc 融
-！Bhp 融进
-！Bkh 融合
-！BnW 融汇
-！Bnk 融洽
-！BoL 鹬蚌相争
-！BrN 融会
-！Bxb 融和
-！C 预产期
-！CdH 预产期
-！E 青少年
-！EK 麦当劳
-！EKl 麦当劳
-！EKr 青少年
-！F 鹬 奉子成婚
-！F;Z 奉子成婚
-！FX 鹬
-！G 责 责任
-！G/D 责备
-！G:v 责怪
-！G;A 责成
-！GIb 责问
-！GOu 责罚
-！GRQ 责编
-！GaN 责任
-！Gb 责
-！GkO 责令
-！Gm/ 责骂
-！Gv, 责难
-！H 青 青年
-！H,O 青玉
-！H.s 青石
-！H/L 泰然处之
-！H:x 静心
-！H;G 青灯
-！H;U 青烟
-！H</ 青峰
-！H<s 青山
-！H?Z 靓妆
-！H?i 青衣
-！HBM 青蛙
-！HC 靛
-！HD: 静思
-！HEk 青瓷
-！HFP 静脉曲张
-！HFR 青联
-！HHO 静脉
-！HIh 青紫
-！HIi 静止
-！HKZ 青翠
-！HKr 青年
-！HKx 静卧
-！HLT 青色
-！HLv 青鱼
-！HMc 靓车
-！HNy 青云
-！HPe 青草
-！HQO 静养
-！HRC 青绿
-！HRE 青纱
-！HRR 青丝
-！HSg 青工
-！HSy 静音
-！HT; 青眼
-！HTO 静态
-！HTz 青睐
-！HUE 静园
-！HUd 静电
-！HUl 青龙
-！HV; 青城
-！HVA 静场
-！HX< 青岛
-！HXn 青鸟
-！HZA 靓妞
-！HZF 静好
-！HZa 静夜
-！HZn 靓女
-！HZz 靓妹
-！HaF 靓仔
-！Hac 静候
-！Hb/ 静听
-！Hbf 靓号
-！Hbl 青史
-！HcH 青筋
-！Hcu 青竹
-！Hdb 青白
-！He 靓
-！He; 青灰
-！HeK 静默
-！HfH 靓丽
-！HfR 柔肠百结
-！HfT 青天
-！Hgp 泰然自若
-！Hjx 静寂
-！Hl 静
-！Hm. 静物
-！HmV 静坐
-！HnK 青海
-！Hnu 青涩
-！HoK 青梅
-！HoX 青松
-！Hor 青楼
-！Hox 青椒
-！Hp. 青葱
-！Hp: 青菜
-！Hp; 青藏
-！HpB 青苔
-！HpD 青苗
-！HpM 青莲
-！Hps 青蒿
-！HqB 青县
-！Hu: 静谧
-！Hve 静观
-！Hwu 靓照
-！HxD 青稞
-！Hxd 静穆
-！Hxg 青光
-！Hy 青
-！HzF 青铜
-！H！H 静静
-！H！Y 青帮
-！H！d 青豆
-！H！w 青春
-！J 幼儿园
-！J: 豆腐乳
-！J:F 豆腐乳
-！J:x 豆腐心
-！J? 豆腐干
-！J?g 豆腐干
-！JH 豆腐脑
-！JHZ 豆腐脑
-！JHp 豆腐皮
-！JUE 幼儿园
-！Jn 豆腐渣
-！Jno 豆腐渣
-！K 翮 青年报
-！KKa 豆蔻年华
-！KU 青年团
-！KUe 青年团
-！KiY 青年报
-！Kp 青年节
-！KpY 青年节
-！Kr 青年人
-！Krr 青年人
-！Kv 翮
-！L 艳 艳丽
-！L:！ 艳情
-！LDB 艳遇
-！LKh 艳舞
-！LNf 艳福
-！LQE 艳羡
-！LRS 艳红
-！LT 艳
-！LYw 艳阳
-！LZn 艳女
-！LaL 艳俗
-！Lbl 艳史
-！LfH 艳丽
-！LnU 春色满园
-！LuV 艳诗
-！LwG 艳星
-！Lwu 艳照
-！N 毒 毒品
-！N:G 毒性
-！N<C 毒辣
-！NAx 青云直上
-！NBc 毒虫
-！NBj 毒蛇
-！NDq 毒气
-！NEG 毒资
-！NGy 毒贩
-！NHd 毒腺
-！NJh 毒死
-！NKY 毒犯
-！NPe 毒草
-！NR 纛
-！NUl 毒龙
-！NXo 毒枭
-！Nah 毒化
-！Nbm 毒品
-！NcW 毒剂
-！NcX 毒箭
-！NfF 毒饵
-！Nfp 毒刑
-！Ngs 毒舌
-！Ni/ 毒誓
-！NiG 毒打
-！Nio 毒手
-！NjZ 毒案
-！Nj！ 毒害
-！Nl: 毒瘤
-！NlY 毒瘾
-！Nlo 毒杀
-！Nm 毒
-！Nm. 毒物
-！NnU 毒酒
-！NnZ 毒液
-！NoF 毒刺
-！NpR 毒药
-！NpU 毒菌
-！Nue 毒计
-！Nuo 毒谋
-！Nze 毒针
-！N！R 毒素
-！O 融为一体
-！OMg 奉为圭臬
-！Ofa 融为一体
-！P 表里如一
-！PZf 表里如一
-！Pcf 表里不一
-！Pf. 表里一致
-！R 素 素质
-！R?r 素装
-！RCy 素颜
-！RHY 素服
-！RIb 素问
-！RJv 素餐
-！RLT 素色
-！RMQ 素常
-！RP, 素雅
-！RQ 青纱帐
-！RQO 素养
-！RQu 青纱帐
-！RSL 素净
-！RZn 素女
-！Rci 青黄不接
-！Rdd 青红皂白
-！ReH 素有
-！Rfj 寿终正寝
-！Rfs 素食
-！Rip 素描
-！RnB 素油
-！RnJ 素洁
-！RnM 素淡
-！RnU 素酒
-！Roe 素材
-！Rox 素朴
-！Rp: 素菜
-！Rr: 素志
-！RrZ 素数
-！Rs 素
-！RvX 素鸡
-！Rwr 素日
-！Ryd 素愿
-！Rye 素质
-！RzX 素来
-！S 豇 表决权
-！SFH 春意盎然
-！SI, 春意阑珊
-！Sa/ 丰功伟业
-！SaR 丰功伟绩
-！Sg 豇
-！Sov 表决权
-！Sr 表彰会
-！SrN 表彰会
-！Svj 表意文字
-！T 表达式
-！T<U 表达方式
-！TB< 表达能力
-！TUS 表达式
-！Te< 青眼有加
-！U 泰戈尔
-！ULE 泰戈尔
-！UTV 春回大地
-！Uxt 春困秋乏
-！V 春去秋来
-！Vxz 春去秋来
-！X 奉公守法
-！Xjn 奉公守法
-！Xxp 春兰秋菊
-！Y 邦 帮忙
-！Y.J 奉陪到底
-！Y:u 帮忙
-！Y<X 帮办
-！Y?x 帮补
-！Y?z 帮衬
-！YBp 邦迪
-！YFR 邦联
-！YG? 帮顶
-！YHI 帮腔
-！YIo 帮闲
-！YO, 帮主
-！YOO 预防为主
-！YQ 帮
-！YQT 帮着
-！YSg 帮工
-！YUo 帮困
-！YZh 邦交
-！YZz 帮她
-！YaL 帮您
-！Yaq 帮佣
-！Yaz 帮他
-！Yf 艳阳天
-！YfT 艳阳天
-！Yfp 青出于蓝而胜于蓝 青出于蓝
-！YhC 帮带
-！Yid 帮扶
-！Yio 帮手
-！Yj 邦
-！YlF 帮凶
-！Yny 帮派
-！Yq< 帮助
-！YqF 帮教
-！YrN 帮会
-！Yrr 帮人
-！Ysw 艳阳高照
-！Yy！ 帮厨
-！Y！Y 帮帮
-！Z 秦始皇
-！Z/F 静如处子
-！Zd, 秦始皇
-！Zoo 艳如桃李
-！a 婺 责任感
-！a/ 骛
-！a: 责任心
-！a:u 帮倒忙
-！a:x 责任心
-！a;f 责任感
-！aA 责任书
-！aAA 责任书
-！aB 蝥
-！aD 责任田
-！aDt 责任田
-！aRM 责任编辑
-！aT 瞀
-！aW 责任区
-！aWl 责任区
-！aX 鹜
-！aZ 婺
-！af/ 责任事故
-！am 责任制
-！amQ 责任制
-！ar 责任人
-！arN 预付款
-！arr 责任人
-！axj 春华秋实
-！ay/ 婺剧
-！az 鍪
-！b 奏鸣曲
-！bFq 奏鸣曲
-！bX 表兄弟
-！bXP 表兄弟
-！c 表面上
-！cAf 素面朝天
-！cKP 青面獠牙
-！ca 表面化
-！cah 表面化
-！cou 素不相识
-！cvS 表面文章
-！cx 表面积
-！cxb 表面积
-！cxf 表面上
-！d 豆 豆腐
-！d.P 豆包
-！d:F 豆乳
-！d<< 豆瓣
-！d?S 豆浆
-！dFi 豆子
-！dJa 豆腐
-！dKE 豆蔻
-！dRC 豆绿
-！dX 秦皇岛
-！dX< 秦皇岛
-！dZT 豆奶
-！dfX 豆饼
-！dnB 豆油
-！dnE 豆沙
-！dne 豆汁
-！dnf 秦皇汉武
-！dno 豆渣
-！dpP 豆芽
-！dpa 豆花
-！dpd 豆荚
-！drT 豆类
-！dra 豆粉
-！drd 豆粕
-！e 预见性
-！e:G 预见性
-！f 丰 丰富
-！f.? 丰硕
-！f.d 丰碑
-！f:F 丰乳
-！f:o 丰采
-！f:z 静下心来
-！f;A 丰盛
-！f<P 奏凯
-！f?L 丰裕
-！fAN 奉天承运
-！fBb 丰台
-！fCy 丰产
-！fDt 丰田
-！fEZ 丰姿
-！fH. 丰胸
-！fH? 丰腴
-！fKr 丰年
-！fLZ 秦晋之好
-！fQT 丰美
-！fS. 丰韵
-！fSe 奏章
-！fT 奏
-！fTv 丰盈
-！fWE 奏乐
-！fWa 丰收
-！fY? 丰顺
-！fYF 奏出
-！fZh 奏效
-！fbq 奏响
-！fdw 青天白日
-！ffU 丰饶
-！fi/ 奏折
-！fjS 丰实
-！fjf 丰富
-！fnI 丰润
-！fnf 丰沛
-！fnp 丰满
-！fnt 丰沃
-！fp; 丰茂
-！fqY 丰都
-！fsu 丰足
-！fyw 丰厚
-！g 鬲
-！h 寿比南山
-！he< 寿比南山
-！hqO 予以考虑
-！i 奉 奉献
-！iAn 奉承
-！iGX 奉赠
-！iNP 奉祀
-！iO< 奉为
-！iQO 奉养
-！iRp 奉送
-！iWY 奉迎
-！iWv 奉贤
-！iXB 奉公
-！iYC 奉陪
-！icp 奉还
-！ieF 奉献
-！igx 奉行
-！ihw 奉旨
-！ikb 奉命
-！imb 奉告
-！io 奉
-！iv< 奉劝
-！ixf 奉上
-！j 豌 丰富多彩
-！jS: 丰富多彩
-！jY 豌
-！jfL 春宵一刻
-！j！d 豌豆
-！k 矜 矜持
-！kTE 矜夸
-！kiV 矜持
-！kj 矜
-！k！ 青霉素
-！k！R 青霉素
-！m 矛 矛盾
-！mST 矛头
-！mb 豆制品
-！mbm 豆制品
-！mj 预选赛
-！mjh 预选赛
-！mye 矛盾
-！n 泰 泰国
-！n<s 泰山
-！nBp 泰迪
-！nDd 泰斗
-！nE 青海省
-！nEt 青海省
-！nHK 泰然
-！nRi 泰拳
-！nTp 泰达
-！nU, 泰国
-！nVw 泰坦
-！nYY 泰州
-！nj 表演赛
-！njZ 泰安
-！njh 表演赛
-！nnn 静水流深
-！nom 泰森
-！ns 泰
-！ntx 泰西
-！o 柔 柔软
-！o:G 柔性
-！o:！ 柔情
-！oDu 柔韧
-！oF 幻想曲
-！oFq 幻想曲
-！oHA 柔肠
-！oM: 柔软
-！oPS 柔弱
-！oQT 柔美
-！oRD 柔细
-！oXg 柔道
-！oY? 柔顺
-！oZC 柔嫩
-！oZj 柔婉
-！oZy 柔媚
-！oah 柔化
-！oc/ 青梅竹马
-！om 柔
-！omf 秦楼楚馆
-！onI 柔润
-！onq 柔滑
-！ory 柔声
-！oxb 柔和
-！p 逗 逗比
-！p,p 逗弄
-！p:D 逗留
-！pNw 奉若神明
-！pPc 逗引
-！pb; 逗哏
-！pbf 逗号
-！pc 逗
-！pct 逗笑
-！phh 逗比
-！po 预警机
-！poq 预警机
-！pr 麦芽糖
-！prJ 麦芽糖
-！psy 青藏高原
-！pxH 春花秋月
-！q 春风得意
-！qak 春风化雨
-！qgS 春风得意
-！qnc 春风满面
-！r 融会贯通
-！rH 麦粒肿
-！rHb 麦粒肿
-！rIB 融会贯通
-！u 熬 熬夜
-！u.P 敖包
-！u.W 熬到
-！u/ 骜
-！u: 恝
-！u; 熬
-！uB 螯
-！uBr 赘肉
-！uF 聱
-！uFZ 契丹
-！uG 赘
-！uK 獒
-！uL 鳌
-！uR. 契约
-！uST 鳌头
-！uT 契
-！uXH 熬煎
-！uZC 赘婿
-！uZa 熬夜
-！ua 敖
-！uh. 熬磨
-！ui 挈
-！uiy 契据
-！ukh 契合
-！umQ 熬制
-！un< 遨游
-！unA 熬汤
-！uoO 赘述
-！uoq 契机
-！up 遨
-！upR 熬药
-！uuy 赘言
-！uxX 契税
-！uz 鏊
-！uzp 熬过
-！v 予 予以
-！vdG 静观其变
-！vhr 予以
-！vn 毒鸡汤
-！vnA 毒鸡汤
-！vrr 予人
-！w 春 春天
-！w,h 春耕
-！w:x 春心
-！w:！ 春情
-！w?/ 春夏
-！w?G 素昧平生
-！w?r 春装
-！wB 蠢
-！wCB 蠢蛋
-！wFR 春联
-！wKP 春熙
-！wKq 蠢猪
-！wLT 春色
-！wN< 蠢动
-！wNp 春运
-！wRY 春卷
-！wS: 春意
-！wV; 春城
-！waf 春分
-！wah 蠢货
-！way 春假
-！wcl 春笋
-！wcn 蠢笨
-！wfT 春天
-！wfb 蠢事
-！wit 春播
-！wjE 春宵
-！wjb 春宫
-！wjh 春寒
-！wkC 春雪
-！wkD 春雷
-！wkv 春雨
-！wmS 春梦
-！wn< 春游
-！wnA 春潮 春汛
-！wns 春水
-！woe 蠢材
-！wpR 春药
-！wpY 春节
-！wpa 春花
-！wpf 春暖花开
-！wpk 春蕾
-！wql 春风
-！wr 春
-！wrr 蠢人
-！wuY 春训
-！wug 蠢话
-！wwA 春晚
-！wwC 春晖
-！wwU 春晓
-！wwr 春日
-！wx; 春秋
-！wxF 春季
-！wxb 春种
-！wxg 春光
-！x 秦 秦国
-！x,w 秦王
-！x<k 秦岭
-！xAH 秦朝
-！xCM 秦军
-！xHI 秦腔
-！xT 青光眼
-！xT; 青光眼 春秋鼎盛
-！xTm 春秋大梦
-！xU 幼稚园
-！xU, 秦国
-！xUE 幼稚园
-！xUU 春秋战国
-！xYc 秦川
-！xaU 秦代
-！xcn 春秋笔法
-！xh 秦
-！xl 幼稚病
-！xlf 幼稚病
-！xn, 秦淮
-！xnv 秦汉
-！xor 秦桧
-！xwZ 春光明媚
-！xww 春和景明
-！y 幺 矛盾重重
-！ykk 矛盾重重
-！yqN 素质教育
-！z 寿 寿司
-！z; 焘
-！z<c 寿辰
-！zAf 寿司
-！zNA 寿礼
-！zYk 寿险
-！zYw 寿阳
-！zc 寿
-！zcC 寿筵
-！zcm 寿面
-！zha 责无旁贷
-！zjw 寿宴
-！zkb 寿命
-！zm 青铜器
-！zmK 青铜器
-！zoJ 寿桃
-！zoe 寿材
-！zuC 寿诞
-！zuc 素未谋面
-！zwG 寿星
-！zwa 青铜时代
-！！ 慧 青春期
-！！: 慧
-！！:x 慧心
-！！BH 慧能
-！！C 彗
-！！D 畿
-！！KE 青春年少
-！！Ka 青春年华
-！！LN 蠢蠢欲动
-！！ML 畿辅
-！！T; 慧眼
-！！V 静静地
-！！Vz 静静地
-！！dH 青春期
-！！eJ 慧黠
-！！l 青春痘
-！！l！ 青春痘
-！！n< 青春活力
-！！o; 慧根
-！！wG 彗星
+! 帮 表 表示
+!' 帮助
+!' 帮助
+!, 豫 豫剧
+!,fU 表现形式
+!,x 豫
+!,y/ 豫剧
+!. 砉
+!.s 砉
+!/ 麦 预处理
+!/,P 预处理
+!//J 麦克
+!//S 麦冬
+!/<b 麦加
+!/Dt 麦田
+!/Fi 麦子
+!/Hp 麸皮
+!/Op 麦片
+!/Pe 麦草
+!/Wa 麦收
+!/Y 预备队
+!/Y, 麦克阿瑟
+!/Yr 预备队
+!/d 麸
+!/dD 麦克斯韦
+!/g 预备役
+!/gT 预备役
+!/i 麦
+!/kA 麦霸
+!/nO 麦浪
+!/nU 麦酒
+!/pD 麦苗
+!/pP 麦芽
+!/ph 麦蒂
+!/pu 麦芒
+!/q 麦克风
+!/ql 麦克风
+!/ra 麦粉
+!/xJ 麦秸
+!/xf 麦穗
+!/xw 麦香
+!: 静悄悄
+!:/n 春心荡漾
+!::E 静悄悄
+!:an 柔情似水
+!:jS 柔情蜜意
+!; 豉 幻灯片
+!;Op 幻灯片
+!;i 豉
+!< 幼 幼儿
+!<?D 泰山北斗
+!<Bc 幼虫
+!<CP 幼童
+!<Dk 幼龄
+!<Do 幼果
+!<Ex 幼小
+!<Fi 幼子
+!<Je 幼儿
+!<Kr 幼年
+!<Rn 青山绿水
+!<Ul 幼龙
+!<Wf 幼师
+!<Zn 幼女
+!<an 幼体
+!<cq 青山不老
+!<l 幼
+!<ot 幼株
+!<ov 幼树
+!<pD 幼苗
+!<pP 幼芽
+!<qF 幼教
+!<wz 幼时
+!<x, 幼稚
+!<yG 泰山压顶
+!? 表 预测 预
+!?,b 预售
+!?,e 表现
+!?,x 表象
+!?/D 预备
+!?:D 预留
+!?:! 表情
+!?;f 预感
+!?;i 预支
+!??D 表舅
+!??r 预装
+!?Co 表亲
+!?Db 预知
+!?EA 预亏
+!?Fc 表册
+!?G. 预购
+!?Hp 表皮
+!?JS 预兆
+!?K 青壮年
+!?Kr 青壮年
+!?Nb 预祝
+!?Ns 表示 预示
+!?OA 预置
+!?Pl 表里
+!?R. 预约
+!?Rd 预缴
+!?S< 表功
+!?SW 表决
+!?Se 表彰
+!?Sk 预冷
+!?TO 表态
+!?Tp 表达
+!?VP 预埋
+!?Vt 表土
+!?W; 表盘
+!?Wa 预收
+!?Wc 预览
+!?XP 表弟
+!?Xi 预判
+!?Xw 表单
+!?Y< 预防
+!?Zh 预交
+!?Zq 表姐
+!?Zz 表妹
+!?Z! 表率
+!?a. 表侄
+!?a/ 预估
+!?az 预付
+!?bJ 表兄
+!?cT 预算
+!?cm 表面
+!?cy 表笔
+!?dH 预期
+!?db 表白
+!?ec 预存
+!?ej 预见
+!?gf 表征
+!?i 表
+!?iA 表扬
+!?iY 预报
+!?j 舂
+!?jC 预定
+!?jF 表字
+!?jZ 预案
+!?jh 预赛
+!?jw 预审
+!?ks 表露
+!?mJ 预先 预选
+!?mQ 预制
+!?mb 预告
+!?nG 预测
+!?nj 表演 预演
+!?oO 表述
+!?oT 预想
+!?oY 表格
+!?ok 预检
+!?pG 预警
+!?qf 预考
+!?r; 预热
+!?rD 预料
+!?sf 丰衣足食
+!?uG 预订
+!?uN 表语
+!?uT 预设
+!?ue 预计
+!?uo 预谋
+!?uy 预言
+!?wH 表明
+!?x/ 春夏秋冬
+!?xD 预科
+!?xx 表哥
+!?y 预
+!?yN 表层
+!?yR 预展
+!?yf 预后
+!?yx 预习
+!?zM 表链
+!?ze 表针
+!A 幻 幻想
+!A,x 幻象
+!A;G 幻灯
+!AC; 幻灵
+!AMe 幻觉
+!ANe 幻视
+!AVS 幻境
+!Aah 幻化
+!Ab/ 幻听
+!Ae 幻
+!Af; 幻灭
+!AoT 幻想
+!AoO 幻术
+!Aws 幻影
+!B 融 融资
+!BB 蟊
+!BBq 融通
+!BEG 融资
+!BF 幺蛾子
+!BFi 幺蛾子
+!BGU 蟊贼
+!BO< 融为
+!BVu 融入
+!Bah 融化
+!Bc 融
+!Bhp 融进
+!Bkh 融合
+!BnW 融汇
+!Bnk 融洽
+!BoL 鹬蚌相争
+!BrN 融会
+!Bxb 融和
+!C 预产期
+!CdH 预产期
+!E 青少年
+!EK 麦当劳
+!EKl 麦当劳
+!EKr 青少年
+!F 鹬 奉子成婚
+!F;Z 奉子成婚
+!FX 鹬
+!G 责 责任
+!G/D 责备
+!G:v 责怪
+!G;A 责成
+!GIb 责问
+!GOu 责罚
+!GRQ 责编
+!GaN 责任
+!Gb 责
+!GkO 责令
+!Gm/ 责骂
+!Gv, 责难
+!H 青 青年
+!H,O 青玉
+!H.s 青石
+!H/L 泰然处之
+!H:x 静心
+!H;G 青灯
+!H;U 青烟
+!H</ 青峰
+!H<s 青山
+!H?Z 靓妆
+!H?i 青衣
+!HBM 青蛙
+!HC 靛
+!HD: 静思
+!HEk 青瓷
+!HFP 静脉曲张
+!HFR 青联
+!HHO 静脉
+!HIh 青紫
+!HIi 静止
+!HKZ 青翠
+!HKr 青年
+!HKx 静卧
+!HLT 青色
+!HLv 青鱼
+!HMc 靓车
+!HNy 青云
+!HPe 青草
+!HQO 静养
+!HRC 青绿
+!HRE 青纱
+!HRR 青丝
+!HSg 青工
+!HSy 静音
+!HT; 青眼
+!HTO 静态
+!HTz 青睐
+!HUE 静园
+!HUd 静电
+!HUl 青龙
+!HV; 青城
+!HVA 静场
+!HX< 青岛
+!HXn 青鸟
+!HZA 靓妞
+!HZF 静好
+!HZa 静夜
+!HZn 靓女
+!HZz 靓妹
+!HaF 靓仔
+!Hac 静候
+!Hb/ 静听
+!Hbf 靓号
+!Hbl 青史
+!HcH 青筋
+!Hcu 青竹
+!Hdb 青白
+!He 靓
+!He; 青灰
+!HeK 静默
+!HfH 靓丽
+!HfR 柔肠百结
+!HfT 青天
+!Hgp 泰然自若
+!Hjx 静寂
+!Hl 静
+!Hm. 静物
+!HmV 静坐
+!HnK 青海
+!Hnu 青涩
+!HoK 青梅
+!HoX 青松
+!Hor 青楼
+!Hox 青椒
+!Hp. 青葱
+!Hp: 青菜
+!Hp; 青藏
+!HpB 青苔
+!HpD 青苗
+!HpM 青莲
+!Hps 青蒿
+!HqB 青县
+!Hu: 静谧
+!Hve 静观
+!Hwu 靓照
+!HxD 青稞
+!Hxd 静穆
+!Hxg 青光
+!Hy 青
+!HzF 青铜
+!H!H 静静
+!H!Y 青帮
+!H!d 青豆
+!H!w 青春
+!J 幼儿园
+!J: 豆腐乳
+!J:F 豆腐乳
+!J:x 豆腐心
+!J? 豆腐干
+!J?g 豆腐干
+!JH 豆腐脑
+!JHZ 豆腐脑
+!JHp 豆腐皮
+!JUE 幼儿园
+!Jn 豆腐渣
+!Jno 豆腐渣
+!K 翮 青年报
+!KKa 豆蔻年华
+!KU 青年团
+!KUe 青年团
+!KiY 青年报
+!Kp 青年节
+!KpY 青年节
+!Kr 青年人
+!Krr 青年人
+!Kv 翮
+!L 艳 艳丽
+!L:! 艳情
+!LDB 艳遇
+!LKh 艳舞
+!LNf 艳福
+!LQE 艳羡
+!LRS 艳红
+!LT 艳
+!LYw 艳阳
+!LZn 艳女
+!LaL 艳俗
+!Lbl 艳史
+!LfH 艳丽
+!LnU 春色满园
+!LuV 艳诗
+!LwG 艳星
+!Lwu 艳照
+!N 毒 毒品
+!N:G 毒性
+!N<C 毒辣
+!NAx 青云直上
+!NBc 毒虫
+!NBj 毒蛇
+!NDq 毒气
+!NEG 毒资
+!NGy 毒贩
+!NHd 毒腺
+!NJh 毒死
+!NKY 毒犯
+!NPe 毒草
+!NR 纛
+!NUl 毒龙
+!NXo 毒枭
+!Nah 毒化
+!Nbm 毒品
+!NcW 毒剂
+!NcX 毒箭
+!NfF 毒饵
+!Nfp 毒刑
+!Ngs 毒舌
+!Ni/ 毒誓
+!NiG 毒打
+!Nio 毒手
+!NjZ 毒案
+!Nj! 毒害
+!Nl: 毒瘤
+!NlY 毒瘾
+!Nlo 毒杀
+!Nm 毒
+!Nm. 毒物
+!NnU 毒酒
+!NnZ 毒液
+!NoF 毒刺
+!NpR 毒药
+!NpU 毒菌
+!Nue 毒计
+!Nuo 毒谋
+!Nze 毒针
+!N!R 毒素
+!O 融为一体
+!OMg 奉为圭臬
+!Ofa 融为一体
+!P 表里如一
+!PZf 表里如一
+!Pcf 表里不一
+!Pf. 表里一致
+!R 素 素质
+!R?r 素装
+!RCy 素颜
+!RHY 素服
+!RIb 素问
+!RJv 素餐
+!RLT 素色
+!RMQ 素常
+!RP, 素雅
+!RQO 素养
+!RQ 青纱帐
+!RQu 青纱帐
+!RSL 素净
+!RZn 素女
+!Rci 青黄不接
+!Rdd 青红皂白
+!ReH 素有
+!Rfj 寿终正寝
+!Rfs 素食
+!Rip 素描
+!RnB 素油
+!RnJ 素洁
+!RnM 素淡
+!RnU 素酒
+!Roe 素材
+!Rox 素朴
+!Rp: 素菜
+!Rr: 素志
+!RrZ 素数
+!Rs 素
+!RvX 素鸡
+!Rwr 素日
+!Ryd 素愿
+!Rye 素质
+!RzX 素来
+!S 豇 表决权
+!SFH 春意盎然
+!SI, 春意阑珊
+!Sa/ 丰功伟业
+!SaR 丰功伟绩
+!Sg 豇
+!Sov 表决权
+!Sr 表彰会
+!SrN 表彰会
+!Svj 表意文字
+!T 表达式
+!T<U 表达方式
+!TB< 表达能力
+!TUS 表达式
+!Te< 青眼有加
+!U 泰戈尔
+!ULE 泰戈尔
+!UTV 春回大地
+!Uxt 春困秋乏
+!V 春去秋来
+!Vxz 春去秋来
+!X 奉公守法
+!Xjn 奉公守法
+!Xxp 春兰秋菊
+!Y 邦 帮忙
+!Y.J 奉陪到底
+!Y:u 帮忙
+!Y<X 帮办
+!Y?x 帮补
+!Y?z 帮衬
+!YBp 邦迪
+!YFR 邦联
+!YG? 帮顶
+!YHI 帮腔
+!YIo 帮闲
+!YO, 帮主
+!YOO 预防为主
+!YQ 帮
+!YQT 帮着
+!YSg 帮工
+!YUo 帮困
+!YZh 邦交
+!YZz 帮她
+!YaL 帮您
+!Yaq 帮佣
+!Yaz 帮他
+!Yf 艳阳天
+!YfT 艳阳天
+!Yfp 青出于蓝而胜于蓝 青出于蓝
+!YhC 帮带
+!Yid 帮扶
+!Yio 帮手
+!Yj 邦
+!YlF 帮凶
+!Yny 帮派
+!Yq< 帮助
+!YqF 帮教
+!YrN 帮会
+!Yrr 帮人
+!Ysw 艳阳高照
+!Yy! 帮厨
+!Y!Y 帮帮
+!Z 秦始皇
+!Z/F 静如处子
+!Zd, 秦始皇
+!Zoo 艳如桃李
+!a 婺 责任感
+!a/ 骛
+!a: 责任心
+!a:u 帮倒忙
+!a:x 责任心
+!a;f 责任感
+!aA 责任书
+!aAA 责任书
+!aB 蝥
+!aD 责任田
+!aDt 责任田
+!aRM 责任编辑
+!aT 瞀
+!aW 责任区
+!aWl 责任区
+!aX 鹜
+!aZ 婺
+!af/ 责任事故
+!am 责任制
+!amQ 责任制
+!ar 责任人
+!arN 预付款
+!arr 责任人
+!axj 春华秋实
+!ay/ 婺剧
+!az 鍪
+!b 奏鸣曲
+!bFq 奏鸣曲
+!bX 表兄弟
+!bXP 表兄弟
+!c 表面上
+!cAf 素面朝天
+!cKP 青面獠牙
+!ca 表面化
+!cah 表面化
+!cou 素不相识
+!cvS 表面文章
+!cx 表面积
+!cxb 表面积
+!cxf 表面上
+!d 豆 豆腐
+!d.P 豆包
+!d:F 豆乳
+!d<< 豆瓣
+!d?S 豆浆
+!dFi 豆子
+!dJa 豆腐
+!dKE 豆蔻
+!dRC 豆绿
+!dX 秦皇岛
+!dX< 秦皇岛
+!dZT 豆奶
+!dfX 豆饼
+!dnB 豆油
+!dnE 豆沙
+!dne 豆汁
+!dnf 秦皇汉武
+!dno 豆渣
+!dpP 豆芽
+!dpa 豆花
+!dpd 豆荚
+!drT 豆类
+!dra 豆粉
+!drd 豆粕
+!e 预见性
+!e:G 预见性
+!f 丰 丰富
+!f.? 丰硕
+!f.d 丰碑
+!f:F 丰乳
+!f:o 丰采
+!f:z 静下心来
+!f;A 丰盛
+!f<P 奏凯
+!f?L 丰裕
+!fAN 奉天承运
+!fBb 丰台
+!fCy 丰产
+!fDt 丰田
+!fEZ 丰姿
+!fH. 丰胸
+!fH? 丰腴
+!fKr 丰年
+!fLZ 秦晋之好
+!fQT 丰美
+!fS. 丰韵
+!fSe 奏章
+!fT 奏
+!fTv 丰盈
+!fWE 奏乐
+!fWa 丰收
+!fY? 丰顺
+!fYF 奏出
+!fZh 奏效
+!fbq 奏响
+!fdw 青天白日
+!ffU 丰饶
+!fi/ 奏折
+!fjS 丰实
+!fjf 丰富
+!fnI 丰润
+!fnf 丰沛
+!fnp 丰满
+!fnt 丰沃
+!fp; 丰茂
+!fqY 丰都
+!fsu 丰足
+!fyw 丰厚
+!g 鬲
+!h 寿比南山
+!he< 寿比南山
+!hqO 予以考虑
+!i 奉 奉献
+!iAn 奉承
+!iGX 奉赠
+!iNP 奉祀
+!iO< 奉为
+!iQO 奉养
+!iRp 奉送
+!iWY 奉迎
+!iWv 奉贤
+!iXB 奉公
+!iYC 奉陪
+!icp 奉还
+!ieF 奉献
+!igx 奉行
+!ihw 奉旨
+!ikb 奉命
+!imb 奉告
+!io 奉
+!iv< 奉劝
+!ixf 奉上
+!j 豌 丰富多彩
+!jS: 丰富多彩
+!jY 豌
+!jfL 春宵一刻
+!j!d 豌豆
+!k 矜 矜持
+!kTE 矜夸
+!kiV 矜持
+!kj 矜
+!k! 青霉素
+!k!R 青霉素
+!m 矛 矛盾
+!mST 矛头
+!mb 豆制品
+!mbm 豆制品
+!mj 预选赛
+!mjh 预选赛
+!mye 矛盾
+!n 泰 泰国
+!n<s 泰山
+!nBp 泰迪
+!nDd 泰斗
+!nE 青海省
+!nEt 青海省
+!nHK 泰然
+!nRi 泰拳
+!nTp 泰达
+!nU, 泰国
+!nVw 泰坦
+!nYY 泰州
+!nj 表演赛
+!njZ 泰安
+!njh 表演赛
+!nnn 静水流深
+!nom 泰森
+!ns 泰
+!ntx 泰西
+!o 柔 柔软
+!o:G 柔性
+!o:! 柔情
+!oDu 柔韧
+!oF 幻想曲
+!oFq 幻想曲
+!oHA 柔肠
+!oM: 柔软
+!oPS 柔弱
+!oQT 柔美
+!oRD 柔细
+!oXg 柔道
+!oY? 柔顺
+!oZC 柔嫩
+!oZj 柔婉
+!oZy 柔媚
+!oah 柔化
+!oc/ 青梅竹马
+!om 柔
+!omf 秦楼楚馆
+!onI 柔润
+!onq 柔滑
+!ory 柔声
+!oxb 柔和
+!p 逗 逗比
+!p,p 逗弄
+!p:D 逗留
+!pNw 奉若神明
+!pPc 逗引
+!pb; 逗哏
+!pbf 逗号
+!pc 逗
+!pct 逗笑
+!phh 逗比
+!po 预警机
+!poq 预警机
+!pr 麦芽糖
+!prJ 麦芽糖
+!psy 青藏高原
+!pxH 春花秋月
+!q 春风得意
+!qak 春风化雨
+!qgS 春风得意
+!qnc 春风满面
+!r 融会贯通
+!rH 麦粒肿
+!rHb 麦粒肿
+!rIB 融会贯通
+!u 熬 熬夜
+!u.P 敖包
+!u.W 熬到
+!u/ 骜
+!u: 恝
+!u; 熬
+!uB 螯
+!uBr 赘肉
+!uF 聱
+!uFZ 契丹
+!uG 赘
+!uK 獒
+!uL 鳌
+!uR. 契约
+!uST 鳌头
+!uT 契
+!uXH 熬煎
+!uZC 赘婿
+!uZa 熬夜
+!ua 敖
+!uh. 熬磨
+!ui 挈
+!uiy 契据
+!ukh 契合
+!umQ 熬制
+!un< 遨游
+!unA 熬汤
+!uoO 赘述
+!uoq 契机
+!up 遨
+!upR 熬药
+!uuy 赘言
+!uxX 契税
+!uz 鏊
+!uzp 熬过
+!v 予 予以
+!vdG 静观其变
+!vhr 予以
+!vn 毒鸡汤
+!vnA 毒鸡汤
+!vrr 予人
+!w 春 春天
+!w,h 春耕
+!w:x 春心
+!w:! 春情
+!w?/ 春夏
+!w?G 素昧平生
+!w?r 春装
+!wB 蠢
+!wCB 蠢蛋
+!wFR 春联
+!wKP 春熙
+!wKq 蠢猪
+!wLT 春色
+!wN< 蠢动
+!wNp 春运
+!wRY 春卷
+!wS: 春意
+!wV; 春城
+!waf 春分
+!wah 蠢货
+!way 春假
+!wcl 春笋
+!wcn 蠢笨
+!wfT 春天
+!wfb 蠢事
+!wit 春播
+!wjE 春宵
+!wjb 春宫
+!wjh 春寒
+!wkC 春雪
+!wkD 春雷
+!wkv 春雨
+!wmS 春梦
+!wn< 春游
+!wnA 春潮 春汛
+!wns 春水
+!woe 蠢材
+!wpR 春药
+!wpY 春节
+!wpa 春花
+!wpf 春暖花开
+!wpk 春蕾
+!wql 春风
+!wr 春
+!wrr 蠢人
+!wuY 春训
+!wug 蠢话
+!wwA 春晚
+!wwC 春晖
+!wwU 春晓
+!wwr 春日
+!wx; 春秋
+!wxF 春季
+!wxb 春种
+!wxg 春光
+!x 秦 秦国
+!x,w 秦王
+!x<k 秦岭
+!xAH 秦朝
+!xCM 秦军
+!xHI 秦腔
+!xT 青光眼
+!xT; 青光眼 春秋鼎盛
+!xTm 春秋大梦
+!xU 幼稚园
+!xU, 秦国
+!xUE 幼稚园
+!xUU 春秋战国
+!xYc 秦川
+!xaU 秦代
+!xcn 春秋笔法
+!xh 秦
+!xl 幼稚病
+!xlf 幼稚病
+!xn, 秦淮
+!xnv 秦汉
+!xor 秦桧
+!xwZ 春光明媚
+!xww 春和景明
+!y 幺 矛盾重重
+!ykk 矛盾重重
+!yqN 素质教育
+!z 寿 寿司
+!z; 焘
+!z<c 寿辰
+!zAf 寿司
+!zNA 寿礼
+!zYk 寿险
+!zYw 寿阳
+!zc 寿
+!zcC 寿筵
+!zcm 寿面
+!zha 责无旁贷
+!zjw 寿宴
+!zkb 寿命
+!zm 青铜器
+!zmK 青铜器
+!zoJ 寿桃
+!zoe 寿材
+!zuC 寿诞
+!zuc 素未谋面
+!zwG 寿星
+!zwa 青铜时代
+!! 慧 青春期
+!!: 慧
+!!:x 慧心
+!!BH 慧能
+!!C 彗
+!!D 畿
+!!KE 青春年少
+!!Ka 青春年华
+!!LN 蠢蠢欲动
+!!ML 畿辅
+!!T; 慧眼
+!!V 静静地
+!!Vz 静静地
+!!dH 青春期
+!!eJ 慧黠
+!!l 青春痘
+!!l! 青春痘
+!!n< 青春活力
+!!o; 慧根
+!!wG 彗星
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
