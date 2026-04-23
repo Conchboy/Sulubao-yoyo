@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -967,24 +967,78 @@ namespace Core.Win
                         goto lastGO;
                     }
                     keystring = Input.CheckKeysString(keyData);
+                    
+                    // 检查是否处于Shift英文输入模式
+                    if (Input.IsShiftEnglishMode)
+                    {
+                        // 处理回车键，退出Shift英文输入模式
+                        if (keyData == Keys.Enter)
+                        {
+                            Input.IsShiftEnglishMode = false;
+                            Input.IsFirstCharInShiftMode = true;
+                            // 发送回车键
+                            InputStatusFrm.SendText("\r", "", Input.IsChinese == 2);
+                            return 1;
+                        }
+                        
+                        // 处理空格
+                        if (keyData == Keys.Space)
+                        {
+                            InputStatusFrm.SendText(" ", "", Input.IsChinese == 2);
+                            return 1;
+                        }
+                        
+                        // 处理其他按键
+                        if (keystring.Length > 0)
+                        {
+                            // 处理首字母大写
+                            string outputStr = keystring;
+                            if (Input.IsFirstCharInShiftMode)
+                            {
+                                outputStr = outputStr.ToUpper();
+                                Input.IsFirstCharInShiftMode = false;
+                            }
+                            
+                            // 无论是否有候选，都发送字母
+                            InputStatusFrm.SendText(outputStr, "", Input.IsChinese == 2);
+                            return 1;
+                        }
+                    }
+                    
                     if (Input.IsPressShift)
                         {
                             if (keystring.Length > 0)
                             {
-                                if (InputStatus.inputstr.Length > 0 && !InputStatusFrm.LSView)
+                                if (Input.IsChinese == 1 && !Input.IsShiftEnglishMode)
                                 {
-                                    // 只有候选没有上屏时（LSView == false），先上屏首选，然后发送字母
-                                    InputStatus.ShangPing(1);
-                                    InputStatus.Clear();
+                                    // 中文状态下按下Shift键，进入Shift英文输入模式
+                                    Input.IsShiftEnglishMode = true;
+                                    Input.IsFirstCharInShiftMode = true;
+                                    
+                                    if (InputStatus.inputstr.Length > 0 && !InputStatusFrm.LSView)
+                                    {
+                                        // 只有候选没有上屏时（LSView == false），先上屏首选，然后发送字母
+                                        InputStatus.ShangPing(1);
+                                        InputStatus.Clear();
+                                    }
+                                    else if (InputStatus.inputstr.Length > 0 && InputStatusFrm.LSView)
+                                    {
+                                        // 当已经上屏但候选框还在时（LSView == true），只发送字母，不上屏首选
+                                        // 清空输入缓存，避免后续选重操作有问题
+                                        InputStatus.Clear();
+                                    }
                                 }
-                                else if (InputStatus.inputstr.Length > 0 && InputStatusFrm.LSView)
+                                
+                                // 处理首字母大写
+                                string outputStr = keystring;
+                                if (Input.IsShiftEnglishMode && Input.IsFirstCharInShiftMode)
                                 {
-                                    // 当已经上屏但候选框还在时（LSView == true），只发送字母，不上屏首选
-                                    // 清空输入缓存，避免后续选重操作有问题
-                                    InputStatus.Clear();
+                                    outputStr = outputStr.ToUpper();
+                                    Input.IsFirstCharInShiftMode = false;
                                 }
+                                
                                 // 无论是否有候选，都发送字母
-                                InputStatusFrm.SendText(keystring, "", Input.IsChinese == 2);
+                                InputStatusFrm.SendText(outputStr, "", Input.IsChinese == 2);
                                 return 1;
                             }
                             goto lastGO;
@@ -1053,7 +1107,12 @@ namespace Core.Win
                         )
                     {
                         openTSKey = true;
-                        Input.IsPressShift = false;
+                        if (keyData == Keys.RShiftKey || keyData == Keys.LShiftKey)
+                        {
+                            Input.IsPressShift = false;
+                            // 保持Shift英文输入模式，直到按下回车键
+                            // Input.IsShiftEnglishMode 保持不变
+                        }
 
                         if (InputStatus.inputstr.Length > 0 || InputStatusFrm.Dream)
                         {
@@ -3267,6 +3326,17 @@ namespace Core.Win
                 InputStatusFrm.Dream = false; 
                 InputStatusFrm.LastLinkString = string.Empty;
                 InputStatus.Clear();
+                // 重置Shift英文输入模式状态
+                Input.IsShiftEnglishMode = false;
+                Input.IsFirstCharInShiftMode = true;
+                // 重置其他状态
+                Input.IsPressShift = false;
+                Input.IsPressAlt = false;
+                Input.IsPressWin = false;
+                Input.IsPressCtrl = false;
+                Input.IsPressLAlt = false;
+                Input.IsPressRAlt = false;
+                Input.IsPresAltPos = 0;
                 this.ShowWindow();
                 if (InputMode.imgsend)
                     ImageInput.ShowWindow();
@@ -3276,6 +3346,17 @@ namespace Core.Win
             {
                 InputStatusFrm.Dream = false; InputStatusFrm.LastLinkString = string.Empty;
                 InputStatus.Clear();
+                // 重置Shift英文输入模式状态
+                Input.IsShiftEnglishMode = false;
+                Input.IsFirstCharInShiftMode = true;
+                // 重置其他状态
+                Input.IsPressShift = false;
+                Input.IsPressAlt = false;
+                Input.IsPressWin = false;
+                Input.IsPressCtrl = false;
+                Input.IsPressLAlt = false;
+                Input.IsPressRAlt = false;
+                Input.IsPresAltPos = 0;
                 InputStatus.Hide();
                 ImageInput.Hide();
                 this.HideWindow();
