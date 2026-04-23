@@ -900,7 +900,6 @@
 ,ed 现在的
 ,ed. 现在的
 ,eeH 现有
-,eeV 再见黑塔
 ,eec 现在 现存
 ,efp 现形
 ,efx 现下
@@ -6725,11 +6724,11 @@
 ;AsE 成就
 ;AsF 成熟
 ;Asl 成了
+;Auc 成长
 ;Au? 盛评
 ;AuN 成语
 ;AuO 成议
 ;AuX 成说
-;Auc 成长
 ;Avz 成对
 ;Avf 成斌
 ;Avw 成文
@@ -10819,7 +10818,7 @@
 ?b/l 衰落
 ?b:N 哀恸
 ?b:k 哀怜
-?b:x 哀悼 衷心
+?b:x 衷心 哀悼
 ?b:! 衷情
 ?b;p 衰退
 ?b;x 哀戚
@@ -14275,7 +14274,7 @@ Bnah 内化
 BnbJ 内兄
 Bne 内在
 BneH 内有
-Bnec 内存 内在
+Bnec 内在 内存
 Bnex 内乡
 BnfD 内画
 BnfI 内政
@@ -23979,6 +23978,7 @@ IIif 频段
 IIiu 登门拜访
 IIj: 频密
 IIk 颦
+III 躲躲闪闪
 IImM 闭门造车
 IInG 步测
 IInV 步法
@@ -24757,8 +24757,8 @@ Ihuy 此言
 IhvX 柴鸡
 Ihvm 柴桑
 Ihvw 此文
-Ihww 紫晶
 Ihwz 此时
+Ihww 紫晶
 Ihxb 此种
 Ihxg 紫光
 Ihyf 此后
@@ -25872,7 +25872,7 @@ JW?/ 烈夏
 JWDo 裂果
 JWDr 裂界
 JWGv 裂变
-JWJR 列席 烈度
+JWJR 烈度 列席
 JWLu 裂解
 JWMc 列车
 JWNG 烈魂
@@ -33465,8 +33465,8 @@ Oiem 虚拟存储器
 OijV 虚拟实境
 Oilt 置换群
 Oioq 虚拟机
-Oir/ 虚拟企业
 Oirr 主持人 虚拟人
+Oir/ 虚拟企业
 Oix/ 虚拟光驱
 Oj 甲 甲醛
 Oj.; 甲碱
@@ -34381,7 +34381,7 @@ PTPY 莫邪
 PTPb 慕强
 PTQ 幕
 PTRr 摹绘
-PTSb 慕名 莫名
+PTSb 莫名 慕名
 PTTd 莫大
 PTUE 墓园
 PTV 墓
@@ -36429,7 +36429,6 @@ Q!G 帻
 Q!z 帱
 R 线 给 世界
 R' 关注
-R' 关注
 R, 维 维护
 R,,G 黄玫瑰 红玫瑰
 R,,Y 红玛瑙
@@ -36574,6 +36573,7 @@ R/wr 终日
 R/yA 终局
 R/!j 经验丰富
 R7 关于
+R0 经济
 R: 缓 缓解
 R:/. 关怀备至
 R::w 缓慢
@@ -37193,9 +37193,9 @@ RJ:o 结彩
 RJ;A 结成
 RJ? 缬
 RJAO 缠丸
+RJCs 结束
 RJCm 散裂产物
 RJCo 结亲
-RJCs 结束
 RJDo 结果
 RJDr 结界
 RJEJ 黄喜元
@@ -39284,8 +39284,8 @@ RuyA 统计局
 Ruzi 统计链段
 Ru! 统计表
 Ru!? 统计表
-Rv 经 经济
-Rv,P 经理 纹理
+Rv 经 经理
+Rv,P 纹理 经理 
 Rv,b 经售
 Rv/k 经验
 Rv:G 经贸
@@ -39303,8 +39303,8 @@ RvJR 经度
 RvKb 经营
 RvL< 缚鸡之力
 RvLO 经久
-RvMF 经学
 RvMQ 经常
+RvMF 经学
 RvPG 经费
 RvQC 经幢
 RvRD 经纬
@@ -39351,9 +39351,9 @@ Rvx; 纹秋
 RvxZ 经委
 Rvy< 经历
 RvyT 纹眉
+Rvzp 经过
 Rvz; 纹银
 RvzE 经销
-Rvzp 经过
 Rw 昔 昔日
 Rw,k 黄景瑜
 Rw<L 结晶岩壳蟹
@@ -40328,10 +40328,10 @@ SVw< 凌晨
 SVyO 凌迟
 SVyf 凌厉
 SVz, 凌锥
+SWDd 决斗
 SW 决 决定
 SW:b 意匠惨澹经营中
 SW:x 决心
-SWDd 决斗
 SWEt 多乐省
 SWHG 决胜
 SWHK 决然
@@ -40872,8 +40872,8 @@ Sgrx 工余
 Sguc 工长
 Sgue 工读
 Sguw 工亡
-Sgwr 工日
 Sgwz 工时
+Sgwr 工日
 SgxD 工科
 SgxL 工稳
 SgxZ 工委
@@ -41406,7 +41406,7 @@ Swrr 外星人
 Swup 音量调节
 SwzU 外景锚点
 Swze 巩昌镇
-Sx 外部 夕
+Sx 夕 外部
 Sx./ 外码
 Sx.P 外包
 Sx/ 工程兵
@@ -48810,6 +48810,7 @@ XBFl 公网
 XBHK 公然
 XBIj 公祭
 XBK 翁
+XBj 公案
 XBKb 公营
 XBKq 公猪
 XBME 公转
@@ -49827,8 +49828,8 @@ XgkO 首领
 Xglq 叛乱病动者
 XgmJ 首先 首选
 Xgmb 首告
-Xgn 单行本
 XgnV 道法
+Xgn 单行本
 Xgnb 单行本
 Xgne 道德沦丧
 Xgnj 首演
@@ -51121,9 +51122,9 @@ YFxq 出租
 YFyA 出局
 YFyR 出展
 YFyc 出厂
+YFzX 出来
 YFzR 出错
 YFzS 出镜
-YFzX 出来
 YFzb 出锅
 YFzf 出钱
 YFzp 出过
@@ -53028,7 +53029,7 @@ Z/Nq 妈祖
 Z/P 好处费
 Z/PG 好处费
 Z/Z 姑姑
-Z/Z/ 妈妈 姑姑 姑妈
+Z/Z/ 姑姑 妈妈 姑妈
 Z/Z? 姑嫂
 Z/ZO 姑娘
 Z/br 妈咪
@@ -54820,7 +54821,7 @@ Z!!H 玄青
 `N 奶奶
 `C 那不
 `E 那次 哪次
-`H 怎样的
+`H 怎样
 `I 那些 这些
 `M 那么 这么
 `O 那样 这样
@@ -54845,7 +54846,7 @@ Z!!H 玄青
 `t 那么 这么
 `w 那是 这是
 `x 那种 这种
-`n 你的的
+`n 你的
 `w 我的
 a 你 他
 a' 你们 分类
@@ -55184,8 +55185,8 @@ a;ue 伙计
 a;ws 盆景
 a;xb 伙种
 a< 仿佛 仙
-a<,I 仙山琼阁
 a<, 催
+a<,I 仙山琼阁
 a<.s 仙石
 a</g 仿古
 a</m 伽马
@@ -59495,7 +59496,7 @@ bAuO 嘲谑
 bAuq 嘲讽
 bAxb 哪种
 bAzX 哪来
-bB 虽然 虽
+bB 虽 虽然
 bB/ 唆
 bB:X 中通快递
 bBCw 中邮速递易
@@ -63085,11 +63086,11 @@ cbrA 不断
 cbrD 不料
 cbrN 不会
 cbrg 不舍 符号执行
+cbsu 不足
 cbsF 不熟
 cbsg 不高
 cbsj 不及
 cbsl 不了
-cbsu 不足
 cbtL 不乏
 cbtZ 不要
 cbtd 不失 不迭
@@ -64343,8 +64344,8 @@ d,xf 皇上
 d,y< 皇历
 d,yf 皇后
 d. 的话
-d..I 基础研究
 d..L 的确
+d..I 基础研究
 d.: 基础性
 d.:G 基础性
 d.<o 基础架构
@@ -66469,8 +66470,8 @@ eB:G 雄性
 eB:x 雄心
 eB;f 雄威
 eB;j 雄烷
-eB<B 雄峻
 eB<l 有能力
+eB<B 雄峻
 eB<u 雄辩
 eB?r 雄壮
 eBAl 雄鹿
@@ -67135,8 +67136,8 @@ eTfU 真武
 eTfo 颠末
 eTfp 真刑
 eTgw 真得
-eTjL 真容
 eTjS 真实
+eTjL 真容
 eTlF 真凶
 eTnf 颠沛
 eTnq 真滑
@@ -68396,7 +68397,7 @@ f/!N 恶毒
 f7 一下
 f8 一起
 f9 一直
-f0 政治
+f0 政策 政治
 f: 饮 饮食
 f:,f 开心球
 f:/m 饮马
@@ -69029,10 +69030,10 @@ fILS 天空之脊
 fILT 正色
 fILa 天空之傲
 fILu 天空之刃
+fIMQ 正常
 fIMA 正轨
 fIMJ 政党
 fIMP 一身转战三千里
-fIMQ 正常
 fIMa 天空软件
 fIN; 天穹祈灯
 fINe 正视
@@ -70630,8 +70631,8 @@ fiwr 一日
 fiws 正投影
 fiwx 一晃
 fiwz 一时
-fixE 一秒
 fixb 一种
+fixE 一秒
 fixf 一叔
 fiyO 一尺
 fiym 一毛
@@ -72871,10 +72872,10 @@ giG: 自恋
 giGe 自赎
 giHK 自然
 giHT 自肥
+giIs 自身
 giIb 自问
 giIe 自闭
 giIh 自此
-giIs 自身
 giJf 自残
 giJj 德拉吉
 giJ! 自序
@@ -80544,10 +80545,10 @@ jZfe 安于
 jZgR 安徽
 jZg: 安息
 jZgp 安适
+jZit 安排
 jZiC 安努拉
 jZiZ 安抵
 jZik 安插
-jZit 安排
 jZiz 安抚
 jZj? 安寝
 jZjC 安定
@@ -86844,8 +86845,8 @@ nCJR 深度 浓度
 nCJW 浓烈
 nCJZ 沉底
 nCJg 深广
-nCLT 深色
 nCLW 深刻
+nCLT 深色
 nCM 浑
 nCN 法新社
 nCNV 法新社
@@ -86895,6 +86896,7 @@ nCeH 浓郁 深有 沉郁
 nCeK 沉默
 nCf 泻
 nCg 涎
+nCV 沉入
 nCgl 深律
 nCgw 深得
 nCh/ 沾亲带故
@@ -94587,8 +94589,8 @@ ovFl 树网
 ovG? 树顶
 ovGu 相对亦忘言
 ovGv 权变
-ovHZ 树胶
 ovHh 树脂
+ovHZ 树胶
 ovHp 树皮
 ovIm 权门
 ovIs 树身
@@ -100922,9 +100924,9 @@ rrEc 人次
 rrFR 人联
 rrFZ 人丹
 rrFi 人子
+rrGs 人生
 rrGd 人丁
 rrGp 人迹
-rrGs 人生
 rrGy 人贩
 rrHH 舒舒服服
 rrHO 人脉
@@ -103100,12 +103102,12 @@ tDnu 蜚短流长
 tDqB 西畴县
 tDtM 西气东输
 tE 东 东西
+tE<p 东边
 tE, 朱元璋
 tE,S 朱元璋
 tE/H 东胡
 tE/l 东落
 tE<f 东方
-tE<p 东边
 tE<s 东山
 tE<y 东岸
 tE?h 东北
@@ -105801,10 +105803,10 @@ uXry 说声
 uXsl 说了
 uXtR 谱系
 uXtZ 说要
+uXug 说话
 uXu 谫
 uXuA 谦词
 uXuD 说课
-uXug 说话
 uXup 说谎
 uXux 谦让
 uXvU 说戏
@@ -106235,7 +106237,7 @@ udvO 刀叉
 udxg 刀光
 udz/ 刀锋
 udze 长泉镇
-ue 计划 读
+ue 读 计划
 ue.H 读破
 ue.R 读碟
 ue.W 读到
@@ -108627,7 +108629,7 @@ w?rX 旱伞
 w?sY 旱路
 w?x: 旱稻
 w?xF 旱季
-wA 晚 晚上
+wA 晚上 晚
 wA,W 晚班
 wA.W 晚到
 wA/p 晚近
@@ -110532,8 +110534,8 @@ wzIS 时空
 wzIw 时间
 wzJM 时库
 wzJ! 时序
-wzLQ 时鲜
 wzLW 时刻
+wzLQ 时鲜
 wzMQ 时常
 wzMs 时尚
 wzNM 时来运转
@@ -111863,10 +111865,10 @@ xfCU 上站
 xfCb 上部
 xfCy 卡颜
 xfDr 上界
+xfEc 上一次 上次
 xfE 上一次
 xfEC 上当
 xfEJ 上元
-xfEc 上一次 上次
 xfEq 卡壳
 xfFJ 上周
 xfFR 上联
@@ -116627,6 +116629,7 @@ zpaf 过分
 zpb 锘
 zpbR 镜花听世
 zpc 过
+zps 过节了
 zpdA 过甚
 zpdH 过期
 zpeh 铬蓝黑
@@ -117241,9 +117244,9 @@ zxxV 过香积寺
 zxyt 无可厚非 未可厚非
 zx!e 无私奉献
 zx!m 无可奉告
+zy/o 锯条
 zy 也 也有
 zy/ 锯
-zy/o 锯条
 zy: 镢
 zy:G 金属性
 zy:W 也快
@@ -117611,6 +117614,7 @@ z!zt 铸铁
 !?xD 预科
 !?xx 表哥
 !?y 预
+!?N 预示
 !?yN 表层
 !?yR 预展
 !?yf 预后
@@ -118334,31 +118338,6 @@ z!zt 铸铁
 !!n< 青春活力
 !!o; 慧根
 !!wG 彗星
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
