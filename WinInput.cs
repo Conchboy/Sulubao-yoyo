@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -325,6 +325,9 @@ namespace Core.Win
             Input.mapstr2 = string.IsNullOrEmpty(SetInfo.GetValue("rightkeys", setting))
                        ? "yhn7ujm8ik,9ol.0p;/-['=]"
                        : SetInfo.GetValue("rightkeys", setting);
+            // 加载候选框位置
+            InputStatus.Left = string.IsNullOrEmpty(SetInfo.GetValue("InputStatusLeft", setting)) ? 0 : int.Parse(SetInfo.GetValue("InputStatusLeft", setting));
+            InputStatus.Top = string.IsNullOrEmpty(SetInfo.GetValue("InputStatusTop", setting)) ? 0 : int.Parse(SetInfo.GetValue("InputStatusTop", setting));
             try
             {
                 InputMode.outtype = string.IsNullOrEmpty(SetInfo.GetValue("outtype", setting)) ? 0 : int.Parse(SetInfo.GetValue("outtype", setting));
@@ -478,6 +481,8 @@ namespace Core.Win
             set.Add("ViewType=" + InputMode.ViewType);
             set.Add("leftkeys=" + Input.mapstr1);
             set.Add("rightkeys=" + Input.mapstr2);
+            set.Add("InputStatusLeft=" + InputStatus.Left.ToString());
+            set.Add("InputStatusTop=" + InputStatus.Top.ToString());
             File.WriteAllLines(Input.SettingPath, set.ToArray(), Encoding.UTF8);//保存配置
             return true;
 
@@ -1011,21 +1016,40 @@ namespace Core.Win
                             {
                                 if (Input.IsChinese == 1 && !Input.IsShiftEnglishMode)
                                 {
-                                    // 中文状态下按下Shift键，进入Shift英文输入模式
-                                    Input.IsShiftEnglishMode = true;
-                                    Input.IsFirstCharInShiftMode = true;
+                                    // 判断是否是字母键（只有字母才进入英文输入模式）
+                                    bool isLetterKey = (keyData >= Keys.A && keyData <= Keys.Z);
                                     
-                                    if (InputStatus.inputstr.Length > 0 && !InputStatusFrm.LSView)
+                                    if (isLetterKey)
                                     {
-                                        // 只有候选没有上屏时（LSView == false），先上屏首选，然后发送字母
-                                        InputStatus.ShangPing(1);
-                                        InputStatus.Clear();
+                                        // 只有字母键才进入Shift英文输入模式
+                                        Input.IsShiftEnglishMode = true;
+                                        Input.IsFirstCharInShiftMode = true;
+                                        
+                                        if (InputStatus.inputstr.Length > 0 && !InputStatusFrm.LSView)
+                                        {
+                                            // 只有候选没有上屏时（LSView == false），先上屏首选，然后发送字母
+                                            InputStatus.ShangPing(1);
+                                            InputStatus.Clear();
+                                        }
+                                        else if (InputStatus.inputstr.Length > 0 && InputStatusFrm.LSView)
+                                        {
+                                            // 当已经上屏但候选框还在时（LSView == true），只发送字母，不上屏首选
+                                            // 清空输入缓存，避免后续选重操作有问题
+                                            InputStatus.Clear();
+                                        }
+                                        
+                                        // 首字母大写
+                                        string shiftOutputStr = keystring.ToUpper();
+                                        InputStatusFrm.SendText(shiftOutputStr, "", Input.IsChinese == 2);
+                                        // 重置首字母标志，避免第二个字母也大写
+                                        Input.IsFirstCharInShiftMode = false;
+                                        return 1;
                                     }
-                                    else if (InputStatus.inputstr.Length > 0 && InputStatusFrm.LSView)
+                                    else
                                     {
-                                        // 当已经上屏但候选框还在时（LSView == true），只发送字母，不上屏首选
-                                        // 清空输入缓存，避免后续选重操作有问题
-                                        InputStatus.Clear();
+                                        // 非字母键（如符号），直接上屏后返回中文状态
+                                        InputStatusFrm.SendText(keystring, "", Input.IsChinese == 2);
+                                        return 1;
                                     }
                                 }
                                 
@@ -2227,7 +2251,7 @@ namespace Core.Win
                     else if (Input.IsChinese == 1 && InputStatus.inputstr.Length == 0
                         && (nostr.Length == 0 || nostr == "　")
                         && InputStatusFrm.StrLength(inputss) == 1 && inputss != "'"
-                        && !InputMode.closebj && InputMode.onesp)
+                        && !InputMode.closebj && InputMode.onesp && !Input.IsShiftEnglishMode)
                     {
                         if (srspace) inputss += "~";
                         InputStatusFrm.SendText(Input.GetLROne(inputss, hleft, Input.IsPresAltPos), inputss);
@@ -2236,7 +2260,7 @@ namespace Core.Win
                         return;
                     }
                     else if (Input.IsChinese == 1 && InputStatus.inputstr.Length == 0 && nostr == "~" && inputss.Length == 1
-                        && inputss != "'")
+                        && inputss != "'" && !Input.IsShiftEnglishMode)
                     {
                         InputStatusFrm.SendText(Input.GetLROne(nostr + inputss, hleft, Input.IsPresAltPos), inputss);
                         if (InputStatusFrm.LastLinkString.Length > 2 || (Input.IsChinese == 0 && InputStatusFrm.LastLinkString.Length > 0))
@@ -2736,18 +2760,45 @@ namespace Core.Win
                             if (curPoint.X < this.Left + this.Width + 10)
                                 curPoint.X = this.Left + this.Width + 10;
 
-                        }
+                        } else {
+                        int offpos = (int)(gInfo.rcCaret.Bottom - gInfo.rcCaret.Top);
+
+                        if (offpos < 5)
+                            curPoint.Y += (int)(gInfo.cbSize) + 30 + 2;
                         else
-                        {
-                            int offpos = (int)(gInfo.rcCaret.Bottom - gInfo.rcCaret.Top);
-
-                            if (offpos < 5)
-                                curPoint.Y += (int)(gInfo.cbSize) + 30 + 2;
-                            else
-                                curPoint.Y += offpos + 3;
-                        }
-
+                            curPoint.Y += offpos + 3;
                     }
+
+                    // 检查并调整位置，确保不超出屏幕边界
+                    int screenWidth = Screen.PrimaryScreen.WorkingArea.Width;
+                    int screenHeight = Screen.PrimaryScreen.WorkingArea.Height;
+                    int statusWidth = InputStatus.Width;
+                    int statusHeight = InputStatus.Height;
+
+                    // 调整水平位置
+                    if (curPoint.X + statusWidth > screenWidth) {
+                        curPoint.X = screenWidth - statusWidth - 10;
+                    }
+                    if (curPoint.X < 10) {
+                        curPoint.X = 10;
+                    }
+
+                    // 调整垂直位置
+                    if (curPoint.Y + statusHeight > screenHeight) {
+                        // 如果光标下方空间不足，尝试放在光标上方
+                        int aboveCursorY = (int)gInfo.rcCaret.Top - statusHeight - 10;
+                        if (aboveCursorY >= 10) {
+                            curPoint.Y = aboveCursorY;
+                        } else {
+                            // 如果上方也不够，放在屏幕底部
+                            curPoint.Y = screenHeight - statusHeight - 10;
+                        }
+                    }
+                    if (curPoint.Y < 10) {
+                        curPoint.Y = 10;
+                    }
+
+                }
 
                 }
                 else
@@ -2803,8 +2854,6 @@ namespace Core.Win
                         InputStatus.Top = this.Top + 5;
                     }
                 }
-                // 保存当前位置作为下一次的默认位置
-                InputStatus.SaveCurrentPosition();
             }
             else
             {
