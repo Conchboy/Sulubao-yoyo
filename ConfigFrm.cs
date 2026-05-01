@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using Core.Base;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using Core.Base;
 using Core.Comm;
 using System;
 using System.Collections.Generic;
@@ -206,11 +206,12 @@ namespace Core.Win
             InputMode.SkinIndex = this.comboBox1.SelectedIndex;
             if (this.comboBox1.SelectedIndex == 0)
             {
-                InputMode.SkinBack = Color.FromArgb(22, 79, 141);//背景色
-                InputMode.Skinbordpen = Color.Gray;//边框色
-                InputMode.Skinbstring = Color.White;//字体颜色
-                InputMode.Skinbcstring = Color.Orange;//提示补码颜色
-                InputMode.Skinfbcstring = Color.Yellow;//第一候选框字体颜色
+                // 默认 - 孤寺配色
+                InputMode.SkinBack = Color.FromArgb(68, 68, 68);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(80, 80, 80);//边框色
+                InputMode.Skinbstring = Color.FromArgb(232, 243, 246);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(130, 230, 202);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(200, 255, 220);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -219,12 +220,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 1)
             {
-                //清风
-                InputMode.SkinBack = Color.FromArgb(241, 241, 245);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(205, 205, 250);//边框色
-                InputMode.Skinbstring = Color.FromArgb(58, 0, 111);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(128, 0, 0);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(0, 145, 0);//第一候选框字体颜色
+                //清风 - 清新薄荷绿渐变
+                InputMode.SkinBack = Color.FromArgb(240, 248, 250);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(100, 180, 160);//边框色
+                InputMode.Skinbstring = Color.FromArgb(50, 80, 70);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(200, 100, 80);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(60, 150, 130);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -232,12 +233,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 2)
             {
-                //安卓
-                InputMode.SkinBack = Color.FromArgb(162, 192, 83);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(162, 192, 83);//边框色
+                //安卓 - Material Design青绿色
+                InputMode.SkinBack = Color.FromArgb(3, 169, 244);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(0, 150, 136);//边框色
                 InputMode.Skinbstring = Color.FromArgb(255, 255, 255);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(255, 255, 255);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(255, 255, 255);//第一候选框字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(255, 235, 59);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(255, 193, 7);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -245,12 +246,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 3)
             {
-                //星际争霸
-                InputMode.SkinBack = Color.FromArgb(38, 38, 38);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(38, 38, 38);//边框色
-                InputMode.Skinbstring = Color.FromArgb(85, 187, 48);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(168, 255, 96);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(168, 255, 96);//第一候选框字体颜色
+                //星际争霸 - 暗蓝科技风格
+                InputMode.SkinBack = Color.FromArgb(10, 25, 45);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(100, 200, 255);//边框色
+                InputMode.Skinbstring = Color.FromArgb(150, 220, 255);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(100, 255, 218);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(0, 255, 136);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -258,12 +259,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 4)
             {
-                //小鹤
-                InputMode.SkinBack = Color.FromArgb(244, 244, 244);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(205, 205, 250);//边框色
-                InputMode.Skinbstring = Color.FromArgb(0, 128, 255);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(0, 128, 255);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(0, 128, 255);//第一候选框字体颜色
+                //小鹤 - 优雅紫色渐变
+                InputMode.SkinBack = Color.FromArgb(250, 245, 255);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(156, 39, 176);//边框色
+                InputMode.Skinbstring = Color.FromArgb(74, 20, 140);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(103, 58, 183);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(233, 30, 99);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -271,12 +272,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 5)
             {
-                //战争
-                InputMode.SkinBack = Color.FromArgb(95, 108, 99);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(95, 108, 99);//边框色
-                InputMode.Skinbstring = Color.FromArgb(220, 254, 171);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(220, 254, 171);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(220, 254, 171);//第一候选框字体颜色
+                //暗堂 - Dark Temple
+                InputMode.SkinBack = Color.FromArgb(34, 34, 34);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(34, 34, 34);//边框色
+                InputMode.Skinbstring = Color.FromArgb(216, 227, 230);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(96, 108, 255);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(146, 246, 218);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -284,12 +285,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 6)
             {
-                // 
-                InputMode.SkinBack = Color.FromArgb(213, 63, 24);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(213, 63, 24);//边框色
-                InputMode.Skinbstring = Color.FromArgb(255, 255, 255);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(255, 255, 255);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(255, 255, 255);//第一候选框字体颜色
+                // Dota 2 - 暗红黑金属风格
+                InputMode.SkinBack = Color.FromArgb(30, 15, 15);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(180, 60, 60);//边框色
+                InputMode.Skinbstring = Color.FromArgb(240, 200, 200);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(255, 107, 107);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(255, 87, 34);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -297,25 +298,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 7)
             {
-                // 
-                InputMode.SkinBack = Color.FromArgb(65, 122, 208);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(65, 122, 208);//边框色
-                InputMode.Skinbstring = Color.FromArgb(0, 0, 0);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(0, 0, 0);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(255, 255, 255);//第一候选框字体颜色
-                this.groupBox2.BackColor = InputMode.SkinBack;
-                this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
-                this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
-                this.btnSkinfbcstring.ForeColor = InputMode.Skinfbcstring;
-            }
-            else if (this.comboBox1.SelectedIndex == 7)
-            {
-                // 
-                InputMode.SkinBack = Color.FromArgb(65, 122, 208);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(65, 122, 208);//边框色
-                InputMode.Skinbstring = Color.FromArgb(0, 0, 0);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(0, 0, 0);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(255, 255, 255);//第一候选框字体颜色
+                // 谷歌/Google - 清新多彩
+                InputMode.SkinBack = Color.FromArgb(255, 255, 255);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(219, 68, 55);//边框色
+                InputMode.Skinbstring = Color.FromArgb(32, 33, 36);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(26, 115, 232);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(66, 133, 244);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -323,12 +311,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 8)
             {
-                // 
-                InputMode.SkinBack = Color.FromArgb(37, 37, 37);//背景色
-                InputMode.Skinbordpen = Color.FromArgb(131, 151, 62);//边框色
-                InputMode.Skinbstring = Color.FromArgb(78, 183, 124);//字体颜色
-                InputMode.Skinbcstring = Color.FromArgb(217, 217, 0);//提示补码颜色
-                InputMode.Skinfbcstring = Color.FromArgb(255, 255, 255);//第一候选框字体颜色
+                // 空明 - 深色模式
+                InputMode.SkinBack = Color.FromArgb(18, 18, 18);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(60, 60, 60);//边框色
+                InputMode.Skinbstring = Color.FromArgb(220, 220, 220);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(150, 200, 255);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(100, 255, 218);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;
@@ -336,12 +324,12 @@ namespace Core.Win
             }
             else if (this.comboBox1.SelectedIndex == 9)
             {
-                // 
-                InputMode.SkinBack = Color.White;//背景色
-                InputMode.Skinbordpen = Color.FromArgb(131, 151, 62);//边框色
-                InputMode.Skinbstring = Color.Black;//字体颜色
-                InputMode.Skinbcstring = Color.OrangeRed;//提示补码颜色
-                InputMode.Skinfbcstring = Color.Blue;//第一候选框字体颜色
+                // 黑白 - 极简黑白
+                InputMode.SkinBack = Color.FromArgb(250, 250, 250);//背景色
+                InputMode.Skinbordpen = Color.FromArgb(180, 180, 180);//边框色
+                InputMode.Skinbstring = Color.FromArgb(30, 30, 30);//字体颜色
+                InputMode.Skinbcstring = Color.FromArgb(100, 100, 100);//提示补码颜色
+                InputMode.Skinfbcstring = Color.FromArgb(0, 0, 0);//第一候选框字体颜色
                 this.groupBox2.BackColor = InputMode.SkinBack;
                 this.btnSkinbstring.ForeColor = InputMode.Skinbstring;
                 this.btnSkinbcstring.ForeColor = InputMode.Skinbcstring;

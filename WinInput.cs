@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -870,6 +870,8 @@ namespace Core.Win
                         if (InputStatus.inputstr.Length > 0 && (keyData == Keys.PageDown || keyData == Keys.PageUp))
                         {
                             InputStatus.pinyipos = 0;
+                            // 翻页时重置聚焦
+                            InputStatus.focusIndex = 0;
 
                             if (keyData == Keys.PageDown)
                                 InputStatus.NextPage();
@@ -884,6 +886,8 @@ namespace Core.Win
                         if (InputStatus.inputstr.Length > 0 && (keyData == Keys.OemMinus || keyData == Keys.Oemplus))
                         {
                             InputStatus.pinyipos = 0;
+                            // 翻页时重置聚焦
+                            InputStatus.focusIndex = 0;
 
                             if (keyData == Keys.Oemplus)
                                 InputStatus.NextPage();
@@ -892,6 +896,46 @@ namespace Core.Win
                             keybjnum++;
                             return 1;
                         }
+                    }
+                    #endregion
+
+                    #region 上下键移动聚焦
+                    if (InputStatus.inputstr.Length > 0 && (keyData == Keys.Up || keyData == Keys.Down))
+                    {
+                        // 计算当前页的候选数量
+                        int currentPageCount = 0;
+                        if (InputStatusFrm.cachearry != null)
+                        {
+                            for (int i = 0; i < InputStatusFrm.cachearry.Length; i++)
+                            {
+                                if (!string.IsNullOrEmpty(InputStatusFrm.cachearry[i]))
+                                    currentPageCount++;
+                            }
+                        }
+
+                        if (currentPageCount > 0)
+                        {
+                            if (keyData == Keys.Down)
+                            {
+                                // 向下移动，到最后一个则到第一个
+                                InputStatus.focusIndex++;
+                                if (InputStatus.focusIndex >= currentPageCount)
+                                    InputStatus.focusIndex = 0;
+                            }
+                            else if (keyData == Keys.Up)
+                            {
+                                // 向上移动，到第一个则到最后一个
+                                InputStatus.focusIndex--;
+                                if (InputStatus.focusIndex < 0)
+                                    InputStatus.focusIndex = currentPageCount - 1;
+                            }
+                            
+                            // 重绘
+                            InputStatus.Refresh();
+                        }
+
+                        keybjnum++;
+                        return 1;
                     }
                     #endregion
                     if (keyData == Keys.Right)
@@ -1383,10 +1427,29 @@ namespace Core.Win
 
                 return 0;
             }
-            else if ((InputStatus.inputstr.Length > 0 || InputStatusFrm.Dream) && (key == Keys.Enter || key == Keys.Escape))
+            else if ((InputStatus.inputstr.Length > 0 || InputStatusFrm.Dream) && key == Keys.Escape)
             {
                 InputStatusFrm.Dream = false;
                 InputStatusFrm.LastLinkString = string.Empty;
+                InputStatus.Clear();
+                return -1;
+            }
+            else if (InputStatus.inputstr.Length > 0 && key == Keys.Enter)
+            {
+                // 回车键选择当前聚焦的候选项
+                int selectIndex = InputStatus.focusIndex + 1;
+                InputStatus.ShangPing(selectIndex);
+                
+                // 调频
+                if (InputStatus.inputstr.Length > 0)
+                {
+                    Task us = new Task(() =>
+                    {
+                        Input.UpdatePos(InputStatus.inputstr, selectIndex, InputStatus.PageNum, InputStatus.PageSize);
+                    });
+                    us.Start();
+                }
+
                 InputStatus.Clear();
                 return -1;
             }
@@ -1481,16 +1544,16 @@ namespace Core.Win
                     
                     if (keychar.Length > 0 && "1234567890".IndexOf(keychar) >= 0)
                     {
-
-                        //数字选重
-                        InputStatus.ShangPing(int.Parse(keychar));
+                        // 数字选重
+                        int selectIndex = int.Parse(keychar);
+                        InputStatus.ShangPing(selectIndex);
 
                         // 数字选码时进行调频
                         if (InputStatus.inputstr.Length > 0)
                         {
                             Task us = new Task(() =>
                             {
-                                Input.UpdatePos(InputStatus.inputstr, int.Parse(keychar), InputStatus.PageNum, InputStatus.PageSize);
+                                Input.UpdatePos(InputStatus.inputstr, selectIndex, InputStatus.PageNum, InputStatus.PageSize);
                             });
                             us.Start();
                         }
@@ -2267,7 +2330,19 @@ namespace Core.Win
             if (InputStatus.inputstr.Length > 0 && queuecount == 1 && _lkey.KeyData == Keys.Space)
             {
                 //当是单独空格的时候
-                InputStatus.ShangPing(1);
+                int selectIndex = InputStatus.focusIndex + 1;
+                InputStatus.ShangPing(selectIndex);
+                
+                // 调频
+                if (InputStatus.inputstr.Length > 0)
+                {
+                    Task us = new Task(() =>
+                    {
+                        Input.UpdatePos(InputStatus.inputstr, selectIndex, InputStatus.PageNum, InputStatus.PageSize);
+                    });
+                    us.Start();
+                }
+
                 InputStatus.Clear();
 
                 var objen = Input.mapkeys.Find(f => f.ZM == "aseclp");
