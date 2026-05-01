@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -981,8 +981,7 @@ namespace Core.Win
                         {
                             Input.IsShiftEnglishMode = false;
                             Input.IsFirstCharInShiftMode = true;
-                            // 发送回车键
-                            InputStatusFrm.SendText("\r", "", Input.IsChinese == 2);
+                            // 只切换状态，不发送回车键
                             return 1;
                         }
                         
@@ -996,16 +995,51 @@ namespace Core.Win
                         // 处理其他按键
                         if (keystring.Length > 0)
                         {
+                            // 判断是否是字母键
+                            bool isLetterKey = (keyData >= Keys.A && keyData <= Keys.Z);
+                            
                             // 处理首字母大写
                             string outputStr = keystring;
-                            if (Input.IsFirstCharInShiftMode)
+                            if (Input.IsFirstCharInShiftMode && isLetterKey)
                             {
                                 outputStr = outputStr.ToUpper();
                                 Input.IsFirstCharInShiftMode = false;
                             }
                             
-                            // 无论是否有候选，都发送字母
-                            InputStatusFrm.SendText(outputStr, "", Input.IsChinese == 2);
+                            // 如果有候选，先上屏首选，再上屏符号
+                            bool useFullWidth = false;
+                            if (!isLetterKey && InputStatus.inputstr.Length > 0 && !InputStatusFrm.LSView)
+                            {
+                                // 只有候选没有上屏时（LSView == false），先上屏首选，然后发送符号
+                                InputStatus.ShangPing(1);
+                                InputStatus.Clear();
+                                useFullWidth = true;
+                            }
+                            else if (!isLetterKey && InputStatus.inputstr.Length > 0 && InputStatusFrm.LSView)
+                            {
+                                // 当已经上屏但候选框还在时（LSView == true），清空输入缓存
+                                InputStatus.Clear();
+                                useFullWidth = true;
+                            }
+                            
+                            // 如果有候选框，使用全角标点
+                            if (!isLetterKey && useFullWidth)
+                            {
+                                // 临时设置全角标点
+                                bool originalIsCnBd = Input.IsCnBd;
+                                Input.IsCnBd = true;
+                                // 获取全角符号
+                                string fullWidthKeyString = Input.CheckKeysString(keyData);
+                                // 恢复原设置
+                                Input.IsCnBd = originalIsCnBd;
+                                // 上屏全角符号
+                                InputStatusFrm.SendText(fullWidthKeyString, "", Input.IsChinese == 2);
+                            }
+                            else
+                            {
+                                // 正常情况，发送半角字符
+                                InputStatusFrm.SendText(outputStr, "", Input.IsChinese == 2);
+                            }
                             return 1;
                         }
                     }
@@ -1047,8 +1081,37 @@ namespace Core.Win
                                     }
                                     else
                                     {
-                                        // 非字母键（如符号），直接上屏后返回中文状态
-                                        InputStatusFrm.SendText(keystring, "", Input.IsChinese == 2);
+                                        // 非字母键（如符号），先上屏首选，再上屏符号
+                                        if (InputStatus.inputstr.Length > 0 && !InputStatusFrm.LSView)
+                                        {
+                                            // 只有候选没有上屏时（LSView == false），先上屏首选，然后发送符号
+                                            InputStatus.ShangPing(1);
+                                            InputStatus.Clear();
+                                        }
+                                        else if (InputStatus.inputstr.Length > 0 && InputStatusFrm.LSView)
+                                        {
+                                            // 当已经上屏但候选框还在时（LSView == true），清空输入缓存
+                                            InputStatus.Clear();
+                                        }
+                                        // 如果有候选框，使用全角标点顶屏首选后上屏全角标点
+                                        bool useFullWidth = InputStatus.inputstr.Length > 0;
+                                        if (useFullWidth)
+                                        {
+                                            // 临时设置全角标点
+                                            bool originalIsCnBd = Input.IsCnBd;
+                                            Input.IsCnBd = true;
+                                            // 获取全角符号
+                                            string fullWidthKeyString = Input.CheckKeysString(keyData);
+                                            // 恢复原设置
+                                            Input.IsCnBd = originalIsCnBd;
+                                            // 上屏全角符号
+                                            InputStatusFrm.SendText(fullWidthKeyString, "", Input.IsChinese == 2);
+                                        }
+                                        else
+                                        {
+                                            // 没有候选框，直接上屏半角符号
+                                            InputStatusFrm.SendText(keystring, "", Input.IsChinese == 2);
+                                        }
                                         return 1;
                                     }
                                 }
@@ -1381,7 +1444,7 @@ namespace Core.Win
             lastPressedKey = key;
             // 当候选框出现且;'/选重功能开启时，暂时不执行选重操作
             // 而是将键加入队列，在KeyUp事件中判断是否是并击组合
-            if (InputStatus.inputstr.Length > 0 && InputMode.semicolonSelect && (key == Keys.OemSemicolon || key == Keys.Oem7))
+            if (InputStatus.inputstr.Length > 0 && InputMode.semicolonSelect && (key == Keys.OemSemicolon || key == Keys.Oem7) && !Input.IsShiftEnglishMode)
             {
                 // 让键正常进入队列，在KeyUp事件中处理
                 return 1;
@@ -1525,7 +1588,7 @@ namespace Core.Win
                 }
             }
             // 如果是单独的;或'键，执行选重操作
-            if (isSingleSemicolonKey && InputStatus.inputstr.Length > 0 && InputMode.semicolonSelect)
+            if (isSingleSemicolonKey && InputStatus.inputstr.Length > 0 && InputMode.semicolonSelect && !Input.IsShiftEnglishMode)
             {
                 // 清空队列
                 Comm.Cache.KeyQueue.Clear();
